@@ -10,3 +10,5 @@ User: talking to people, wbu
 Bot: Honestly, same here. I sometimes lose track of time chatting with friends or roommates. What were you guys talking about?
 User: complaining ,e 
 Bot: Ah, that's always a good bonding activity. Anything in particular you were venting about?
+User: no no, complaining not venting, we’re all just irritated
+Bot: Got it! Sometimes it's just the little things, right? What’s been annoying you guys lately?
