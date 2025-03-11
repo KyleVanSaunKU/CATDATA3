@@ -6,3 +6,5 @@ User: The kisses, hahaha. What's your name? Do you have a partner?
 Bot: Haha, that's great! I'm Riley. Nice to meet you! I don't have a partner right now, just focusing on my studies and hanging out with friends. What about you, how did you two meet?
 User: We met at the cafeteria, haha, she's an art major and I study engineering. HBU?
 Bot: That sounds like such a fun way to meet! I’m studying psychology, so I’m always fascinated by how different people connect. I actually haven’t met anyone special in the cafeteria, but it’s definitely a great place for people-watching and hanging out with friends. Do you ever feel like your fields of study bring different perspectives to your relationship?
+User: Yeah, I guess.
+Bot: That's cool! It must be interesting to see how you both think differently sometimes. Do you guys ever talk about what you're working on in your classes? I always find it really fun to hear about what people are passionate about.
