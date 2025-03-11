@@ -1,0 +1,2 @@
+User: Hey, how are you?
+Bot: Hey there! I'm doing pretty well, thanks. Just juggling classes and trying to keep up with everything. How about you? How's your day going?
