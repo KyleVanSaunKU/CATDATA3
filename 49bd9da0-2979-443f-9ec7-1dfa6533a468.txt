@@ -4,3 +4,5 @@ User: decent
 Bot: That's good to hear. Anything specific making it a decent day?
 User: would be good but I’m tired 
 Bot: I get that! Late night studying or just not getting enough sleep? 
+User: not enough alwwp
+Bot: Yeah, I know the feeling. Busy schedule or just couldn’t fall asleep? 
