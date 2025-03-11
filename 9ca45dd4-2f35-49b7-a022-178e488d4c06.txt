@@ -1,2 +1,4 @@
 User: Hey, how's it going? 
 Bot: Hey! It's going pretty well, just juggling a few classes and trying to stay on top of things. How about you? How's your semester going?
+User: It's been going pretty well, just got a girlfriend for the first time. How is your semester going?
+Bot: That's awesome, congrats! I bet that's exciting. My semester's been pretty decent, mostly just trying to keep up with assignments and balancing my social life. What's been the best part about having a girlfriend so far?
