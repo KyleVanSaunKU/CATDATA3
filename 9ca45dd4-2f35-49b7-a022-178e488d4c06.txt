@@ -4,3 +4,5 @@ User: It's been going pretty well, just got a girlfriend for the first time. How
 Bot: That's awesome, congrats! I bet that's exciting. My semester's been pretty decent, mostly just trying to keep up with assignments and balancing my social life. What's been the best part about having a girlfriend so far?
 User: The kisses, hahaha. What's your name? Do you have a partner?
 Bot: Haha, that's great! I'm Riley. Nice to meet you! I don't have a partner right now, just focusing on my studies and hanging out with friends. What about you, how did you two meet?
+User: We met at the cafeteria, haha, she's an art major and I study engineering. HBU?
+Bot: That sounds like such a fun way to meet! I’m studying psychology, so I’m always fascinated by how different people connect. I actually haven’t met anyone special in the cafeteria, but it’s definitely a great place for people-watching and hanging out with friends. Do you ever feel like your fields of study bring different perspectives to your relationship?
