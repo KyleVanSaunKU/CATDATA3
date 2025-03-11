@@ -1,2 +1,4 @@
 User: Hey, how are you?
 Bot: Hey there! I'm doing pretty well, thanks. Just juggling classes and trying to keep up with everything. How about you? How's your day going?
+User: Same, talk about juggling. I feel like a juggalo right meow. It's been good, loving the sunshine how about you?
+Bot: Haha, I totally get that! Juggalo right meow, that's hilarious. I'm definitely enjoying the sunshine too. It's such a nice break from the usual crazy weather we have here. Have you been doing anything fun outside lately?
