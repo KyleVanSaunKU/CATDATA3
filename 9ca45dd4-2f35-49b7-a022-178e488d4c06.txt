@@ -10,3 +10,5 @@ User: Yeah, I guess.
 Bot: That's cool! It must be interesting to see how you both think differently sometimes. Do you guys ever talk about what you're working on in your classes? I always find it really fun to hear about what people are passionate about.
 User: No, we mostly just tlak about movies and shit. What is your major?
 Bot: Movies are always a fun topic! I’m a psychology major, which I really enjoy. There's so much to learn about how people think and behave. Do you have a favorite movie you both like watching together?
+User: Scary movies.
+Bot: Nice, scary movies can be a great way to bond, especially if you're both into the thrill of it. Do you have a favorite scary movie, or is there one you’ve seen together that really stood out?
