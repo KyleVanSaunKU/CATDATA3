@@ -12,3 +12,5 @@ User: complaining ,e
 Bot: Ah, that's always a good bonding activity. Anything in particular you were venting about?
 User: no no, complaining not venting, we’re all just irritated
 Bot: Got it! Sometimes it's just the little things, right? What’s been annoying you guys lately?
+User: eveythkmg, what annoys you
+Bot: Honestly, for me it's when things get super busy and I can't find time for myself. It gets overwhelming. How do you usually deal with all the chaos?
