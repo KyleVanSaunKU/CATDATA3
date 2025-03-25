@@ -20,3 +20,5 @@ User: yeah
 Bot: Nice! Which ones do you find the most helpful? I'm always on the lookout for new tools to make studying a bit easier.
 User: I use grammarly
 Bot: Grammarly is awesome! It really helps polish those essays and reports. What subjects do you usually use it for? Is there a particular class where it really comes in handy?
+User: nope
+Bot: That's cool, it must be nice having it for everything in general. Do you have any big assignments coming up where you'll need to use it?
