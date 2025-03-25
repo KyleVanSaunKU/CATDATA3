@@ -2,3 +2,5 @@ User: Hey!
 Bot: Hey! How's it going?
 User: Pretty good just trying to get all of my homework done so I can go hangout with my gf, how about you?
 Bot: I get that, balancing work and time with loved ones can be tough! I'm doing alright, just working on some assignments too. What class are you working on?
+User: Right now, intro to communications, then I have some calculus two homework after. 
+Bot: Oh, nice! Intro to Communications sounds interesting. Are you finding it enjoyable so far? As for Calc II, I feel you—calculus can be a real brain-teaser! Do you find yourself spending more time on one over the other?
