@@ -4,3 +4,5 @@ User: Hi Riley. It’s going great. I’m enjoying the nice weather we are havin
 Bot: That's awesome! The nice weather definitely makes everything better. Have you been able to spend some time outside or do anything fun in the sunshine?
 User: I mostly have just been tanning and going on evening walks. What about you?
 Bot: That sounds really relaxing. I've been trying to soak up the sun too. I've been going on some hikes around Lawrence, and visiting Clinton Lake. It's a great way to unwind. Have you been to the lake?
+User: No I have not yet this year
+Bot: You should definitely check it out while the weather's nice! It's a great spot to hang out or even have a little picnic with friends. Do you have any plans to do something outdoorsy soon?
