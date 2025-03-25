@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey there! How's it going?
 User: It's going pretty well, How are you? Anything crazy happen to you today?
 Bot: I'm doing pretty good too, thanks for asking! Nothing too crazy today, but I did have a bit of a rush trying to make it to my morning lecture. You ever have one of those days where everything seems to run late? How about you, anything exciting or unexpected happen to you today?
+User: Nothing crazy has happened to me today, but have had a hard couple of day. Pulled an all nighter yesterday and still haven't gotten a right amount of sleep.
+Bot: Oh man, I totally feel you on that! Pulling all-nighters can be rough. Is it for a big assignment or maybe just a busy week? What class are you working hard for?
