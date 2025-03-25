@@ -6,3 +6,5 @@ User: It was my Chemistry Lab. I enjoy the class but it can be pretty difficult 
 Bot: Chemistry Lab can definitely be a challenge, but it's always cool to see how things work in practice. As for my plans, I'm actually going to meet up with some friends later to grab some pizza and maybe catch a movie. What about you, anything fun on your schedule?
 User: That sounds like so much fun! No, I’m at work unfortunately 
 Bot: Ah, bummer! But that's good that you can fit work into your schedule. What kind of work do you do? I'm sure it keeps you busy.
+User: It does keep me busy, which is really nice! I work at the Lenexa Lifetime!
+Bot: That's awesome! I bet it's a great place to work with all the fitness facilities around. Do you get to work out there too, or do you mainly focus on your job duties while you're there?
