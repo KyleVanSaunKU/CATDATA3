@@ -8,3 +8,5 @@ User: just going to class and hanging with friends
 Bot: That sounds fun! What class did you have today?
 User: I had bio and psych
 Bot: Cool, those both sound really interesting! Do you have a favorite between the two?
+User: I really like my bio class
+Bot: That's awesome! Is it a general biology class, or is it focused on a specific area?
