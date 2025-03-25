@@ -14,3 +14,5 @@ User: both
 Bot: Cool, it's fun exploring different places while having a go-to spot. Do you and your boyfriend try to find new spots when you go out to eat, or do you tend to stick to favorites?
 User: both again , just depends what we are wanitng to do 
 Bot: That sounds like a good approach—keeps things interesting but also comforting. Do you guys ever get adventurous with trying new foods, or are you more about the classic options?
+User: i try new things he sticks to the same 
+Bot: That's cool! It's great to have that balance between trying new things and enjoying reliable favorites. What's something new you've tried recently that really stood out?
