@@ -6,3 +6,5 @@ User: Oh dope! The weather has be so good some days (and crumby the others). How
 Bot: Yeah, right? It's been kind of all over the place! I'm doing well though. Just trying to keep up with schoolwork now that classes are back in full swing. How are you doing? Settling back into the routine?
 User: Yeah, same. I have this Psych class that is killing me. Illardi, have you ever had him? 
 Bot: Oh man, I've heard he's tough but really smart. I haven't taken a class with him, but a friend of mine did last semester and said it was pretty intense. How are you finding the class? Is it the exams, or just the amount of material?
+User: Both! WHat is the hardest class you've taken? 
+Bot: Honestly, I think Organic Chemistry was the toughest for me. There was just so much to memorize with all the different reactions, and the exams were pretty intense. I had to put in a lot of extra study hours to keep up. What about you, is your Psych class the hardest you've taken, or have there been others that were just as challenging?
