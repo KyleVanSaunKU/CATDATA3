@@ -6,3 +6,5 @@ User: I am from Kansas City as well
 Bot: That's awesome! What part of Kansas City are you from? I'm on the Kansas side. Do you go back often?
 User: I am from the Kansas side as well. I go back weekly. What is your major?
 Bot: That's cool, maybe we've crossed paths and didn't even know it! I'm majoring in psychology. It's really intriguing to learn about human behavior and mental processes. What about you? What are you majoring in?
+User: I am majoring in finance. Where do you want to live after college and what job do you want
+Bot: Finance sounds really practical, that's great! As for after college, I'm considering staying in the Midwest, maybe somewhere like Chicago, where there are lots of opportunities in psychology-related fields. It would be cool to work as a clinical psychologist or perhaps in research. How about you? Do you have any plans or dream jobs after graduation?
