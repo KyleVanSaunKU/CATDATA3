@@ -10,3 +10,5 @@ User: Since I was a kid, I've enjoyed it. Are you a freshman as well?
 Bot: Yeah, I'm a freshman. It's been a pretty big adjustment, but I'm really enjoying it so far. Have you found any favorite spots on campus yet? Or anything particular you're looking forward to this year?
 User: I love taking walks around campus, and seeing the student organizations on Wescoe beach. I work at the Wescoe underground hawk shop, so say hi sometime!
 Bot: That sounds really cool! I’ll definitely stop by and say hi sometime. I’ve seen the booths and activities at Wescoe Beach and love the energy there. Working at the Hawk Shop must be a fun way to meet people. Have you joined any student organizations yet?
+User: Yes! I joined SNAPS, the new poetry group!
+Bot: That's awesome! SNAPS sounds like a great place to express yourself and meet others with the same passion for poetry. Have you shared any of your own work there yet? 
