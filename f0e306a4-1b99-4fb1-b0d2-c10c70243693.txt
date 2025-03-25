@@ -10,3 +10,5 @@ User: Both! WHat is the hardest class you've taken?
 Bot: Honestly, I think Organic Chemistry was the toughest for me. There was just so much to memorize with all the different reactions, and the exams were pretty intense. I had to put in a lot of extra study hours to keep up. What about you, is your Psych class the hardest you've taken, or have there been others that were just as challenging?
 User: Who did you have for OChem? I don't have to take that as a COMS major. Not too much other that's been challenging.
 Bot: I took OChem with Professor Berkowitz. He was a great lecturer, but the material was just a lot to handle at times. Lucky you for not having to take it as a COMS major! How are you liking your major? Any favorite classes so far?
+User: It's so easy, I might as well play bball. WHat isyour major? 
+Bot: Sounds like a fun setup—easy major, lots of time for bball! I'm majoring in Biology, so it's been keeping me pretty busy with labs and everything. I'm hoping to maybe get into research or something health-related after I graduate. Have you thought about what you want to do after college?
