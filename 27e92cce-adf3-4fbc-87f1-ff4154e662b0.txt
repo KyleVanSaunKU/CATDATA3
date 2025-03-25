@@ -10,3 +10,5 @@ User: Whats your name
 Bot: I'm Riley. Nice to meet you! What's your name?
 User: Nate
 Bot: Great to meet you, Nate! So, what are you studying here at KU?
+User: Hello
+Bot: Hey again, Nate! What have you been up to? Any exciting projects or assignments lately?
