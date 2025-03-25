@@ -4,3 +4,5 @@ User: Good, where are you from?
 Bot: I'm originally from Kansas City. It's nice being somewhat close to home while I'm studying here at KU. How about you, where are you from?
 User: I am from Kansas City as well
 Bot: That's awesome! What part of Kansas City are you from? I'm on the Kansas side. Do you go back often?
+User: I am from the Kansas side as well. I go back weekly. What is your major?
+Bot: That's cool, maybe we've crossed paths and didn't even know it! I'm majoring in psychology. It's really intriguing to learn about human behavior and mental processes. What about you? What are you majoring in?
