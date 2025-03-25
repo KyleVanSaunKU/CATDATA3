@@ -12,3 +12,5 @@ User: I am working in wholesale insurance and living in Kansas City
 Bot: That sounds really solid! Staying in Kansas City can be great, especially if you enjoy the area and have built connections there. How did you get into working in wholesale insurance? It seems like a really interesting field with lots of potentials.
 User: I took course work in it and got to like it. How did you get into psycology
 Bot: That's awesome that you found a path you enjoy through coursework! For me, my interest in psychology started in high school when I took an introductory course. I was really fascinated by how the mind works and why people behave the way they do. It just kind of clicked with me, so I decided to pursue it further in college. Did you have a specific class or moment that made you want to go into finance or insurance?
+User: Yes, in my finance 408 work. What year in school are you
+Bot: Finance 408 must have been pretty impactful for you! I'm currently a junior, so it's an interesting time trying to balance coursework with thinking about what's next after graduation. Are you in your junior year as well or a different year?
