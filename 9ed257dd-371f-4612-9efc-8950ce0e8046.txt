@@ -18,3 +18,5 @@ User: i try new things he sticks to the same
 Bot: That's cool! It's great to have that balance between trying new things and enjoying reliable favorites. What's something new you've tried recently that really stood out?
 User: idrk i havent really tried anythign new recently 
 Bot: That's alright, sometimes it's nice to stick to what you already love. Maybe something interesting will come up soon. Do you have any plans this weekend where you might get the chance to try something new?
+User: no 
+Bot: That's totally fine, sometimes just having a chill weekend is the best. What do you usually like to do to relax when you don't have plans?
