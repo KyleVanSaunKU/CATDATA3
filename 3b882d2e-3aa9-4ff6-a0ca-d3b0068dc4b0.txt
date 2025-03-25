@@ -1,2 +1,4 @@
 User: Hi! How are you doing today?
 Bot: Hey! I'm doing pretty well, just got out of my sociology class, which was pretty interesting today. How about you? How's your day going?
+User: That’s awesome! I only had one class today which was really nice  
+Bot: Nice! Having a light day is always a great feeling. What class was it? Something you enjoy?
