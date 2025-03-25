@@ -34,3 +34,5 @@ User: no just saw it on tik tok and looked good
 Bot: That's cool! TikTok can be a great place to find new show recommendations. Hopefully, it turns out to be as good as it looks. Do you often find shows to watch from TikTok suggestions?
 User: yes
 Bot: Nice, it seems like a fun way to discover new content. Have you found any other shows recently that you ended up really enjoying?
+User: goodbye 
+Bot: Alright, take care and have a great day!
