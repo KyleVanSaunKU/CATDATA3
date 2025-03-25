@@ -20,3 +20,5 @@ User: I do not. Is tart work right away. What are your plans for the summer
 Bot: That makes sense to start work right away, especially if you've got an opportunity lined up. This summer, I'm planning to do an internship to gain some hands-on experience in psychology. Plus, I'm hoping to fit in a little bit of downtime—maybe a road trip or just spending time with family and friends. Do you have any plans to take a break before diving into your new job, even just for a weekend?
 User: I dive in the week after graduation
 Bot: Wow, you're really diving right in—and that shows commitment! I'm sure starting right away will help you hit the ground running and set you up for success. Do you feel prepared to make the transition from college to full-time work, or do you have any concerns?
+User: Goodbye
+Bot: Goodbye! It was nice chatting with you, and best of luck with your new job after graduation!
