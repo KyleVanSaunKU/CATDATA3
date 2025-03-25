@@ -22,3 +22,5 @@ User: I love studying the brain and how ut works
 Bot: That's really cool! The brain is such a complex and intriguing organ. Are there any particular aspects of the brain that you're most curious about?
 User: its basic functions and what it looks like when there is something wrong with it
 Bot: That's a really important area to study. Understanding those differences can make a huge impact on developing treatments and therapies. Have you had a chance to do any research or projects related to that yet?
+User: not yet, but I know I have research requirements for my majir
+Bot: That sounds like a great opportunity to dive deeper into the field! Once you start, it'll be fascinating to see what you discover. Is there a specific project or topic you hope to work on?
