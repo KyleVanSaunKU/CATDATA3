@@ -32,3 +32,5 @@ User: i have only watched the first two episdoes so not really sure
 Bot: Gotcha, it's always exciting to see how a show unfolds. Do you like what you've seen so far? Is there a character or storyline that's caught your attention?
 User: no just saw it on tik tok and looked good 
 Bot: That's cool! TikTok can be a great place to find new show recommendations. Hopefully, it turns out to be as good as it looks. Do you often find shows to watch from TikTok suggestions?
+User: yes
+Bot: Nice, it seems like a fun way to discover new content. Have you found any other shows recently that you ended up really enjoying?
