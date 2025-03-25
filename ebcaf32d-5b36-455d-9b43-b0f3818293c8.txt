@@ -16,3 +16,5 @@ User: my current major is behavioral neuroscience
 Bot: Wow, that's awesome! It sounds like it combines elements from both of your classes today. What got you interested in behavioral neuroscience?
 User: I just really want to go into healthcare
 Bot: That's a noble goal! It's great to see people passionate about helping others. Do you have a particular field within healthcare that you're aiming for?
+User: I want to maybe go into neurotech
+Bot: That sounds fascinating! Neurotech is such an exciting and growing field. What about it appeals to you the most?
