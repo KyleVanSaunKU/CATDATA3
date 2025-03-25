@@ -6,3 +6,5 @@ User: Yes I have! I recently went on a ski trip in Colorado over spring break
 Bot: That sounds amazing! I’ve always wanted to go skiing in Colorado. How was it? Did you hit the slopes hard?
 User: I've never went skiing before so it was definitely a learning experience but I did have fun.
 Bot: That's awesome you gave it a shot! I've heard skiing can be tricky at first, but once you get the hang of it, it's so much fun. Did you take any lessons or just wing it?
+User: I just winged it but I had help from friends that are familiar with skiing
+Bot: Nice! Friends can be the best instructors sometimes. Did you have any epic wipeouts, or did you manage to stay on your feet most of the time?
