@@ -6,3 +6,5 @@ User: Right now, intro to communications, then I have some calculus two homework
 Bot: Oh, nice! Intro to Communications sounds interesting. Are you finding it enjoyable so far? As for Calc II, I feel you—calculus can be a real brain-teaser! Do you find yourself spending more time on one over the other?
 User: What assignments are you working on? And most of my time definitely goes into physics and calc 2
 Bot: I'm currently juggling a lab report for my biology class and a short essay for my English class. Biology keeps me busy too, so I totally get spending lots of time with the sciences. Do you have a favorite topic in physics that you're working on right now?
+User: Not particularly, all the problems are solved pretty similarly so there isn't a huge difference. Biology sounds like a handful I have never been the best at it.
+Bot: That's true, once you get the hang of the problem-solving methods in physics, it's all about applying them. As for biology, it can be a lot, especially with all the memorization and details. How do you usually tackle subjects that you find a bit more challenging? Any go-to study habits?
