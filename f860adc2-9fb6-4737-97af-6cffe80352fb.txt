@@ -16,3 +16,5 @@ User: Yes, in my finance 408 work. What year in school are you
 Bot: Finance 408 must have been pretty impactful for you! I'm currently a junior, so it's an interesting time trying to balance coursework with thinking about what's next after graduation. Are you in your junior year as well or a different year?
 User: I am a senior. I am about top graduate 
 Bot: That's so exciting! Congratulations on almost being done. It's impressive to reach that point, and I'm sure it took a lot of hard work. Do you have any plans to celebrate after graduation?
+User: I do not. Is tart work right away. What are your plans for the summer
+Bot: That makes sense to start work right away, especially if you've got an opportunity lined up. This summer, I'm planning to do an internship to gain some hands-on experience in psychology. Plus, I'm hoping to fit in a little bit of downtime—maybe a road trip or just spending time with family and friends. Do you have any plans to take a break before diving into your new job, even just for a weekend?
