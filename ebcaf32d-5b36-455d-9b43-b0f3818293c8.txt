@@ -4,3 +4,5 @@ User: im ok
 Bot: That's good to hear. Are you having a busy day, or is it pretty chill?
 User: pretty chill
 Bot: Nice, sometimes those chill days are the best. What have you been up to today?
+User: just going to class and hanging with friends
+Bot: That sounds fun! What class did you have today?
