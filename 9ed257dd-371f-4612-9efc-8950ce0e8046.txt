@@ -20,3 +20,5 @@ User: idrk i havent really tried anythign new recently
 Bot: That's alright, sometimes it's nice to stick to what you already love. Maybe something interesting will come up soon. Do you have any plans this weekend where you might get the chance to try something new?
 User: no 
 Bot: That's totally fine, sometimes just having a chill weekend is the best. What do you usually like to do to relax when you don't have plans?
+User: watch movies or shows, play games with boyfriend
+Bot: Sounds like a relaxing way to spend your time! Any movies or shows you're currently into? Or are there any games you both enjoy playing together?
