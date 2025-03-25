@@ -4,3 +4,5 @@ User: Yeah, I study sports comm....which we don't really do. What kind are you i
 Bot: Sports comm sounds really exciting, even if it’s not the main focus. I'm more into media studies, but I think it's pretty cool how communications can branch out to so many areas. I definitely like it—it's interesting to see how powerful communication can be in different contexts. How did you get into sports comm? Do you have a favorite sport?
 User: Yes, I like Cricket. WBU?
 Bot: That's awesome! Cricket isn't as big here, but I've always thought it was really interesting. I'm into basketball—there's just something about the fast pace that keeps me hooked. Do you play cricket, or are you more into watching games?
+User: Basketball is DUMB. I only like silly sports, like slacklining. 
+Bot: Haha, slacklining sounds like a lot of fun! I've tried it a couple of times, but I'm definitely not very good at it. It's such a unique sport—do you do it often? What got you into it?
