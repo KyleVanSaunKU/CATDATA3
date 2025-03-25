@@ -10,3 +10,5 @@ User: caramlized onions
 Bot: Oh, that's a tasty choice! Caramelized onions add so much flavor. Do you usually go for a specific type of pizza or mix it up?
 User: both, depends on my mood 
 Bot: That makes sense, it's nice to have options. Do you have a favorite pizza place in town, or do you like trying different spots?
+User: both 
+Bot: Cool, it's fun exploring different places while having a go-to spot. Do you and your boyfriend try to find new spots when you go out to eat, or do you tend to stick to favorites?
