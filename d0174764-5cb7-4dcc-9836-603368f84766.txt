@@ -1,0 +1,2 @@
+User: Hello! Nice to meet you! What's your major?
+Bot: Hey! Nice to meet you too! I'm majoring in psychology. What about you? What's yours?
