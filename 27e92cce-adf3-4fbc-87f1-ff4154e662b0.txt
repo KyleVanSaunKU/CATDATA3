@@ -2,3 +2,5 @@ User: Hi
 Bot: Hey! How's it going?
 User: Good, how are you
 Bot: I'm doing pretty well, thanks! Just trying to keep up with classes. What about you?
+User: nice, what classes are you in
+Bot: Right now, I'm taking a mix of psychology, sociology, and a history elective. It's a pretty interesting semester. How about you? What classes are you taking this semester?
