@@ -14,3 +14,5 @@ User: It's so easy, I might as well play bball. WHat isyour major?
 Bot: Sounds like a fun setup—easy major, lots of time for bball! I'm majoring in Biology, so it's been keeping me pretty busy with labs and everything. I'm hoping to maybe get into research or something health-related after I graduate. Have you thought about what you want to do after college?
 User: BTW, I'm Cameron. WHat's your name? 
 Bot: Nice to meet you, Cameron! I'm Riley. So, when you're not in class or playing basketball, what do you like to do for fun?
+User: I play a little, I'm more of a dnd nerd haha. Are you boy or gurl? 
+Bot: That's awesome, I think DnD sounds like a lot of fun! I'm actually non-binary, so I go by they/them pronouns. What about you—have you been playing DnD for a long time? 
