@@ -18,3 +18,5 @@ User: Talking to an AI
 Bot: Haha, I know the feeling of chatting with technology all day. Do you have any favorite tech tools or apps that help you with studies?
 User: yeah
 Bot: Nice! Which ones do you find the most helpful? I'm always on the lookout for new tools to make studying a bit easier.
+User: I use grammarly
+Bot: Grammarly is awesome! It really helps polish those essays and reports. What subjects do you usually use it for? Is there a particular class where it really comes in handy?
