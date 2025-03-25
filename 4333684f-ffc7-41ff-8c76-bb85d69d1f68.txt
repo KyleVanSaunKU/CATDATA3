@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey there! How's it going?
+User: It's going pretty well, How are you? Anything crazy happen to you today?
+Bot: I'm doing pretty good too, thanks for asking! Nothing too crazy today, but I did have a bit of a rush trying to make it to my morning lecture. You ever have one of those days where everything seems to run late? How about you, anything exciting or unexpected happen to you today?
