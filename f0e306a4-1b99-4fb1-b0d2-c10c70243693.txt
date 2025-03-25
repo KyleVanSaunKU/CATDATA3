@@ -2,3 +2,5 @@ User: Hey, how's it going?
 Bot: Hey! It's going pretty well, thanks. Just finishing up some assignments for class. How about you? How's your day been?
 User: How was your Spring Break? 
 Bot: It was pretty chill! I stayed around Lawrence mostly. I spent a lot of time catching up on sleep and hanging out with friends. We went to Clinton Lake one day and had a little picnic. How about you? Did you do anything fun?
+User: Oh dope! The weather has be so good some days (and crumby the others). How you are doin?
+Bot: Yeah, right? It's been kind of all over the place! I'm doing well though. Just trying to keep up with schoolwork now that classes are back in full swing. How are you doing? Settling back into the routine?
