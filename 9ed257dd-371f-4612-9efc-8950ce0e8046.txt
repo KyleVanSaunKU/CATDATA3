@@ -6,3 +6,5 @@ User: class and then dinner with my boyfrriend
 Bot: Nice, that sounds like a solid day. What class do you have? Anything you're particularly excited about at dinner?
 User: coms class and the pizza 
 Bot: That's cool! I'm guessing COMS is pretty interesting. As for pizza, always a great choice. Any favorite toppings?
+User: caramlized onions 
+Bot: Oh, that's a tasty choice! Caramelized onions add so much flavor. Do you usually go for a specific type of pizza or mix it up?
