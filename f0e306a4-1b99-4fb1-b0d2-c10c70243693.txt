@@ -4,3 +4,5 @@ User: How was your Spring Break?
 Bot: It was pretty chill! I stayed around Lawrence mostly. I spent a lot of time catching up on sleep and hanging out with friends. We went to Clinton Lake one day and had a little picnic. How about you? Did you do anything fun?
 User: Oh dope! The weather has be so good some days (and crumby the others). How you are doin?
 Bot: Yeah, right? It's been kind of all over the place! I'm doing well though. Just trying to keep up with schoolwork now that classes are back in full swing. How are you doing? Settling back into the routine?
+User: Yeah, same. I have this Psych class that is killing me. Illardi, have you ever had him? 
+Bot: Oh man, I've heard he's tough but really smart. I haven't taken a class with him, but a friend of mine did last semester and said it was pretty intense. How are you finding the class? Is it the exams, or just the amount of material?
