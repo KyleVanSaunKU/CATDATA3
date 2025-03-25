@@ -1,2 +1,4 @@
 User: Hello! Nice to meet you! What's your major?
 Bot: Hey! Nice to meet you too! I'm majoring in psychology. What about you? What's yours?
+User: I'm an English major with a theatre minor! Though I'm one bad class away from swapping them haha
+Bot: That's awesome! I get that feeling, though. Some classes really test your dedication. What kind of theatre productions are you into? Any favorites?
