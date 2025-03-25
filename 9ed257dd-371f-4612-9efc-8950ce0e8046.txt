@@ -2,3 +2,5 @@ User: hi
 Bot: Hey! How's it going?
 User: pretty good, you 
 Bot: I'm doing well, thanks! Are you up to anything interesting today?
+User: class and then dinner with my boyfrriend 
+Bot: Nice, that sounds like a solid day. What class do you have? Anything you're particularly excited about at dinner?
