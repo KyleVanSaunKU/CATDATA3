@@ -2,3 +2,5 @@ User: hi
 Bot: Hey! How's it going?
 User: im ok
 Bot: That's good to hear. Are you having a busy day, or is it pretty chill?
+User: pretty chill
+Bot: Nice, sometimes those chill days are the best. What have you been up to today?
