@@ -10,3 +10,5 @@ User: I just winged it but I had help from friends that are familiar with skiing
 Bot: Nice! Friends can be the best instructors sometimes. Did you have any epic wipeouts, or did you manage to stay on your feet most of the time?
 User: I would say a majority of my time was wiping out epically but it was fun regardless 
 Bot: Haha, I bet! Those epic wipeouts make the best stories, though. And at least you had a good time and didn't let it discourage you. Did you get to explore much of Colorado outside of skiing?
+User: Goodbye
+Bot: Goodbye! It was great chatting with you. Take care!
