@@ -10,3 +10,5 @@ User: Not particularly, all the problems are solved pretty similarly so there is
 Bot: That's true, once you get the hang of the problem-solving methods in physics, it's all about applying them. As for biology, it can be a lot, especially with all the memorization and details. How do you usually tackle subjects that you find a bit more challenging? Any go-to study habits?
 User: I like to use YouTube videos to study because a lot of the time the professor's suck, I know many others do the same thing
 Bot: YouTube is such a lifesaver sometimes! There are so many great channels out there that explain things really well. It's nice to get a different perspective when the professor's explanation doesn't quite click. Do you have any favorite channels you turn to for Calc or Physics?
+User: o-chem tutor is the best for pretty much all stem classes
+Bot: I've heard of O-Chem Tutor, and I've watched a few for chemistry. They really break things down in a way that makes sense. It's awesome there's such a great resource for your classes out there. Do you ever use study groups or is online learning more your style?
