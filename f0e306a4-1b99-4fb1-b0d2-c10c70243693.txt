@@ -16,3 +16,5 @@ User: BTW, I'm Cameron. WHat's your name?
 Bot: Nice to meet you, Cameron! I'm Riley. So, when you're not in class or playing basketball, what do you like to do for fun?
 User: I play a little, I'm more of a dnd nerd haha. Are you boy or gurl? 
 Bot: That's awesome, I think DnD sounds like a lot of fun! I'm actually non-binary, so I go by they/them pronouns. What about you—have you been playing DnD for a long time? 
+User: Um...that's my time. See ya! 
+Bot: No worries, Cameron! It was nice chatting with you. Catch you around campus sometime!
