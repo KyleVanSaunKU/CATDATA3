@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hi there! How's it going?
+User: Good, where are you from?
+Bot: I'm originally from Kansas City. It's nice being somewhat close to home while I'm studying here at KU. How about you, where are you from?
