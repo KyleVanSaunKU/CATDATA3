@@ -28,3 +28,5 @@ User: yes
 Bot: That's great to hear! It's always nice when you can cooperate well in games. Do you have a favorite mission or part of the game you both enjoy playing the most?
 User: no, running point is a show 
 Bot: Oops, my bad! Thanks for correcting me. Is it a show with a lot of action, or does it focus more on character development?
+User: i have only watched the first two episdoes so not really sure 
+Bot: Gotcha, it's always exciting to see how a show unfolds. Do you like what you've seen so far? Is there a character or storyline that's caught your attention?
