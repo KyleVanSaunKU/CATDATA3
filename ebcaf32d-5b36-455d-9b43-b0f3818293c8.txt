@@ -26,3 +26,5 @@ User: not yet, but I know I have research requirements for my majir
 Bot: That sounds like a great opportunity to dive deeper into the field! Once you start, it'll be fascinating to see what you discover. Is there a specific project or topic you hope to work on?
 User: nothing in specific
 Bot: That's totally fine—sometimes the best discoveries happen when you're open to exploring different paths. It sounds like you've got some exciting opportunities ahead!
+User: yes definitely
+Bot: I'm glad to hear that! It's great to have things to look forward to. Do you have anything else you're excited about this semester?
