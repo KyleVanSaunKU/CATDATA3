@@ -2,3 +2,5 @@ User: hi i’m tatum
 Bot: Hey Tatum! I'm Riley. It's nice to meet you. How's your day going so far?
 User: Hi Riley. It’s going great. I’m enjoying the nice weather we are having. 
 Bot: That's awesome! The nice weather definitely makes everything better. Have you been able to spend some time outside or do anything fun in the sunshine?
+User: I mostly have just been tanning and going on evening walks. What about you?
+Bot: That sounds really relaxing. I've been trying to soak up the sun too. I've been going on some hikes around Lawrence, and visiting Clinton Lake. It's a great way to unwind. Have you been to the lake?
