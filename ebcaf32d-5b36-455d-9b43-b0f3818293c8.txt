@@ -10,3 +10,5 @@ User: I had bio and psych
 Bot: Cool, those both sound really interesting! Do you have a favorite between the two?
 User: I really like my bio class
 Bot: That's awesome! Is it a general biology class, or is it focused on a specific area?
+User: its just the freshman level bio class
+Bot: Gotcha, those are great for getting a solid foundation. Do you think you'll stick with bio as your major, or are you thinking about something else?
