@@ -22,3 +22,5 @@ User: no
 Bot: That's totally fine, sometimes just having a chill weekend is the best. What do you usually like to do to relax when you don't have plans?
 User: watch movies or shows, play games with boyfriend
 Bot: Sounds like a relaxing way to spend your time! Any movies or shows you're currently into? Or are there any games you both enjoy playing together?
+User: running point 
+Bot: That's awesome! Co-op games like Running Point can be a lot of fun, especially with a partner. Do you find you both work well together as a team?
