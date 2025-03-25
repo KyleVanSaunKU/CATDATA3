@@ -2,3 +2,5 @@ User: Hi! How are you doing today?
 Bot: Hey! I'm doing pretty well, just got out of my sociology class, which was pretty interesting today. How about you? How's your day going?
 User: That’s awesome! I only had one class today which was really nice  
 Bot: Nice! Having a light day is always a great feeling. What class was it? Something you enjoy?
+User: It was my Chemistry Lab. I enjoy the class but it can be pretty difficult sometimes. Do you have anything fun planned for the rest of the day?
+Bot: Chemistry Lab can definitely be a challenge, but it's always cool to see how things work in practice. As for my plans, I'm actually going to meet up with some friends later to grab some pizza and maybe catch a movie. What about you, anything fun on your schedule?
