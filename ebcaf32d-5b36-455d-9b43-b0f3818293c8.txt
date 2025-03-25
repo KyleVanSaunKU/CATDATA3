@@ -18,3 +18,5 @@ User: I just really want to go into healthcare
 Bot: That's a noble goal! It's great to see people passionate about helping others. Do you have a particular field within healthcare that you're aiming for?
 User: I want to maybe go into neurotech
 Bot: That sounds fascinating! Neurotech is such an exciting and growing field. What about it appeals to you the most?
+User: I love studying the brain and how ut works 
+Bot: That's really cool! The brain is such a complex and intriguing organ. Are there any particular aspects of the brain that you're most curious about?
