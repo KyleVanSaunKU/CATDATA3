@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey! How's it going?
 User: Its going good, how are you doing?
 Bot: I'm doing pretty well, thanks! Just the usual student life, you know. Have you been up to anything fun lately?
+User: Yes I have! I recently went on a ski trip in Colorado over spring break
+Bot: That sounds amazing! I’ve always wanted to go skiing in Colorado. How was it? Did you hit the slopes hard?
