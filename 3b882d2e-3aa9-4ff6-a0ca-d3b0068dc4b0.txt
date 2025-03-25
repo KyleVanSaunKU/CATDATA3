@@ -10,3 +10,5 @@ User: It does keep me busy, which is really nice! I work at the Lenexa Lifetime!
 Bot: That's awesome! I bet it's a great place to work with all the fitness facilities around. Do you get to work out there too, or do you mainly focus on your job duties while you're there?
 User: I workout sometimes but it’s hard to find the motivation to after working a long shift haha
 Bot: I totally get that! After a long shift, it's hard to find the energy for anything extra. It's great that you have the option, though. Do you have a favorite workout or activity when you do find the time and motivation?
+User: i have always been an athlete so running is usually my go to. other than that i will lift weights 
+Bot: That's awesome! Running is such a great way to stay in shape and clear the mind. Lifting weights can be really rewarding too. It's impressive you keep up with both. Do you run outdoors, or do you prefer the treadmill at the gym?
