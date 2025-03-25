@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey! How's it going?
+User: im ok
+Bot: That's good to hear. Are you having a busy day, or is it pretty chill?
