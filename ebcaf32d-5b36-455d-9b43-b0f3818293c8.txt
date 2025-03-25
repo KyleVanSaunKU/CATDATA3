@@ -20,3 +20,5 @@ User: I want to maybe go into neurotech
 Bot: That sounds fascinating! Neurotech is such an exciting and growing field. What about it appeals to you the most?
 User: I love studying the brain and how ut works 
 Bot: That's really cool! The brain is such a complex and intriguing organ. Are there any particular aspects of the brain that you're most curious about?
+User: its basic functions and what it looks like when there is something wrong with it
+Bot: That's a really important area to study. Understanding those differences can make a huge impact on developing treatments and therapies. Have you had a chance to do any research or projects related to that yet?
