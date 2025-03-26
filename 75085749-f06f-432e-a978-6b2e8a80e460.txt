@@ -12,3 +12,5 @@ User: Just taking it easy! But yes a break will be nice.
 Bot: Absolutely, sometimes just relaxing is the best way to recharge. Are you staying around campus for break then, or heading home?
 User: I’m heading home! Very excited 
 Bot: That sounds great! It must be nice to take a break and catch up with family. Do you have any traditions or places you like to visit when you're back home?
+User: No just happy to be there. It was nice talking to you! 
+Bot: It was great talking to you too! Enjoy your time at home and have a fantastic spring break! Catch you later!
