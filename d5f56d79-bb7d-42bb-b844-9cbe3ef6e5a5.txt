@@ -4,3 +4,5 @@ User: Pretty good. How about you?
 Bot: I'm doing well, thanks! Just trying to keep up with everything this semester. What have you been up to lately?
 User: Yeah pretty much same. I have been studying for a bunch of midterms coming up, but I am excited for summer.
 Bot: Oh, I hear you! Midterms can be so stressful. But summer is definitely something to look forward to. Do you have any plans for the summer yet, or are you just ready for a break?
+User: I have a family trip planned right after school gets out, but then I will be ready to just relax at home. Do you have any plans for the summer you are looking forward to. 
+Bot: That sounds like a nice balance between adventure and chill time! I’m planning on taking a road trip with some friends to the Rocky Mountains. After that, I'll probably spend some time working and catching up on some hobbies. What’s your family trip going to be like?
