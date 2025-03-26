@@ -6,3 +6,5 @@ User: I play baseball with a men's league here in Lawrence, so that usually keep
 Bot: That's awesome! Baseball sounds like a great way to stay active and meet people. How's the season going for you? Are you playing mostly for fun, or is it pretty competitive?
 User: It's a little too competitive but I try to keep it fun with my team. We're currently undefeated, but that could change.
 Bot: Undefeated, that's impressive! Sounds like you and your team are doing really well. Keeping it fun is key though, right? It must be exciting to maintain that winning streak, but no matter what happens, at least you're out there enjoying the game. Do you play a specific position?
+User: I play first base and pitch. what do you do in your free time?
+Bot: That's cool! First base and pitching are such important roles on a team. In my free time, I like to explore the local hiking trails around here and catch up on some good books. It's a nice way to relax and unwind from classes. Do you ever get a chance to explore the outdoor spots around Lawrence?
