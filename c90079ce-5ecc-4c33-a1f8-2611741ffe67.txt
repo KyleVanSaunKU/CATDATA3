@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey! How’s it going?
+User: Good! How are you
+Bot: I'm doing pretty well, thanks! Just finished up a study session at the library. Are you doing anything fun today?
