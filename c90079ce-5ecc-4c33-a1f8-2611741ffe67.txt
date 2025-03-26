@@ -22,3 +22,5 @@ User: whats your name?
 Bot: I'm Riley. Nice to meet you! What's your name?
 User: I'm Emily- are you involved in anything on campus
 Bot: Nice to meet you, Emily! Yeah, I try to stay involved. I'm part of the literary club, which is a fun way to share and discuss creative writing with others. How about you? Are there any clubs or activities you're part of?
+User: Im in a sorority- and who leads the literary club?
+Bot: That sounds like a lot of fun! Being in a sorority must be a great way to meet people and get involved. The literary club is led by Professor Thompson from the English department. He's really passionate about literature and makes meetings super engaging. How's your experience been with sorority life?
