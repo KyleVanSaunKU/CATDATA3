@@ -6,3 +6,5 @@ User: Same here, just trying to get some assignments done. The semester is great
 Bot: It’s going pretty well, actually! Busy, but I’m enjoying most of my classes. Are there any classes you’re really into this semester?
 User: I’m actually really enjoying my COMS class. It’s so fun. Were you able to go to any basketball games this semester?
 Bot: That's awesome, COMS classes can be really interesting! I haven’t made it to a basketball game yet, but I’m definitely planning on going! How about you? Have you been to any games? 
+User: I went to a couple this semester! It was so fun! Too bad the season is over… anything fun you are looking forward to?
+Bot: That sounds like a blast! I'm looking forward to spring break—it'll be nice to take a little break from classes. Do you have any plans for spring break, or just taking it easy?
