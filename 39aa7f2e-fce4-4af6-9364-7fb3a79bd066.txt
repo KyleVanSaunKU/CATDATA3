@@ -10,3 +10,5 @@ User: Yes, almost everything I own is pink, even my car.
 Bot: Wow, that's awesome! A pink car sounds so fun and unique. It must really stand out and reflect your personality. Do you like to accessorize it with even more pink, or does the car speak for itself?
 User: yeah i do, the seats are pink and my steering wheel. I even painted my house pink to match
 Bot: That's incredible! It's like you live in your own pink paradise. Your commitment to the color is really impressive. It must be so fun to be surrounded by all that pink all the time! Do you have any other favorite colors that you mix in, or is it just lots of pink?
+User: I have accent colors, like white and gray but thats it
+Bot: That sounds like a great combination! The white and gray must really highlight and balance out all the pink. It's cool how you can create such a personalized space with the colors you love. Do you enjoy decorating and putting all that together? It sounds like a fun project!
