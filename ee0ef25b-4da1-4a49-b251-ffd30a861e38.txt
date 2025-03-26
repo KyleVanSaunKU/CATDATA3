@@ -6,3 +6,5 @@ User: Well its been great so far, I don't have a particular class in mind but BU
 Bot: BUS 150 sounds interesting! Psychology has its challenges, especially when it comes to research methods and statistics, but I find it really fascinating to learn about human behavior and the mind. Are there any specific aspects of Finance you enjoy the most?
 User: I enjoy a lot of the analytic aspect of it. Why did you choose to come here at KU?
 Bot: The analytic side of Finance sounds challenging and rewarding! I chose KU because the Psychology program is highly respected, and I really liked the campus vibe when I visited. How about you? What drew you to KU?
+User: Mainly the scholarships, they were pretty good. Are you from around here?
+Bot: That's a great reason to choose KU. Scholarships can make such a big difference! I'm actually from a small town near here, just a couple of hours away. How about you? Are you a local, or did you come from further away?
