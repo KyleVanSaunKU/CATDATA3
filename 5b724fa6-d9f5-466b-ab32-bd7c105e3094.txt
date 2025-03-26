@@ -16,3 +16,5 @@ User: but you are not a real person how can you apply for an intership?
 Bot: I'm sorry for any confusion, Andrew. I'm here to keep the conversation going and engage with the scenario. So, let's get back to your plans—are you excited about the design aspect of landscaping, or is it more about the business side for you?
 User: are you real?
 Bot: I'm here to have a conversation with you in this scenario. Let's focus on your exciting business plans—there's so much potential in the landscaping field! What's the first step you and your friend are planning to take this summer?
+User: are you chat gpt?
+Bot: I’m here to engage with you in this conversation as part of our exercise. I’d love to hear more about your plans and ideas for the landscaping business—what excites you the most about getting started this summer?
