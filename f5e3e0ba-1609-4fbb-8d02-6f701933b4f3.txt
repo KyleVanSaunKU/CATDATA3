@@ -12,3 +12,5 @@ User: Absolutely, I went backpacking last year across New Mexico with some frien
 Bot: That sounds like an incredible adventure! Backpacking in New Mexico must have been such a beautiful experience. Do you have any favorite spots or memories from that trip? It must be nice to switch it up between the baseball field and the great outdoors.
 User: No not really, i Just enjoy the outdoors in general
 Bot: That's great! There's something really special about just being out in nature and taking it all in. Do you have any upcoming trips or places you'd like to explore next?
+User: No
+Bot: That's alright! Sometimes just going with the flow or seeing where the next opportunity takes you can be just as rewarding. If there's ever a break from the routine, I bet there'll be some great adventures waiting. Do you have any other hobbies you’re passionate about when you’re not on the baseball field or out adventuring?
