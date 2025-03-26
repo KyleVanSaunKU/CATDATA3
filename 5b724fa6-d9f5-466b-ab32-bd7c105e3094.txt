@@ -2,3 +2,5 @@ User: hello
 Bot: Hey! How's it going?
 User: pretty good whats your name
 Bot: I'm Riley. Nice to meet you! What's your name?
+User: Im Andrew
+Bot: Nice to meet you, Andrew! Are you studying here at the University of Kansas too?
