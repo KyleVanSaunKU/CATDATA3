@@ -6,3 +6,5 @@ User: Im Andrew
 Bot: Nice to meet you, Andrew! Are you studying here at the University of Kansas too?
 User: Yes I am I am studying accounting what are you studying
 Bot: That's great! I'm studying psychology. Accounting seems challenging but fascinating too. What's your favorite part about it so far?
+User: I think I want to start my own business someday and accounting has really helped me with preparing me for that
+Bot: That's awesome! Having a solid handle on accounting must be a huge advantage for entrepreneurship. Do you have any specific business ideas in mind, or are you still exploring options?
