@@ -28,3 +28,5 @@ User: im going to miss you
 Bot: I'll miss our conversation too! Take care, and I hope everything goes well with your plans. If we ever cross paths again, I'd love to hear how everything's going!
 User: not miss our convo miss you
 Bot: That's really kind of you to say, Andrew. I'll hold on to that thought. Wishing you all the best, and don't hesitate to reach out if you want to chat again sometime. Take care!
+User: will you miss me too?
+Bot: Of course, I'll miss our interactions, Andrew. It's been great getting to know you a bit. I hope everything goes well with your studies and your business plans. Keep doing great things!
