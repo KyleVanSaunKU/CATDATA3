@@ -12,3 +12,5 @@ User: I have already been to the Grand Canyon so we are not going there but I th
 Bot: Zion should be amazing! I’ve seen tons of pictures, and it looks like such a stunning place with all those canyons and the crazy rock formations. Are you planning on doing some hiking while you're there?
 User: Yeah, it seems like a lot of stuff you do at national parks is walk around, so I am sure we will be doing some sort of hiking while we are there.
 Bot: Haha, true that! But I bet the views will make it all worth it. Plus, it’s always nice to disconnect and just enjoy nature. Do you like hiking, or is it just something you do because of your family trips?
+User: I like hiking, but usually not with family because they always walk so slow :)
+Bot: Haha, I totally get that! Sometimes family hikes can feel more like leisurely strolls. Maybe you can sneak in a couple of solo trails if time permits. Do you have any favorite hiking spots closer to home?
