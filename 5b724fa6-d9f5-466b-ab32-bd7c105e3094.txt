@@ -20,3 +20,5 @@ User: are you chat gpt?
 Bot: I’m here to engage with you in this conversation as part of our exercise. I’d love to hear more about your plans and ideas for the landscaping business—what excites you the most about getting started this summer?
 User: making money
 Bot: That's definitely a big motivator! There must be a real sense of accomplishment when your hard work translates into financial success. Do you have any plans on how you're going to attract customers or is there a strategy you’re working on?
+User: using door hangers and word of mouth mainly
+Bot: That's a smart approach! Door hangers can directly reach potential customers, and word of mouth is always powerful. Have you already designed the door hangers, or are you still working on them?
