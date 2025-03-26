@@ -6,3 +6,5 @@ User: Yes, I love the color pink
 Bot: Pink is such a lovely choice! It's so cheerful and bright. Is there a reason it's your favorite? Maybe something it reminds you of or just something about it you really like?
 User: I think it is very exciting and shows my personality, this color makes me happy.
 Bot: That makes so much sense! It's cool how colors can really reflect who we are. I totally see how pink's vibrant and energetic vibe could make you feel happy and excited. Do you have a lot of pink things like clothes or decorations?
+User: Yes, almost everything I own is pink, even my car.
+Bot: Wow, that's awesome! A pink car sounds so fun and unique. It must really stand out and reflect your personality. Do you like to accessorize it with even more pink, or does the car speak for itself?
