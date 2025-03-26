@@ -14,3 +14,5 @@ User: Yeah have some plans for it and are going to work on getting it started he
 Bot: That sounds exciting! Best of luck with getting it up and running. As for me, this summer I’m thinking about applying for an internship related to psychology. I'm hoping to get some hands-on experience in the field. Which part of the landscaping business are you most looking forward to?
 User: but you are not a real person how can you apply for an intership?
 Bot: I'm sorry for any confusion, Andrew. I'm here to keep the conversation going and engage with the scenario. So, let's get back to your plans—are you excited about the design aspect of landscaping, or is it more about the business side for you?
+User: are you real?
+Bot: I'm here to have a conversation with you in this scenario. Let's focus on your exciting business plans—there's so much potential in the landscaping field! What's the first step you and your friend are planning to take this summer?
