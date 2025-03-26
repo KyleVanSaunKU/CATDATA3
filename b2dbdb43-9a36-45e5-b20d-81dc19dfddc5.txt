@@ -4,3 +4,5 @@ User: im doing great how’s it going for you?
 Bot: I'm doing pretty good, thanks for asking! Just trying to keep up with classes and everything. How's your semester going?
 User: Yeah me too, I’m actually doing homework as we speak. My semester has been great so far, I’m a transfer student and I like KU so far! How is your semester going?
 Bot: That's awesome to hear! Welcome to KU! My semester's been pretty busy but good overall. I'm glad you're enjoying it here. What classes are you taking this semester?
+User: That’s great to hear as well! Im taking five classes this semester: Composition 101, Public Speaking, Chicanx studies, Intro to Mythology, and pre-calculus. What classes are you taking?
+Bot: Wow, that's quite a schedule! I'm taking World History, Psychology 101, Intro to Sociology, Statistics, and an Art History class. I'm really enjoying the mix of subjects. How are you finding your classes so far? Any favorites?
