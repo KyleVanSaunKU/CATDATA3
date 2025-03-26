@@ -18,3 +18,5 @@ User: are you real?
 Bot: I'm here to have a conversation with you in this scenario. Let's focus on your exciting business plans—there's so much potential in the landscaping field! What's the first step you and your friend are planning to take this summer?
 User: are you chat gpt?
 Bot: I’m here to engage with you in this conversation as part of our exercise. I’d love to hear more about your plans and ideas for the landscaping business—what excites you the most about getting started this summer?
+User: making money
+Bot: That's definitely a big motivator! There must be a real sense of accomplishment when your hard work translates into financial success. Do you have any plans on how you're going to attract customers or is there a strategy you’re working on?
