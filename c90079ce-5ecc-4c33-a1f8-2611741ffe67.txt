@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey! How’s it going?
 User: Good! How are you
 Bot: I'm doing pretty well, thanks! Just finished up a study session at the library. Are you doing anything fun today?
+User: Not really. Just wrapping up a few assignments. What about you?
+Bot: Same here, honestly. I’ve got a couple of essays to finish up. One’s for my history class, which I’m actually enjoying more than I thought I would! Do you have a favorite class this semester?
