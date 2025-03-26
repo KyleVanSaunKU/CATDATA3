@@ -14,3 +14,5 @@ User: I have accent colors, like white and gray but thats it
 Bot: That sounds like a great combination! The white and gray must really highlight and balance out all the pink. It's cool how you can create such a personalized space with the colors you love. Do you enjoy decorating and putting all that together? It sounds like a fun project!
 User: yes i love to decorate
 Bot: That's great! Decorating can be such a creative and rewarding process. Being able to express yourself through your space must be really satisfying. Do you have any new decorating projects coming up, or are you pretty happy with how everything is right now?
+User: I am about to paint my room
+Bot: That sounds exciting! Are you planning to go with pink again, or are you thinking about trying something different for your room? It's always fun to switch things up and create a new vibe!
