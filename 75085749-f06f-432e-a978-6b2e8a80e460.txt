@@ -4,3 +4,5 @@ User: I’m great, how are you??
 Bot: I'm doing well, thanks! Just trying to keep up with all my assignments. What about you? How's your semester going?
 User: Same here, just trying to get some assignments done. The semester is great! How is yours? 
 Bot: It’s going pretty well, actually! Busy, but I’m enjoying most of my classes. Are there any classes you’re really into this semester?
+User: I’m actually really enjoying my COMS class. It’s so fun. Were you able to go to any basketball games this semester?
+Bot: That's awesome, COMS classes can be really interesting! I haven’t made it to a basketball game yet, but I’m definitely planning on going! How about you? Have you been to any games? 
