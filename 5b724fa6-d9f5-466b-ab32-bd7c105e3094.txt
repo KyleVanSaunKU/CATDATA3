@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey! How's it going?
+User: pretty good whats your name
+Bot: I'm Riley. Nice to meet you! What's your name?
