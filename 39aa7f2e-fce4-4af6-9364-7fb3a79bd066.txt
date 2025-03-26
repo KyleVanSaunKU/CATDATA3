@@ -1,2 +1,4 @@
 User: hello, how are you?
 Bot: Hey, I'm doing pretty well, thanks! How about you? Everything going okay on your end?
+User: Yes! whats your favorite color?
+Bot: That's awesome! My favorite color is blue, I find it really calming. What about you? Do you have a favorite color?
