@@ -14,3 +14,5 @@ User: No not really, i Just enjoy the outdoors in general
 Bot: That's great! There's something really special about just being out in nature and taking it all in. Do you have any upcoming trips or places you'd like to explore next?
 User: No
 Bot: That's alright! Sometimes just going with the flow or seeing where the next opportunity takes you can be just as rewarding. If there's ever a break from the routine, I bet there'll be some great adventures waiting. Do you have any other hobbies you’re passionate about when you’re not on the baseball field or out adventuring?
+User: I enjoy reading and painting small miniatures
+Bot: Reading and painting miniatures, that sounds like such a fun and creative way to spend your time! What kind of books do you enjoy, and do you have a favorite type of miniatures you like to paint?
