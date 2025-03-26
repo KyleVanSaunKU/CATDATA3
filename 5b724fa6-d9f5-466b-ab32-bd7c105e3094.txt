@@ -10,3 +10,5 @@ User: I think I want to start my own business someday and accounting has really 
 Bot: That's awesome! Having a solid handle on accounting must be a huge advantage for entrepreneurship. Do you have any specific business ideas in mind, or are you still exploring options?
 User: Me and my friend are thinking about starting a landscaping business
 Bot: That sounds like a fantastic idea! There's definitely a demand for that, especially in certain seasons. Have you guys started working on any plans or projects yet?
+User: Yeah have some plans for it and are going to work on getting it started here in the summer. What about you what are you going to do this summer
+Bot: That sounds exciting! Best of luck with getting it up and running. As for me, this summer I’m thinking about applying for an internship related to psychology. I'm hoping to get some hands-on experience in the field. Which part of the landscaping business are you most looking forward to?
