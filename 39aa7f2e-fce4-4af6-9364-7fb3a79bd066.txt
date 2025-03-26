@@ -2,3 +2,5 @@ User: hello, how are you?
 Bot: Hey, I'm doing pretty well, thanks! How about you? Everything going okay on your end?
 User: Yes! whats your favorite color?
 Bot: That's awesome! My favorite color is blue, I find it really calming. What about you? Do you have a favorite color?
+User: Yes, I love the color pink
+Bot: Pink is such a lovely choice! It's so cheerful and bright. Is there a reason it's your favorite? Maybe something it reminds you of or just something about it you really like?
