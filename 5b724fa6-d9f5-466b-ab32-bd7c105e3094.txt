@@ -26,3 +26,5 @@ User: goodbye
 Bot: Goodbye, Andrew! It was great talking to you. Best of luck with your landscaping business this summer!
 User: im going to miss you
 Bot: I'll miss our conversation too! Take care, and I hope everything goes well with your plans. If we ever cross paths again, I'd love to hear how everything's going!
+User: not miss our convo miss you
+Bot: That's really kind of you to say, Andrew. I'll hold on to that thought. Wishing you all the best, and don't hesitate to reach out if you want to chat again sometime. Take care!
