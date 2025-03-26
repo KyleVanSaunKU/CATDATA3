@@ -14,3 +14,5 @@ User: Yeah, it seems like a lot of stuff you do at national parks is walk around
 Bot: Haha, true that! But I bet the views will make it all worth it. Plus, it’s always nice to disconnect and just enjoy nature. Do you like hiking, or is it just something you do because of your family trips?
 User: I like hiking, but usually not with family because they always walk so slow :)
 Bot: Haha, I totally get that! Sometimes family hikes can feel more like leisurely strolls. Maybe you can sneak in a couple of solo trails if time permits. Do you have any favorite hiking spots closer to home?
+User: goodbye
+Bot: Goodbye! It was great chatting with you. Have a good one and good luck with those midterms!
