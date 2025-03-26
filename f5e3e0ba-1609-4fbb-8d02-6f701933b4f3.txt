@@ -2,3 +2,5 @@ User: Good Evening.
 Bot: Good evening! How are you doing today?
 User: Pretty good, trying to stay warm and a little cold at the same time.
 Bot: I know what you mean! It's been getting so chilly lately. Nothing like trying to stay cozy in Kansas, right? Have you been doing anything fun to keep warm?
+User: I play baseball with a men's league here in Lawrence, so that usually keeps me pretty active
+Bot: That's awesome! Baseball sounds like a great way to stay active and meet people. How's the season going for you? Are you playing mostly for fun, or is it pretty competitive?
