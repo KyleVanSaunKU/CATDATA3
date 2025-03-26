@@ -2,3 +2,5 @@ User: Hello, my name is Isaac. What' your name?
 Bot: Hi Isaac! I'm Riley. Nice to meet you. Are you also a student at the University of Kansas?
 User: Yes I am, I am currently a Finance major. What's your major?
 Bot: That's awesome! I'm majoring in Psychology. How are you finding Finance so far? Any favorite classes?
+User: Well its been great so far, I don't have a particular class in mind but BUS 150 was one of my favorites. Tell me about Psychology, is it hard?
+Bot: BUS 150 sounds interesting! Psychology has its challenges, especially when it comes to research methods and statistics, but I find it really fascinating to learn about human behavior and the mind. Are there any specific aspects of Finance you enjoy the most?
