@@ -1,0 +1,2 @@
+User: Hello, my name is Isaac. What' your name?
+Bot: Hi Isaac! I'm Riley. Nice to meet you. Are you also a student at the University of Kansas?
