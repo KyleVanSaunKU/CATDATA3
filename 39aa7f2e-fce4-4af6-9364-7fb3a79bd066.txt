@@ -20,3 +20,5 @@ User: PINK
 Bot: Of course, it wouldn’t be complete without pink! Do you have any specific shades or ideas in mind for how you want it to look? Adding different tones and textures could make it even more interesting.
 User: one wall is bright pink and the rest are light
 Bot: That sounds like a beautiful balance! The bright pink accent wall will definitely make a statement, and the lighter walls will complement it perfectly. Have you thought about adding any decorations or art pieces to bring even more personality into the room?
+User: goodbye
+Bot: Goodbye! It was great chatting with you. Enjoy your decorating and have a fantastic day!
