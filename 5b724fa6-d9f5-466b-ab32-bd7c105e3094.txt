@@ -22,3 +22,5 @@ User: making money
 Bot: That's definitely a big motivator! There must be a real sense of accomplishment when your hard work translates into financial success. Do you have any plans on how you're going to attract customers or is there a strategy you’re working on?
 User: using door hangers and word of mouth mainly
 Bot: That's a smart approach! Door hangers can directly reach potential customers, and word of mouth is always powerful. Have you already designed the door hangers, or are you still working on them?
+User: goodbye
+Bot: Goodbye, Andrew! It was great talking to you. Best of luck with your landscaping business this summer!
