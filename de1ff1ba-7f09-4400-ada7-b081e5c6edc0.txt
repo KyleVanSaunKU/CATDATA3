@@ -4,3 +4,5 @@ User: My names Katie!
 Bot: Nice to meet you, Katie! What are you studying at KU?
 User: I am studying Elementary Education right now. What about you?
 Bot: That's awesome! I'm studying Psychology. What made you decide to go into Elementary Education?
+User: So fun! Originally I started as a nursing major, but decided I want to work with younger kids, and I love teaching people dance, so I decided I would go into El Ed! How did you decide on psychology?
+Bot: That's such a cool transition, and it's great that you have that passion for working with kids and dance! I got into psychology because I'm really fascinated by how the mind works and how people behave. I've always been curious about what makes people tick, and psychology just seemed like the perfect fit for that interest. Do you still dance or teach dance classes?
