@@ -18,3 +18,5 @@ User: Biley
 Bot: Nice to meet you, Biley! How's your semester going so far?
 User: Its goin biley, but I keep stubbing my biley on the biley
 Bot: Oh no, that sounds painful! Hope your biley feels better soon. Besides that, are you finding time to relax amidst all the schoolwork?
+User: nope, I tend to biley a lot, it kinda bileys
+Bot: Sounds like it can get a bit overwhelming! Maybe it's worth finding a few moments to unwind every now and then. What's your go-to way to relax when you get the chance?
