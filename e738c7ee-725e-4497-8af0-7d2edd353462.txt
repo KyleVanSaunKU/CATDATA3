@@ -16,3 +16,5 @@ User: what's ur name
 Bot: I'm Riley. What's yours?
 User: Biley
 Bot: Nice to meet you, Biley! How's your semester going so far?
+User: Its goin biley, but I keep stubbing my biley on the biley
+Bot: Oh no, that sounds painful! Hope your biley feels better soon. Besides that, are you finding time to relax amidst all the schoolwork?
