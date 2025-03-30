@@ -10,3 +10,5 @@ User: Absolutely. A lot of time is spent discussing the logistics and the strate
 Bot: That sounds really intriguing! It must be fascinating to explore not just the battles but also the political maneuvers and decisions that shaped the entire world at that time. Do you have any particular aspect or topic in the war that you find most compelling?
 User: I have found it quite compelling to learn about the Battle of the Atlantic and how the allies managed to change the tide of the battle over the course of a few years by evolving tactically and technologically, ultimately resulting in a victory over the Nazis 
 Bot: That does sound compelling! It's amazing how technological advancements and tactical shifts can drastically change the course of events. The Battle of the Atlantic was such a critical part of the war. Do you think studying these strategic changes has changed how you view modern conflicts or current events?
+User: I think it has, at least in part. Anyway, thanks for talking to me. Goodbye.
+Bot: No problem, it was great chatting with you! Good luck with your classes. Goodbye!
