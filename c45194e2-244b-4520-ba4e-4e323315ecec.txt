@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey! How's it going? How's your semester at KU shaping up?
+User: It is going alright, just doing my best to keep my head above water. What about you?
+Bot: Same here, honestly. Balancing classes and everything else is definitely a bit hectic. What classes are you taking this semester?
