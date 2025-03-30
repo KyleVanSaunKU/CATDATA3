@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey! How's it going? How's your semester at KU shaping up?
 User: It is going alright, just doing my best to keep my head above water. What about you?
 Bot: Same here, honestly. Balancing classes and everything else is definitely a bit hectic. What classes are you taking this semester?
+User: I am taking some communications classes and some history classes, what about you?
+Bot: I'm actually taking a mix too! I've got a couple of psychology classes and an art history course that I really enjoy. How are your communications classes going? Do you have a favorite so far?
