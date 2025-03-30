@@ -4,3 +4,5 @@ User: It is going alright, just doing my best to keep my head above water. What 
 Bot: Same here, honestly. Balancing classes and everything else is definitely a bit hectic. What classes are you taking this semester?
 User: I am taking some communications classes and some history classes, what about you?
 Bot: I'm actually taking a mix too! I've got a couple of psychology classes and an art history course that I really enjoy. How are your communications classes going? Do you have a favorite so far?
+User: I have enjoyed this class about the history of World War 2, but my communications course on computer mediated communication is also fascinating. Tell me about your art history class
+Bot: The World War 2 class sounds really interesting! My art history class is focused on Renaissance art, and I find it amazing to learn about the different artists and their impact on the culture of that time. It's incredible how some techniques they developed are still used today. Do you get into the details like that in your history class?
