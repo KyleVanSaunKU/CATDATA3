@@ -1,2 +1,4 @@
 User: Hi!
 Bot: Hey! How's it going?
+User: It's going well! What sort of things are you interested in?
+Bot: I'm into a lot of things, but one of my biggest interests is psychology. I love learning about how the mind works and all the different factors that influence behavior. How about you? What are you into?
