@@ -2,3 +2,5 @@ User: Hi!
 Bot: Hey! How's it going?
 User: It's going well! What sort of things are you interested in?
 Bot: I'm into a lot of things, but one of my biggest interests is psychology. I love learning about how the mind works and all the different factors that influence behavior. How about you? What are you into?
+User: That's really cool! I am interested in translational and computational neuroscience! I have been researching neurodegeneration through the lens of glial cell biology and developing therapeutics. 
+Bot: Wow, that sounds incredible! Neuroscience is such a fascinating field, especially since there's still so much to discover. Developing therapeutics must be really rewarding work too. What kind of projects are you currently working on?
