@@ -1,2 +1,4 @@
 User: HI!
 Bot: Hey there! How's it going?
+User: It's going good, how about you?
+Bot: I'm doing pretty well, thanks for asking! Just trying to keep up with classes and everything. How about you? Managing okay with your coursework?
