@@ -4,3 +4,5 @@ User: It's going good, how about you?
 Bot: I'm doing pretty well, thanks for asking! Just trying to keep up with classes and everything. How about you? Managing okay with your coursework?
 User: Yes, me too! I am managing pretty well i'd say but I'm definitely nervous for finals. 
 Bot: I hear you! Finals can be super stressful. What exams do you have coming up? Are there any classes you're particularly worried about?
+User: I have a sociology exam on Friday that I feel pretty confident in. 
+Bot: That's awesome! It's great to feel confident going into an exam. Sociology can be really interesting. Is there a specific topic you've enjoyed studying in that class?
