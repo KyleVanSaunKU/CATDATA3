@@ -8,3 +8,5 @@ User: I have a sociology exam on Friday that I feel pretty confident in.
 Bot: That's awesome! It's great to feel confident going into an exam. Sociology can be really interesting. Is there a specific topic you've enjoyed studying in that class?
 User: I have really enjoyed learning about social patterns that we all just seem to follow without thinking about. 
 Bot: Yeah, it’s fascinating how those patterns shape so much of our daily lives without us even realizing it. It kind of makes you look at the world differently, doesn’t it? Have you thought about how any of those patterns might apply to student life or our campus?
+User: Goodbye
+Bot: Goodbye! It was nice chatting with you. Good luck with your sociology exam!
