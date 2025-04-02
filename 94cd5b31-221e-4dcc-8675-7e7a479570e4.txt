@@ -12,3 +12,5 @@ User: basketball and football are my 2 favorites. i try to go to all the games i
 Bot: Nice, those are such exciting sports to follow, especially here at KU. The games are a blast! Do you have a particular player or team you're a big fan of?
 User: Incoming freshman Darryn Peterson would probably be my favorite basketball player. Do you pay attention to sports here at all either?
 Bot: Yeah, I keep up with the sports scene here. It's hard not to with how passionate everyone is! Darryn Peterson sounds like an exciting player to watch. I'm more of a basketball fan myself, but I also enjoy watching some football games. Do you get to play any sports, or do you mostly enjoy watching?
+User: i play intramurals but id rather watch than play for sure. You play any sports?
+Bot: Intramurals sound like a lot of fun! I used to play some casual basketball with friends, but like you, I enjoy watching more than playing. It's just fun to be part of the atmosphere and cheer for our teams! Do you have any big games or events you're looking forward to this semester?
