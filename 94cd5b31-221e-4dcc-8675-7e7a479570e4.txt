@@ -22,3 +22,5 @@ User: What's your favorite restaurants in Lawrence?
 Bot: Lawrence has some awesome food spots! I really like The Burger Stand for their unique burgers and fries. Plus, Jefferson's is great for wings. If I'm in the mood for something sweet, Sylas & Maddy's for ice cream is a must. Do you have any go-to places you’d recommend?
 User: I like The Mad Greek on Mass
 Bot: Oh, The Mad Greek is great! Their gyros are delicious. Mass Street has so many good options. It's such a nice place to explore and try new things. Have you tried any other spots on Mass that you'd recommend?
+User: Nah not really, I haven't been to any other places really
+Bot: That's understandable! There’s always more time to explore. Maybe we can find some new places to check out this semester. Do you usually eat out, or do you cook a lot at home?
