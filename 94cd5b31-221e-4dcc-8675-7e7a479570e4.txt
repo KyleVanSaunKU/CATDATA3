@@ -30,3 +30,5 @@ User: I don't really cook a wide variety of things, really just stuff like chick
 Bot: Chicken and rice is a classic! It's simple but really satisfying. Plus, you can switch it up in so many ways with different seasonings or veggies. Do you ever experiment with different flavors or stick to a recipe you like?
 User: just stick to a recipe i like
 Bot: That makes sense. When you find something that works, it's nice to stick with it. It's like having a go-to comfort meal. Do you see yourself getting into cooking more in the future, or are you happy keeping it simple for now?
+User: dang how long has it been
+Bot: Time flies when you're having a good conversation! I'm not exactly sure how long we've been chatting, but it feels like we've gotten to know each other pretty well. It's been fun talking with you, Tyler. Do you have any other questions or topics you're curious about?
