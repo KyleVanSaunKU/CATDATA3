@@ -20,3 +20,5 @@ User: Not really, I made a couple of cool plays back in the day but nothing craz
 Bot: Making cool plays is definitely something to be proud of! For fun, I like exploring downtown Lawrence, catching a movie at Liberty Hall, or grabbing coffee with friends at local spots. There's usually something happening around campus too, so I try to stay in the loop with events. How about you? Any favorite hangout spots or things you like to do around here?
 User: What's your favorite restaurants in Lawrence?
 Bot: Lawrence has some awesome food spots! I really like The Burger Stand for their unique burgers and fries. Plus, Jefferson's is great for wings. If I'm in the mood for something sweet, Sylas & Maddy's for ice cream is a must. Do you have any go-to places you’d recommend?
+User: I like The Mad Greek on Mass
+Bot: Oh, The Mad Greek is great! Their gyros are delicious. Mass Street has so many good options. It's such a nice place to explore and try new things. Have you tried any other spots on Mass that you'd recommend?
