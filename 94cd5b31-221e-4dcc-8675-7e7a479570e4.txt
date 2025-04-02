@@ -18,3 +18,5 @@ User: Not anymore since basketball season is over, I do enjoy watching baseball 
 Bot: That's cool, baseball is a great sport with such a rich history. Do you have a favorite team you follow or any memorable experiences from playing baseball growing up?
 User: Not really, I made a couple of cool plays back in the day but nothing crazy. What do you do for fun here?
 Bot: Making cool plays is definitely something to be proud of! For fun, I like exploring downtown Lawrence, catching a movie at Liberty Hall, or grabbing coffee with friends at local spots. There's usually something happening around campus too, so I try to stay in the loop with events. How about you? Any favorite hangout spots or things you like to do around here?
+User: What's your favorite restaurants in Lawrence?
+Bot: Lawrence has some awesome food spots! I really like The Burger Stand for their unique burgers and fries. Plus, Jefferson's is great for wings. If I'm in the mood for something sweet, Sylas & Maddy's for ice cream is a must. Do you have any go-to places you’d recommend?
