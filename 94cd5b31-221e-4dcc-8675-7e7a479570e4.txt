@@ -6,3 +6,5 @@ User: oh cool im tyler
 Bot: Nice to meet you, Tyler! What year are you in? And are you liking your time at KU so far?
 User: im a sophomore and yeah i love it here 
 Bot: That's awesome! Sophomore year is such a fun time. Are you involved in any clubs or activities on campus?
+User: my major is sport management so im in sport management club. how about you?
+Bot: That's great! Sports management sounds like such an interesting field. I'm majoring in communications, and I'm part of the campus radio club. It's been a really cool way to meet people and get involved. Do you have a favorite sport?
