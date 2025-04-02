@@ -32,3 +32,5 @@ User: just stick to a recipe i like
 Bot: That makes sense. When you find something that works, it's nice to stick with it. It's like having a go-to comfort meal. Do you see yourself getting into cooking more in the future, or are you happy keeping it simple for now?
 User: dang how long has it been
 Bot: Time flies when you're having a good conversation! I'm not exactly sure how long we've been chatting, but it feels like we've gotten to know each other pretty well. It's been fun talking with you, Tyler. Do you have any other questions or topics you're curious about?
+User: I don't
+Bot: That's cool! It was great chatting with you. Thanks for sharing a bit about yourself, Tyler. If you ever want to talk again or need more food recommendations, feel free to reach out. Have a great day!
