@@ -8,3 +8,5 @@ User: im a sophomore and yeah i love it here
 Bot: That's awesome! Sophomore year is such a fun time. Are you involved in any clubs or activities on campus?
 User: my major is sport management so im in sport management club. how about you?
 Bot: That's great! Sports management sounds like such an interesting field. I'm majoring in communications, and I'm part of the campus radio club. It's been a really cool way to meet people and get involved. Do you have a favorite sport?
+User: basketball and football are my 2 favorites. i try to go to all the games i can
+Bot: Nice, those are such exciting sports to follow, especially here at KU. The games are a blast! Do you have a particular player or team you're a big fan of?
