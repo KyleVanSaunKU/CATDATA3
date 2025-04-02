@@ -28,3 +28,5 @@ User: A mix of both really
 Bot: That's a good balance! Cooking at home can be fun and save money, but trying out the local spots is a nice treat too. Do you have a favorite dish you like to make?
 User: I don't really cook a wide variety of things, really just stuff like chicken and rice
 Bot: Chicken and rice is a classic! It's simple but really satisfying. Plus, you can switch it up in so many ways with different seasonings or veggies. Do you ever experiment with different flavors or stick to a recipe you like?
+User: just stick to a recipe i like
+Bot: That makes sense. When you find something that works, it's nice to stick with it. It's like having a go-to comfort meal. Do you see yourself getting into cooking more in the future, or are you happy keeping it simple for now?
