@@ -14,3 +14,5 @@ User: i also play the guitar. my real passion is fashion though. i love to sew c
 Bot: That's so cool! Fashion is such a creative outlet. I bet sewing your own custom pieces feels really rewarding. Do you have a favorite piece you've created?
 User: yes! i recently sold a custom patchwork skirt which was pretty exciting. whats ur fav guitar song to play?
 Bot: Congratulations on selling your skirt! That sounds amazing. As for guitar, I really enjoy playing "Blackbird" by The Beatles. It's a classic and has such a nice melody. Do you have any songs you like to play on guitar?
+User: hahah i knew it i was actually singing it my head as you typed it.
+Bot: No way, that's awesome! Great minds think alike, right? "Blackbird" really has something special about it. What other types of music do you like?
