@@ -12,3 +12,5 @@ User: no you! you ask alot of questions about me... let me know some of your fav
 Bot: Oh, my bad! Well, I'm really into playing guitar and I love hiking when I get the chance. It’s a great way to clear my head, especially after a busy week. What about you? Any hobbies you’re passionate about?
 User: i also play the guitar. my real passion is fashion though. i love to sew custom pieces for myself
 Bot: That's so cool! Fashion is such a creative outlet. I bet sewing your own custom pieces feels really rewarding. Do you have a favorite piece you've created?
+User: yes! i recently sold a custom patchwork skirt which was pretty exciting. whats ur fav guitar song to play?
+Bot: Congratulations on selling your skirt! That sounds amazing. As for guitar, I really enjoy playing "Blackbird" by The Beatles. It's a classic and has such a nice melody. Do you have any songs you like to play on guitar?
