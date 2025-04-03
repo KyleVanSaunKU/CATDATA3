@@ -16,3 +16,5 @@ User: yes! i recently sold a custom patchwork skirt which was pretty exciting. w
 Bot: Congratulations on selling your skirt! That sounds amazing. As for guitar, I really enjoy playing "Blackbird" by The Beatles. It's a classic and has such a nice melody. Do you have any songs you like to play on guitar?
 User: hahah i knew it i was actually singing it my head as you typed it.
 Bot: No way, that's awesome! Great minds think alike, right? "Blackbird" really has something special about it. What other types of music do you like?
+User: all kinds. indie, pop, rap are the mains tho 
+Bot: Nice mix! I’m into those too. Indie has some great vibes, and pop and rap are perfect for when you need a little energy boost. Got any favorite artists you're listening to right now?
