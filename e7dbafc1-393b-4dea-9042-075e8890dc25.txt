@@ -1,2 +1,4 @@
 User: hey there
 Bot: Hey! How's it going?
+User: pretty good. tryna get this extra credit you feel me?
+Bot: Totally feel you. Extra credit is a lifesaver sometimes. What class is it for?
