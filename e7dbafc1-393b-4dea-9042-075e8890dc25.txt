@@ -8,3 +8,5 @@ User: is that public speaking?
 Bot: Yeah, it's the public speaking class. It's been a bit nerve-wracking, but I get why it's useful. Have you had to do any speeches or presentations for COMS 210?
 User: one so far but i wanna get to know you........
 Bot: Aw, thanks! I'd love to get to know you too. 😊 So, besides classes, what else are you interested in?
+User: no you! you ask alot of questions about me... let me know some of your fav activites and hobbies
+Bot: Oh, my bad! Well, I'm really into playing guitar and I love hiking when I get the chance. It’s a great way to clear my head, especially after a busy week. What about you? Any hobbies you’re passionate about?
