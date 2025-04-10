@@ -13,3 +13,5 @@ User: Yes I have and I have won a lot2
 Bot: That's awesome! Winning must feel so satisfying, especially after trying out new techniques. Do you have a favorite move or strategy that you like to use in your matches?
 User: I like attacking the best. This is easiest when the ball comes in over your head and you smash it down really fast on the other side\
 Bot: That sounds intense! It must be such a rush when you execute that move perfectly. Have you had any memorable moments on the court when you made that play?
+User: yes but lets change the subject
+Bot: Of course! What else have you been up to lately, anything fun or interesting?
