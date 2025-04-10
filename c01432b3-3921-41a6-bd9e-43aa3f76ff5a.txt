@@ -4,3 +4,6 @@ User: Good! My day is going well; I knocked out some laundry this morning and I 
 Bot: That sounds like a productive morning! Pickleball seems like so much fun. I've been wanting to try it out. How long have you been playing?
 User: I just started playing a few months ago and I would definitely recommend it@
 Bot: That’s awesome! I’ve heard it’s pretty easy to pick up. Do you usually play with friends, or is it part of a club or class here at KU?
+User: It is really easy to pick up! I play with friends and in a class here at KU
+
+Bot: That sounds like a great way to meet people and stay active. How's the class? Do you learn a lot of new techniques, or is it more about just enjoying the game?
