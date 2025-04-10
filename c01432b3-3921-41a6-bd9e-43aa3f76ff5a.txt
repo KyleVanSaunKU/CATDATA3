@@ -11,3 +11,5 @@ User: It definitely is! The class is more about just enjoying the game but me an
 Bot: Nice, TikTok is such a good resource for picking up tips and tricks! Have you tried any of the new techniques in your games? Any success stories?
 User: Yes I have and I have won a lot2
 Bot: That's awesome! Winning must feel so satisfying, especially after trying out new techniques. Do you have a favorite move or strategy that you like to use in your matches?
+User: I like attacking the best. This is easiest when the ball comes in over your head and you smash it down really fast on the other side\
+Bot: That sounds intense! It must be such a rush when you execute that move perfectly. Have you had any memorable moments on the court when you made that play?
