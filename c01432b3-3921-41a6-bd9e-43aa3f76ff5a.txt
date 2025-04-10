@@ -7,3 +7,5 @@ Bot: That’s awesome! I’ve heard it’s pretty easy to pick up. Do you usuall
 User: It is really easy to pick up! I play with friends and in a class here at KU
 
 Bot: That sounds like a great way to meet people and stay active. How's the class? Do you learn a lot of new techniques, or is it more about just enjoying the game?
+User: It definitely is! The class is more about just enjoying the game but me and my friend have learned a lot of new techniques by watching Tik Toks about pickleball
+Bot: Nice, TikTok is such a good resource for picking up tips and tricks! Have you tried any of the new techniques in your games? Any success stories?
