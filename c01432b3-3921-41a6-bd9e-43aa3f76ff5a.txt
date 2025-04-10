@@ -15,3 +15,5 @@ User: I like attacking the best. This is easiest when the ball comes in over you
 Bot: That sounds intense! It must be such a rush when you execute that move perfectly. Have you had any memorable moments on the court when you made that play?
 User: yes but lets change the subject
 Bot: Of course! What else have you been up to lately, anything fun or interesting?
+User: goodbye
+Bot: Bye! It was nice chatting with you. Have a great day!
