@@ -14,3 +14,5 @@ User: both
 Bot: That's a smart approach! Combining different learning methods really helps. Do you have a favorite app or resource that you find particularly helpful for studying Italian?
 User: I have an italian tutor
 Bot: Oh, that's fantastic! Having a tutor can make such a difference. Do you meet with them regularly? What's one thing they've helped you with that you found especially useful?
+User: I haven't worked with her often but she helps me understand grammar in italian 
+Bot: That's great to hear! Grammar can be one of the trickiest parts of a new language, for sure. Are there specific grammar topics you're focusing on right now, or is it more of a general overview?
