@@ -12,3 +12,5 @@ User: mi fanno male le orrechie
 Bot: Haha, that's a good one! "My ears hurt," right? It's always fun learning those kinds of phrases. Do you use any language apps or do you mostly rely on class for practice?
 User: both
 Bot: That's a smart approach! Combining different learning methods really helps. Do you have a favorite app or resource that you find particularly helpful for studying Italian?
+User: I have an italian tutor
+Bot: Oh, that's fantastic! Having a tutor can make such a difference. Do you meet with them regularly? What's one thing they've helped you with that you found especially useful?
