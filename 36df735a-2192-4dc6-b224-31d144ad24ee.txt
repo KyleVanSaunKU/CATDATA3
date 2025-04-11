@@ -8,3 +8,5 @@ User: italian personal finance and coms
 Bot: That's quite a mix! Italian sounds like it would be fun to learn.  How are you finding personal finance and coms? Anything in particular that you're enjoying or finding challenging?
 User: italian is pretty hard
 Bot: I can imagine! Learning a new language can definitely be tough. How are you managing with it? Are there any cool phrases or words you've picked up that you like?
+User: mi fanno male le orrechie
+Bot: Haha, that's a good one! "My ears hurt," right? It's always fun learning those kinds of phrases. Do you use any language apps or do you mostly rely on class for practice?
