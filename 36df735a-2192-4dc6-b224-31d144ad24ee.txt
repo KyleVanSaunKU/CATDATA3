@@ -2,3 +2,5 @@ User: hello
 Bot: Hey there! How's it going?
 User: good how are going
 Bot: I'm doing pretty well, thanks! How's your semester shaping up so far?
+User: it's okay. I'm not the best at getting myself to go to class. but I try to stay on top of my homework 
+Bot: I totally get that. It can be tough to make it to class sometimes. At least you're staying on top of your homework, though—that's awesome! What classes are you taking this semester?
