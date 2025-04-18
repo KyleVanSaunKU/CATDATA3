@@ -12,3 +12,5 @@ User: Probably just a one time thing. I might take one more but I don't think my
 Bot: I get that, sometimes it's tough to fit everything you want into your schedule. It's great that you got to try it out, though. Are there any classes or activities you're super excited about coming up?
 User: Not really just ready to graduate and be done with school. 
 Bot: I hear you. There's definitely a light at the end of the tunnel, and it'll be such a relief to reach graduation. Do you have any plans for after you graduate, or are you just focusing on getting through school for now?
+User: Just focusing on getting through school for now. It's been nice talking to you but I have to get to class soon and still need to finish the second part of this. 
+Bot: No worries! It was great chatting with you too. Good luck with class and finishing up the rest of this. Take care and have a great rest of your day!
