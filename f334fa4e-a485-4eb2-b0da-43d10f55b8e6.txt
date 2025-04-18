@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey! How's it going?
+User: Pretty good. Didn't realize what this was gonna be. Thought I was just filling out a survey for some extra credit points. How's your week been?
+Bot: I totally get that! It's been a bit of a surprise for me too. My week's been pretty good, thanks for asking! Just getting through classes and the usual stuff. How about you? Any highlights from your week?
