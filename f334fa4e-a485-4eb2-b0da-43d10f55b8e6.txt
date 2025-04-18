@@ -14,3 +14,5 @@ User: Not really just ready to graduate and be done with school.
 Bot: I hear you. There's definitely a light at the end of the tunnel, and it'll be such a relief to reach graduation. Do you have any plans for after you graduate, or are you just focusing on getting through school for now?
 User: Just focusing on getting through school for now. It's been nice talking to you but I have to get to class soon and still need to finish the second part of this. 
 Bot: No worries! It was great chatting with you too. Good luck with class and finishing up the rest of this. Take care and have a great rest of your day!
+User: Thanks. Have a good weekend!
+Bot: Thanks, you too! Enjoy your weekend!
