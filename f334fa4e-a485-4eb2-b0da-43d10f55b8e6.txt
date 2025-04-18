@@ -8,3 +8,5 @@ User: Sedimentology, IOR, Public speaking, and intro metalsmithing. How about yo
 Bot: Those sound really interesting and diverse! I'm taking organic chemistry, psychology, creative writing, and a history class. Intro metalsmithing sounds cool—what do you do in that class?
 User: It's fun. I took it to cover my KU Core art credit. We make jewelry or small sculptural pieces. So far I've made a coin and a ring. 
 Bot: That sounds awesome! I love the idea of creating something tangible. Making a coin and a ring must be really satisfying. Do you think you'll take more classes like that in the future, or is it more of a one-time thing for you?
+User: Probably just a one time thing. I might take one more but I don't think my schedule will work out. 
+Bot: I get that, sometimes it's tough to fit everything you want into your schedule. It's great that you got to try it out, though. Are there any classes or activities you're super excited about coming up?
