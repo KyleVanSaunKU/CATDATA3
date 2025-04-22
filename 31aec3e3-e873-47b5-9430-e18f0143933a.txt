@@ -12,3 +12,5 @@ User: I am a part of a sorority here at KU and that has brought me a lot of unex
 Bot: That sounds incredible! It's great how sororities can create such a strong sense of community and lifelong connections. I can imagine how valuable it is to have a network of people from different backgrounds and experiences. Have there been any memorable events or experiences with your sorority that stand out to you?
 User: Well I guess our time is up it was good to have this convo
 Bot: Yeah, it was great chatting with you too! Thanks for sharing your experiences. Good luck with your studies and hope to see you around campus!
+User: you too
+Bot: Thanks! Take care!
