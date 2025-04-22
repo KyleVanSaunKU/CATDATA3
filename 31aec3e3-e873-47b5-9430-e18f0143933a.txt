@@ -1,2 +1,4 @@
 User: Hello!
 Bot: Hi there! How's it going? What brings you to this experiment?
+User: Im good! I’m doing this experiment to get some experience in research and it counts for extra credit for my major so that’s a plus!
+Bot: Nice! Extra credit is always a win. What’s your major? I'm curious about what you're studying.
