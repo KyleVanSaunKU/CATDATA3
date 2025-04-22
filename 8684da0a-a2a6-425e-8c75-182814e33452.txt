@@ -1,0 +1,2 @@
+User: what
+Bot: Hey there! What's up? Anything on your mind you'd like to chat about?
