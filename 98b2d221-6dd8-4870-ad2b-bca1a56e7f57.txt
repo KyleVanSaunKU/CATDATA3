@@ -8,3 +8,5 @@ User: We live in a quad so it is a big room. We want to make the most of the spa
 Bot: A quad sounds like you have a lot of room to work with! Bunk beds or a mega bed would definitely free up some floor space for other fun stuff. Do you have any ideas for what you'll use the extra space for once you rearrange everything? Maybe a study area or a cozy hangout spot?
 User: Our friends spend a lot of time in here so rearranging can clear up space for us to hang out!
 Bot: That sounds perfect! Having extra space for hanging out with friends makes the dorm feel so much more welcoming. Do you all have any favorite things you like to do when you hang out in your room? Like maybe game nights or movie marathons?
+User: We love watching movies! I have to go now goodbye!
+Bot: That sounds like a great way to unwind and hang out. It was nice chatting with you—good luck with the room rearranging! Goodbye!
