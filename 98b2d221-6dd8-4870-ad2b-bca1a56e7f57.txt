@@ -1,0 +1,2 @@
+User: Hi, how has your day been?
+Bot: Hey! My day's been pretty chill, thanks for asking. I had a couple of classes earlier, and now I'm just catching up on some reading for a history course. How's your day going so far?
