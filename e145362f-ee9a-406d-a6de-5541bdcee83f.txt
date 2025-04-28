@@ -2,3 +2,5 @@ User: Whats up
 Bot: Hey! Not much, just taking a break from studying. How about you?
 User: Yea just hanging out
 Bot: Cool! Have you been up to anything fun lately? Or just chilling?
+User: I have been playing basketball and golf a lot latley but other than that just studying
+Bot: Nice! Basketball and golf sound like a great way to unwind. Do you play on a team, or just for fun? And how are things going with your studies?
