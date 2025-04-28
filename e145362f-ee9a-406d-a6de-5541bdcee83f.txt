@@ -18,3 +18,6 @@ User: Yea I got a couple offices I go to
 Bot: That's fantastic! Getting that hands-on experience must be so valuable. Do you have any memorable experiences from working at those offices so far?
 User: getting to see a tooth pulled
 Bot: Wow, I bet that was fascinating! It's probably different to see it happen up close compared to just hearing about it. Did it make you more interested in the field, or was it a bit intense?
+User: Made me more interested
+
+Bot: That's great to hear! It must be exciting to see the real-world impact of what you'll be learning. Do you think you'll get more opportunities like that in the future at the offices you're shadowing?
