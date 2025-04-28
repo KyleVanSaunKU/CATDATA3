@@ -8,3 +8,5 @@ User: I play just witha a couple of my buddies, my stuidies are going good what 
 Bot: That sounds like a blast! I bet it's a great way to stay connected with your friends. My studies are going alright too, just trying to keep up with everything. What are you majoring in, if you don't mind me asking?
 User: molecular cellular and developmental bio on pre dental track what about you
 Bot: That's awesome, sounds intense but really rewarding! I'm majoring in psychology. I'm really interested in understanding how people think and behave. What got you interested in pre-dental?
+User: I had a lot of work done on my teeth when I was little and always found it kind of intresting after having great expiremnces with the dental team. 
+Bot: That's a really inspiring reason to pursue dentistry! It’s amazing how positive experiences can shape our career paths. Do you have a specific area in dentistry you're hoping to focus on in the future?
