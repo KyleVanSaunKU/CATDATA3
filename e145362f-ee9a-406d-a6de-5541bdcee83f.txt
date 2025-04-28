@@ -21,3 +21,5 @@ Bot: Wow, I bet that was fascinating! It's probably different to see it happen u
 User: Made me more interested
 
 Bot: That's great to hear! It must be exciting to see the real-world impact of what you'll be learning. Do you think you'll get more opportunities like that in the future at the offices you're shadowing?
+User: yes
+Bot: That's awesome! It's great that you're getting so much exposure early on. Is there anything specific you're hoping to see or learn next time you're there?
