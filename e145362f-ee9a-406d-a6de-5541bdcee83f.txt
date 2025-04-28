@@ -12,3 +12,5 @@ User: I had a lot of work done on my teeth when I was little and always found it
 Bot: That's a really inspiring reason to pursue dentistry! It’s amazing how positive experiences can shape our career paths. Do you have a specific area in dentistry you're hoping to focus on in the future?
 User: I plan on just being a general dentist but I may want to specialioze in endodontics 
 Bot: Endodontics sounds really interesting! A bit of a challenge, but it could be really rewarding. Plus, you'd be helping people alleviate some serious pain! What do you enjoy most about the idea of doing that kind of work?
+User: Just being able to talk and interact with and to different people everyday because I am a very social perosn and love meeting new people 
+Bot: That’s a perfect fit! Being able to connect with different people every day must be really fulfilling. It’s great that you're blending your passion for dentistry with your social nature. Have you had any opportunities to shadow or intern at a dental office yet?
