@@ -16,3 +16,5 @@ User: Just being able to talk and interact with and to different people everyday
 Bot: That’s a perfect fit! Being able to connect with different people every day must be really fulfilling. It’s great that you're blending your passion for dentistry with your social nature. Have you had any opportunities to shadow or intern at a dental office yet?
 User: Yea I got a couple offices I go to
 Bot: That's fantastic! Getting that hands-on experience must be so valuable. Do you have any memorable experiences from working at those offices so far?
+User: getting to see a tooth pulled
+Bot: Wow, I bet that was fascinating! It's probably different to see it happen up close compared to just hearing about it. Did it make you more interested in the field, or was it a bit intense?
