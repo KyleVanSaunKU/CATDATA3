@@ -4,3 +4,5 @@ User: Yea just hanging out
 Bot: Cool! Have you been up to anything fun lately? Or just chilling?
 User: I have been playing basketball and golf a lot latley but other than that just studying
 Bot: Nice! Basketball and golf sound like a great way to unwind. Do you play on a team, or just for fun? And how are things going with your studies?
+User: I play just witha a couple of my buddies, my stuidies are going good what about you
+Bot: That sounds like a blast! I bet it's a great way to stay connected with your friends. My studies are going alright too, just trying to keep up with everything. What are you majoring in, if you don't mind me asking?
