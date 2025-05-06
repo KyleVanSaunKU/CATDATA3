@@ -8,3 +8,5 @@ User: mainly been working on bio lab
 Bot: Oh, bio lab can definitely be intense! I remember spending a lot of time there last semester. What kind of experiments or projects are you working on right now?  
 User: right now we are doing some corona virus related stuff - pretty interesting. What year are you?
 Bot: That sounds really fascinating and so relevant right now! I'm a junior this year. How about you? Are you enjoying your classes overall?
+User: Im a freshman! My classes are going pretty well! Where are you from?
+Bot: That's awesome! Freshman year is such an exciting time. I'm originally from Wichita. How about you? Where are you from?
