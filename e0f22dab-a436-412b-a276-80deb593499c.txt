@@ -2,3 +2,5 @@ User: hello
 Bot: Hey there! How's it going?
 User: Im pretty good how are you?
 Bot: I'm doing well, thanks for asking! Just trying to get through another busy week at KU. Are you up to anything interesting today?
+User: Trying to get through this week too. I probably will just nap after I finish my hw
+Bot: Sounds like a solid plan! Naps are the best, especially after tackling homework. What classes are you working on this week? Any favorites or ones giving you a hard time?
