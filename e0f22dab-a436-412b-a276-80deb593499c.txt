@@ -12,3 +12,5 @@ User: Im a freshman! My classes are going pretty well! Where are you from?
 Bot: That's awesome! Freshman year is such an exciting time. I'm originally from Wichita. How about you? Where are you from?
 User: I'm from Minnesota!
 Bot: Nice! Minnesota is such a beautiful place, especially with all those lakes. Do you miss anything specific about it, or are you enjoying being here in Kansas?
+User: I miss it but also love being here. It will be bittersweet going home. I miss my dogs!
+Bot: I totally get that! It's always tough being away from pets. What kind of dogs do you have? Do you get to visit home often?
