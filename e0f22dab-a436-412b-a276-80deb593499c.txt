@@ -18,3 +18,5 @@ User: I have two standard poodles. And I have only visited home a few times. Do 
 Bot: Standard poodles are such elegant dogs—they must be a joy to have around! I don't have any pets here at school, but I have a cat back home in Wichita. I try to visit whenever I can. Do you get to video call your dogs at all?
 User: My parents send me photos but it kinda makes me more sad when I see them
 Bot: I totally understand that feeling. It's like a happy-sad mix. At least you'll get some quality time with them during breaks, right? Do you have anything you're looking forward to when you go back home?
+User: I'm excited for swimming in lakes for sure! What about you?
+Bot: Swimming in lakes sounds incredible! I really miss the local food and seeing old friends when I head back to Wichita. There's this barbecue spot that I always have to visit. What about you—any favorite spots in Minnesota?
