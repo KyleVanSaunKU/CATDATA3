@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey there! How's it going?
+User: Im pretty good how are you?
+Bot: I'm doing well, thanks for asking! Just trying to get through another busy week at KU. Are you up to anything interesting today?
