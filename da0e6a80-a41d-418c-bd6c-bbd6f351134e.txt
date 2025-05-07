@@ -14,3 +14,5 @@ User: I played in highschool and still go to the rec and play from time to time 
 Bot: That's awesome you still find time to play! I play a bit of soccer whenever I have free time. I used to be on a team in high school, so I still like to hit the fields now and then. Ever thought about joining an intramural team here at KU?
 User: Yeah me and some friends have talked about it but didn't do it this year, maybe next year though. I never got your name by the way, Im Nate
 Bot: Nice to meet you, Nate! I'm Riley. Joining an intramural team sounds like a fun plan for next year. It's a great way to meet people and stay active. What are you majoring in?
+User: I am majoring in finance right now, might switch some time soon Im not to sure. What about you
+Bot: That's cool, finance can open a lot of doors! I'm majoring in psychology. I'm really interested in understanding how people think and behave. Have you taken any classes outside of your major that you found interesting?
