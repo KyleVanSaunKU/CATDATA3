@@ -8,3 +8,5 @@ User: I also go to KU, I grew up very close to here in Overland Park Kansas
 Bot: That's awesome! I have a few friends from Overland Park. It must be nice being close to home while at school. Have you always wanted to go to KU?
 User: Yeah pretty much, I have 2 older sisters who went here so I got to expirence the campus a lot and really liked it. What about you, why did you choose KU
 Bot: That's cool that your sisters went here too! For me, I chose KU because I loved the sense of community on campus and the great programs they offer. Plus, the basketball games are a huge bonus, right? Do you ever go to any of the games?
+User: Oh yeah, I love going to the games. Im very into basketball. Even though we had a bad year this year when it comes to basketball I still had fun going
+Bot: Totally, the energy at the games is unbeatable, regardless of the season's outcome. I'm with you on that! It's a nice break from studying, right? Do you play basketball yourself or mostly just a fan?
