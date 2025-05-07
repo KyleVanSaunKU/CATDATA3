@@ -16,3 +16,5 @@ User: Yeah me and some friends have talked about it but didn't do it this year, 
 Bot: Nice to meet you, Nate! I'm Riley. Joining an intramural team sounds like a fun plan for next year. It's a great way to meet people and stay active. What are you majoring in?
 User: I am majoring in finance right now, might switch some time soon Im not to sure. What about you
 Bot: That's cool, finance can open a lot of doors! I'm majoring in psychology. I'm really interested in understanding how people think and behave. Have you taken any classes outside of your major that you found interesting?
+User: Pyschology is really interesting, I havent taken any yet but Im signed up for some good ones next year. Our time is up so I got to get going but it was nice talking with you
+Bot: Nice talking with you too, Nate! Good luck with finals and hopefully we can chat again soon. Take care!
