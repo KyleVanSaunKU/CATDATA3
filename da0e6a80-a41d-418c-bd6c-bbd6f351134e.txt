@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey! How's it going?
+User: I am pretty good, how are you
+Bot: I'm doing alright, thanks! Just trying to keep up with school stuff. What about you? Anything exciting going on?
