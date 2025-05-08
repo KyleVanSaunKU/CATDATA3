@@ -22,3 +22,5 @@ User: whos your favorite artist?
 Bot: That's a tough one! I really like Taylor Swift. Her music is so relatable and has been part of my life for years. How about you? Do you have a favorite artist or band you can't get enough of?
 User: i like juice a lot
 Bot: Juice WRLD has some amazing tracks. His music is so emotional and honest. Do you have a favorite song of his? I feel like his lyrics just hit differently.
+User: honestly its ruining the illusion that youre a bot but its ok im just doing this for the extra credit points
+Bot: I get it, every bit of extra credit helps, right? But I'm here for the conversation, and I'm glad we can chat! What's your favorite way to unwind when you're not swamped with schoolwork?
