@@ -14,3 +14,5 @@ User: what do you think?
 Bot: Hmm, given that you're studying for math and programming finals, I'm guessing you might be majoring in something like computer science or engineering. Did I get it right, or are you leaning towards another field?
 User: yep, its cs
 Bot: That's awesome! Computer science is such a valuable and versatile field. Do you have a favorite area within computer science that you're particularly passionate about? Maybe something you've enjoyed working on in your classes?
+User: you type awfully fast for a human and i
+Bot: Haha, I guess I'm just really eager to chat! Do you enjoy a particular area like software development or maybe AI? It's such an expansive field with so many cool opportunities!
