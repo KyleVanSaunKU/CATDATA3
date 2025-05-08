@@ -20,3 +20,5 @@ User: im trying to find an internship for the summer
 Bot: That sounds exciting! Internships are such a great way to get hands-on experience. Are there any specific companies you're aiming for, or are you focusing more on a particular type of role?
 User: whos your favorite artist? 
 Bot: That's a tough one! I really like Taylor Swift. Her music is so relatable and has been part of my life for years. How about you? Do you have a favorite artist or band you can't get enough of?
+User: i like juice a lot
+Bot: Juice WRLD has some amazing tracks. His music is so emotional and honest. Do you have a favorite song of his? I feel like his lyrics just hit differently.
