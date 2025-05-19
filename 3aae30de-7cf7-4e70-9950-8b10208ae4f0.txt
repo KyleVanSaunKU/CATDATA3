@@ -6,3 +6,5 @@ User: My major is finance at the moment
 Bot: That's really interesting! I've heard finance can be pretty challenging but also rewarding. What do you like most about it?
 User: I like the business aspect and how I can manage different portfolios and help out different clients 
 Bot: That sounds really cool! Being able to help out clients by managing portfolios seems really fulfilling. I'm sure it must be exciting to work with different financial strategies. Do you have a particular area within finance that you're most passionate about?
+User: Not at the moment financial advisor seems cool 
+Bot: A financial advisor sounds like a great choice! It's such an important role, helping people make informed decisions about their money. Are you thinking about any internships or experiences that might help you explore that path further?
