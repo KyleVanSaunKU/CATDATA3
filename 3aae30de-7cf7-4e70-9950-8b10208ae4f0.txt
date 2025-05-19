@@ -12,3 +12,5 @@ User: I am thinking about being a teller at a bank soon just to get an understan
 Bot: That sounds like a solid plan! Working as a teller can give you valuable experience and insights into how banking works from the ground up. Plus, it's a good way to build relationships and network with people in the industry. Do you have a specific bank in mind where you'd like to work?
 User: not at the moment just somewhere in the st louis area where im from 
 Bot: St. Louis is a great city! There's definitely a variety of banks to choose from there. It's nice to be close to home too while gaining experience. Do you go back to St. Louis often while you're studying at KU?
+User: no i only go back on breaks and the summer but I do enjoy the KC area 
+Bot: That makes sense. The KC area has a lot to offer too! There's always something to do or see. Do you have any favorite spots or activities you like to do around there when you're not busy with school?
