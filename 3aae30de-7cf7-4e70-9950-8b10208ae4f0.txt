@@ -4,3 +4,5 @@ User: everything is going well just finished school
 Bot: That's awesome! Congrats on finishing up. What did you major in?
 User: My major is finance at the moment 
 Bot: That's really interesting! I've heard finance can be pretty challenging but also rewarding. What do you like most about it?
+User: I like the business aspect and how I can manage different portfolios and help out different clients 
+Bot: That sounds really cool! Being able to help out clients by managing portfolios seems really fulfilling. I'm sure it must be exciting to work with different financial strategies. Do you have a particular area within finance that you're most passionate about?
