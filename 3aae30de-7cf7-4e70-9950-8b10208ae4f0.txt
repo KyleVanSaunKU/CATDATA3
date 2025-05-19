@@ -10,3 +10,5 @@ User: Not at the moment financial advisor seems cool
 Bot: A financial advisor sounds like a great choice! It's such an important role, helping people make informed decisions about their money. Are you thinking about any internships or experiences that might help you explore that path further?
 User: I am thinking about being a teller at a bank soon just to get an understanding on how everything runs 
 Bot: That sounds like a solid plan! Working as a teller can give you valuable experience and insights into how banking works from the ground up. Plus, it's a good way to build relationships and network with people in the industry. Do you have a specific bank in mind where you'd like to work?
+User: not at the moment just somewhere in the st louis area where im from 
+Bot: St. Louis is a great city! There's definitely a variety of banks to choose from there. It's nice to be close to home too while gaining experience. Do you go back to St. Louis often while you're studying at KU?
