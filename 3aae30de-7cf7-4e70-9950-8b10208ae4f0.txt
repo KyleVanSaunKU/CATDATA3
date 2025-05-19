@@ -1,2 +1,4 @@
 User: How are you doing 
 Bot: Hey! I'm doing pretty well, thanks for asking. How about you? How's everything going?
+User: everything is going well just finished school 
+Bot: That's awesome! Congrats on finishing up. What did you major in?
