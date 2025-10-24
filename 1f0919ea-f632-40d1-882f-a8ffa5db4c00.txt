@@ -1,2 +1,4 @@
 User: Hey, how's it going?
 Bot: Hey! It's going pretty well, thanks. Just got out of a study session at the library. How about you? How's your day going?
+User: It's like 8 am, were you in the library all day?
+Bot: Oh, haha, no I meant last night! I was there pretty late preparing for a midterm. Early morning classes aren't really my thing, so I'm a bit tired. Are you an early bird or more of a night owl?
