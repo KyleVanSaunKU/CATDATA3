@@ -4,3 +4,5 @@ User: It's like 8 am, were you in the library all day?
 Bot: Oh, haha, no I meant last night! I was there pretty late preparing for a midterm. Early morning classes aren't really my thing, so I'm a bit tired. Are you an early bird or more of a night owl?
 User: Wait, what? You were in the library studying this morning but early morning classes aren't your thing? I'm confused. I'm an early bird.
 Bot: Oh, I see how that might've sounded confusing. I was mentioning studying at the library last night made me tired this morning. Sorry about that! That's cool you're an early bird, though. Do you have anything exciting planned for the day?
+User: Just like doing some drugs. Chilling out. How about you?
+Bot: Ah, just taking it easy then, huh? I'm not up to anything too wild. Probably just going to grab some coffee and then head to class later. What kind of things do you like to do for fun when you're just chilling?
