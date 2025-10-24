@@ -1,0 +1,2 @@
+User: Hey, how's it going?
+Bot: Hey! It's going pretty well, thanks. Just got out of a study session at the library. How about you? How's your day going?
