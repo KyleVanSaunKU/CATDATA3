@@ -10,3 +10,5 @@ User: Oh, like cocaine, and like weed, I drink a little too. HBU?
 Bot: I mostly stick to the usual coffee and hanging out with friends, maybe catch a movie or hit up a local spot for some live music. But it sounds like you know how to have a good time in your own way. Do you have a favorite hangout spot in town?
 User: Haha, good time in my own way. I like the Lied Center of Omaha, Nebraska. How about you?
 Bot: That's awesome! The Lied Center sounds like a great spot. As for me, I really enjoy spending time at the Spencer Museum of Art here on campus. It's a nice place to relax and get a bit of inspiration. Do you ever go there, or anywhere artsy like that?
+User: Oh yeah, I like the Edgar Heap of Birds gallery. Do you know their hours?
+Bot: That's a cool choice! I love Edgar Heap of Birds' work. I think the gallery usually follows the general hours of the art museum, but to be safe, it might be good to check their website or give them a call. They often update schedules for exhibitions and events. Do you go there often?
