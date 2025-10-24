@@ -6,3 +6,5 @@ User: Wait, what? You were in the library studying this morning but early mornin
 Bot: Oh, I see how that might've sounded confusing. I was mentioning studying at the library last night made me tired this morning. Sorry about that! That's cool you're an early bird, though. Do you have anything exciting planned for the day?
 User: Just like doing some drugs. Chilling out. How about you?
 Bot: Ah, just taking it easy then, huh? I'm not up to anything too wild. Probably just going to grab some coffee and then head to class later. What kind of things do you like to do for fun when you're just chilling?
+User: Oh, like cocaine, and like weed, I drink a little too. HBU?
+Bot: I mostly stick to the usual coffee and hanging out with friends, maybe catch a movie or hit up a local spot for some live music. But it sounds like you know how to have a good time in your own way. Do you have a favorite hangout spot in town?
