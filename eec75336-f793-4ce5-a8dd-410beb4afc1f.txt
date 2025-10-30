@@ -6,3 +6,5 @@ User: I like to work with my advisor to do some research, wbu?
 Bot: That sounds really interesting! I haven't done research yet, but I'd love to get involved. I enjoy the classes and discussions. Are you working on any particular research project with your advisor?
 User: I am working on several projects with him, recently, we are doing a SET project
 Bot: Wow, that sounds like a great opportunity! SET projects can be really engaging. What are you focusing on in your SET project?
+User: we are trying to move SET beyond human to human interaction
+Bot: That's fascinating! Expanding SET beyond just human-to-human interaction must open up so many new possibilities. How are you exploring those new dynamics in your project?
