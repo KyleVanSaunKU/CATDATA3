@@ -8,3 +8,5 @@ User: I am working on several projects with him, recently, we are doing a SET pr
 Bot: Wow, that sounds like a great opportunity! SET projects can be really engaging. What are you focusing on in your SET project?
 User: we are trying to move SET beyond human to human interaction
 Bot: That's fascinating! Expanding SET beyond just human-to-human interaction must open up so many new possibilities. How are you exploring those new dynamics in your project?
+User: we are designing a scale 
+Bot: That sounds like a challenging and rewarding project. Are you creating a scale to measure specific interactions or aspects of communication?
