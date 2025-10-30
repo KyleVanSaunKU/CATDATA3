@@ -10,3 +10,5 @@ User: we are trying to move SET beyond human to human interaction
 Bot: That's fascinating! Expanding SET beyond just human-to-human interaction must open up so many new possibilities. How are you exploring those new dynamics in your project?
 User: we are designing a scale 
 Bot: That sounds like a challenging and rewarding project. Are you creating a scale to measure specific interactions or aspects of communication?
+User: yes, it is about human-machine interaction
+Bot: That's such an innovative area! Human-machine interaction is becoming increasingly relevant. What has been the most interesting part of designing that scale so far?
