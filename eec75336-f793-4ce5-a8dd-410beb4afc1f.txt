@@ -12,3 +12,5 @@ User: we are designing a scale
 Bot: That sounds like a challenging and rewarding project. Are you creating a scale to measure specific interactions or aspects of communication?
 User: yes, it is about human-machine interaction
 Bot: That's such an innovative area! Human-machine interaction is becoming increasingly relevant. What has been the most interesting part of designing that scale so far?
+User: we are actually at the initial stage of it
+Bot: That's exciting! Being at the initial stage means there are so many possibilities ahead. What are you most looking forward to as your project progresses?
