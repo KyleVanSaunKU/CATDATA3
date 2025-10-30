@@ -16,3 +16,5 @@ User: we are actually at the initial stage of it
 Bot: That's exciting! Being at the initial stage means there are so many possibilities ahead. What are you most looking forward to as your project progresses?
 User: Of course a publication as I am a phd student lol
 Bot: That's a great goal! Getting published would be such a huge accomplishment and definitely worth aiming for. What are some of the main challenges you anticipate along the way?
+User: well, I think sometimes I need to read a lot and I have some concurrent projects
+Bot: That sounds like a lot to juggle! Balancing multiple projects and extensive reading can be tough. How do you manage your time with everything going on?
