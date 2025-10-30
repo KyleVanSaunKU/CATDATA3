@@ -4,3 +4,5 @@ User: Hi My major is communication
 Bot: That's awesome! I'm actually a communication major too. What do you enjoy most about studying communication?
 User: I like to work with my advisor to do some research, wbu?
 Bot: That sounds really interesting! I haven't done research yet, but I'd love to get involved. I enjoy the classes and discussions. Are you working on any particular research project with your advisor?
+User: I am working on several projects with him, recently, we are doing a SET project
+Bot: Wow, that sounds like a great opportunity! SET projects can be really engaging. What are you focusing on in your SET project?
