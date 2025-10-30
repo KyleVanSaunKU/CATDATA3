@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5259
 Bot: Hey, my participant ID is 3487. Nice to meet you! What's your major here at KU?
+User: Hi My major is communication
+Bot: That's awesome! I'm actually a communication major too. What do you enjoy most about studying communication?
