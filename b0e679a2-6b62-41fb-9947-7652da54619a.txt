@@ -16,3 +16,5 @@ User: Yes for sure!
 Bot: Nice! Do you have a favorite one so far? I love trying different ones, especially when they have good coffee and snacks.
 User: I like going to sylas and maddies which I guess isn't really a cafe but its really nice in there to do work during the day
 Bot: Sylas and Maddie's is such a nice spot! I love their ice cream; it’s a fun place to hang out. It’s great you found a spot where you can relax and get work done. Do you have a favorite ice cream flavor there?
+User: I really like the birthday cake one!
+Bot: Birthday cake is such a fun choice! It's like a celebration in a cone. I might have to try that next time I'm there. Do you have any other favorite places around Lawrence that you've discovered?
