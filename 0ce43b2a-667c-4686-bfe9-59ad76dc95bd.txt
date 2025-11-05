@@ -10,3 +10,5 @@ User: I hope to go to med school
 Bot: That's an admirable goal! Med school sounds like a big, exciting step. Do you have a specific area of medicine you're interested in pursuing?
 User: Not yet, infectious disease sounds interesting, but I hope to learn more through shadowing doctors before making a decision
 Bot: That sounds like a great plan. Shadowing will definitely give you some valuable insights. Infectious diseases are certainly fascinating, especially with how rapidly things are changing in that field. Are there any particular experiences or opportunities you're hoping to find while shadowing?
+User: I want to watch a surgery 
+Bot: That would be such an incredible experience! Watching a surgery up close must be fascinating—and probably nerve-wracking too! Have you had any experience in medical settings before, like volunteering or internships? 
