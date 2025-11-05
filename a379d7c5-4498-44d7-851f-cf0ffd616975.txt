@@ -10,3 +10,5 @@ User: id probably like to work somewhere that has a strong culture and values it
 Bot: That sounds like a great environment to aim for! It's so important to feel valued and supported where you work. Are there any specific companies or industries you're interested in where you've heard they have that kind of culture?
 User: one of the examples we used in class was google. I think it would be really cool to work somewhere like that
 Bot: Google definitely has a reputation for its innovative and employee-focused culture. It must have been interesting to learn about it in class. What do you think would be the most exciting part of working at a company like Google?
+User: probably all the amentites it offers and how they value employee satisfaction 
+Bot: I totally agree, having such amenities and a focus on employee satisfaction can make a huge difference in the work environment. It must be so motivating to work somewhere that invests in their people. Are there any amenities or perks you're particularly drawn to?
