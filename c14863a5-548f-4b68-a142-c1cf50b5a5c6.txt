@@ -17,3 +17,5 @@ User: I do whatever I want
 Bot: That's the way to do it! College is the perfect time to explore and try new things. What's something you've done recently that you're really glad you tried?
 User: Eh
 Bot: I get it, sometimes it's hard to think of something on the spot. Do you have any plans for the weekend? Sometimes it's nice to just relax and see where things go!
+User: Yeah drinking to black
+Bot: Sounds like you've got a lively weekend ahead! Just make sure to stay safe and take care of yourself. Do you have a usual group you hang out with when you go out?
