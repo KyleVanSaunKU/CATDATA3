@@ -1,2 +1,4 @@
 User: Hi my participant ID is: 8529
 Bot: Hi, my participant ID is: 4782. Nice to meet you! How’s your day going so far? Are you also an undergrad here at the University of Kansas?
+User: Nice to meet you, too! It's going really good! I am also an undergrad here at KU! How''s your day been?
+Bot: That's awesome! My day's been pretty good too, just busy with classes and trying to keep up with everything. What’s your major? Do you have a favorite class this semester?
