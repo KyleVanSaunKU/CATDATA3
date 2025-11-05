@@ -22,3 +22,5 @@ User: Yes all the time, do you?
 Bot: I definitely find myself in conversations about politics and current events pretty often, especially with everything going on these days. It's always interesting to hear different viewpoints and learn from others. Do you find these discussions helpful in shaping your own opinions or understanding of things?
 User: Yes I think they help me to understand the world better and what goes on in it
 Bot: That's a great way to look at it. Talking things through with others really can broaden our perspectives. Is there a particular topic or issue you especially enjoy discussing or feel passionate about?
+User: goodbye
+Bot: Goodbye! It was great chatting with you. Best of luck with your paper on Amazon, and take care!
