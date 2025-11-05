@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9577"
 Bot: Hi, my participant ID is: 4782. It's great to meet you! How's your day going so far?
+User: TEST
+Bot: I guess we're just getting started, huh? Are you testing how this works too?
