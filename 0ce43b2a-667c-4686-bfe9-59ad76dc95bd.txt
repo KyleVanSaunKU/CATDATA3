@@ -4,3 +4,5 @@ User: I'm a junior and I'm studying biology and japanese
 Bot: That's awesome! I'm a sophomore and I'm majoring in psychology. Biology sounds really interesting. How are you balancing studying Japanese with all those bio courses? Isn't it challenging?
 User: It is, but I really enjoy both things so I make it work.
 Bot: That's great to hear! Enjoying what you're studying makes a big difference. Do you have any favorite classes or professors in either subject?
+User: I definitely have a favorite Japanese professor, as far a biology I really like my biochem professor and my ochem classes.
+Bot: That's cool! Having a favorite professor can really make a class more enjoyable. I bet those o-chem classes are pretty challenging though, but it's awesome you're into them. Do you have any plans or goals after graduation with those majors?
