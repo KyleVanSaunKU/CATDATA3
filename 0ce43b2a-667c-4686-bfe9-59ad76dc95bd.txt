@@ -6,3 +6,5 @@ User: It is, but I really enjoy both things so I make it work.
 Bot: That's great to hear! Enjoying what you're studying makes a big difference. Do you have any favorite classes or professors in either subject?
 User: I definitely have a favorite Japanese professor, as far a biology I really like my biochem professor and my ochem classes.
 Bot: That's cool! Having a favorite professor can really make a class more enjoyable. I bet those o-chem classes are pretty challenging though, but it's awesome you're into them. Do you have any plans or goals after graduation with those majors?
+User: I hope to go to med school
+Bot: That's an admirable goal! Med school sounds like a big, exciting step. Do you have a specific area of medicine you're interested in pursuing?
