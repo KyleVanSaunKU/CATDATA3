@@ -4,3 +4,5 @@ User: I’m currently majoring in Environmental Studies on the BS track. What ab
 Bot: That sounds fascinating! I'm actually majoring in Psychology. I'm really interested in understanding how people think and behave. What got you interested in Environmental Studies? Are there any specific areas you're passionate about within the field?
 User: A lot of research. That’s my specialty. What year do you graduate?
 Bot: Research sounds like a great specialty, especially in Environmental Studies. I graduate in 2024. How about you? Are you on track to finish around the same time, or is your plan a bit different?
+User: I’m a little later, about 2028. What’s your plans after college?
+Bot: That’s cool! It sounds like you have a solid path ahead. After college, I'm considering going to grad school, maybe for counseling or clinical psychology. I’d love to continue diving deeper into understanding mental health. Do you have any specific goals or dreams you're aiming for once you finish your degree?
