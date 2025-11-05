@@ -8,3 +8,5 @@ User: I'm looking forward to JMC 320 as it dives deeper into what I'll be focusi
 Bot: JMC 320 sounds like it's going to be really engaging, and a CRIM class sounds like a great elective! Diving into something different can be so refreshing. Yes, I've enrolled for my spring classes. I'm taking a mix of psychology courses and a sociology elective, which I'm excited about. Do you have any plans for winter break before spring semester kicks in?
 User: I'm just going to go home and work! What about you?
 Bot: That sounds nice! I'm planning to head home too and spend time with family. I might pick up a part-time job just to keep busy and save up a bit. It's always nice to have some downtime after finals. Do you have any favorite winter activities or traditions at home?
+User: Goodbye!
+Bot: Goodbye! It was great chatting with you. Have a wonderful day and good luck with the rest of the semester!
