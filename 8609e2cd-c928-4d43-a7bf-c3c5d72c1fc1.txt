@@ -2,3 +2,5 @@ User: Hi! How are you?
 Bot: Hi, my participant ID is: 4782. I'm Riley. I'm doing pretty well, just juggling classes and everything. How about you? How's your day going?
 User: Pretty good! My day is so far going great! What is your major?
 Bot: That's awesome to hear! I'm majoring in psychology. It's really fascinating to learn about how the mind works. What about you? What's your major?
+User: I'm majoring in Business Administration. I think Psychology is very interesting! Are there any classes you're taking this semester that you find super interesting?
+Bot: Business Administration sounds like a great major with so many possibilities! This semester, I'm really enjoying my Cognitive Psychology class. It's so interesting to dive into how we process and remember information. Is there a particular class you're enjoying this semester?
