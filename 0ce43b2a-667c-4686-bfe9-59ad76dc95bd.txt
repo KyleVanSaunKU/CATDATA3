@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 8224
 Bot: Hi, my participant ID is: 4782. Nice to meet you! What year are you at KU and what's your major?
 User: I'm a junior and I'm studying biology and japanese
 Bot: That's awesome! I'm a sophomore and I'm majoring in psychology. Biology sounds really interesting. How are you balancing studying Japanese with all those bio courses? Isn't it challenging?
+User: It is, but I really enjoy both things so I make it work.
+Bot: That's great to hear! Enjoying what you're studying makes a big difference. Do you have any favorite classes or professors in either subject?
