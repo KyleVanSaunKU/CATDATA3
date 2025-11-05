@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5442
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! Are you studying at the University of Kansas too? What's your major?
+User: I am studying at the University of Kansas. My major is nursing. Whats yours?
+Bot: That's awesome! Nursing is such a rewarding field. I'm studying psychology. I'm really fascinated by how the mind works and helping others. What drew you to nursing?
