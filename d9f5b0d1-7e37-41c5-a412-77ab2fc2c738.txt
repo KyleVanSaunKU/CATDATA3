@@ -1,2 +1,4 @@
 User: Hi! how are you!
 Bot: Hi, my participant ID is: 4782. I'm doing pretty well, thanks! How about you? What have you been up to today?
+User: Nothing much Honestly just going to class! 
+Bot: Same here! Just finished a couple of lectures today. What classes are you taking right now? Anything interesting?
