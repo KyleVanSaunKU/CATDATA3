@@ -6,3 +6,5 @@ User: Currently working on a paper for my Finance class
 Bot: That sounds intense! What's your paper about? Are you finding it interesting or is it more of a challenge?
 User: Its about the finances of Amazon and i find it very interesting
 Bot: That does sound intriguing! Amazon must have a really complex financial structure. Have you come across anything surprising or particularly noteworthy while working on it?
+User: Yes it does, are you studying anything interesting?
+Bot: I'm currently diving into a project for my Psychology class. It's about the impact of social media on mental health. I'm finding it pretty fascinating to see how something so present in our daily lives affects us. Have social media ever played a big role in your own life, positively or negatively?
