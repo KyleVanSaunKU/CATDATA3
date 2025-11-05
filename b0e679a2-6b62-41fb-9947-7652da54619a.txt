@@ -14,3 +14,5 @@ User: I really like Watson library but I haven't explored too many spots yet
 Bot: Watson Library is great; it's such a classic study space! Have you checked out any of the coffee shops near campus yet? They can also be cozy places to get some work done.
 User: Yes for sure!
 Bot: Nice! Do you have a favorite one so far? I love trying different ones, especially when they have good coffee and snacks.
+User: I like going to sylas and maddies which I guess isn't really a cafe but its really nice in there to do work during the day
+Bot: Sylas and Maddie's is such a nice spot! I love their ice cream; it’s a fun place to hang out. It’s great you found a spot where you can relax and get work done. Do you have a favorite ice cream flavor there?
