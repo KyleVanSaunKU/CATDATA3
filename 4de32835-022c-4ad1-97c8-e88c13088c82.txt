@@ -18,3 +18,5 @@ User: I am a jazz saxophonist
 Bot: That's amazing! Playing jazz saxophone sounds like a wonderful way to spend your time. How long have you been playing?
 User: About 9 years
 Bot: Wow, that's quite an impressive commitment! You must be really talented. Do you have a favorite piece or artist you love to play or listen to?
+User: On the Sunny Side of the Street
+Bot: That's a classic! Such a feel-good song. It must be a lot of fun to play. Have you had any memorable performances or favorite places to play?
