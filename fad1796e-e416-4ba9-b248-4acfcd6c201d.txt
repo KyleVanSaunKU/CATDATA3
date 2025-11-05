@@ -16,3 +16,5 @@ User: Super good book, read that one in high school. Did you watch the movie? I'
 Bot: Yes, I did watch the movie! I thought it was a really cool adaptation, and the soundtrack was amazing. I totally get not being into reading; sometimes watching a movie or series is just more engaging. Do you have a favorite movie or show? 
 User: Awesome, nice meeting you 
 Bot: Nice meeting you too! I enjoyed our chat. Have a great time in the Bahamas and good luck with your studies!
+User: Goodbye
+Bot: Goodbye! Take care and have an amazing trip!
