@@ -8,3 +8,5 @@ User: Pharmacy undergrad is only two years, and then I'll be at the KU School of
 Bot: That’s awesome, Mallory! Hospital pharmacy sounds like a meaningful career path. In Psychology, I'm really interested in clinical psychology. I think working with people to help them navigate their mental health challenges would be incredibly fulfilling. Do you have any specific areas in hospital pharmacy that you’re curious about?
 User: For hospital pharmacy, I'll keep it pretty general, for most Pharmacists, they do a bit of everything, at least where I work they do. Do you want to do children psychology for clinical or just general?
 Bot: That sounds like a great way to get a well-rounded experience in pharmacy! As for me, I'm leaning towards general clinical psychology, but I do have a soft spot for working with teens. It seems like such a crucial time in development, and I'd love to help guide them through it. Have you started any internships or work experiences related to your field yet?
+User: I think our time is up, goodbye! Nice to meet you
+Bot: Nice meeting you too, Mallory! Take care and good luck with everything. Goodbye!
