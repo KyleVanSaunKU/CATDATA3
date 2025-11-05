@@ -6,3 +6,5 @@ User: I really like my Jewish studies seminar
 Bot: That sounds really fascinating! What do you enjoy most about it?
 User: I enjoy smaller classes in general, but the professor is my favorite 
 Bot: That's awesome! Having a great professor can make all the difference. What makes them your favorite?
+User: He engages with us really well. He makes it seem like he loves his job  
+Bot: That's so inspiring! A passionate professor can make learning so much more enjoyable. Do you have any favorite topics you've covered so far in the seminar?
