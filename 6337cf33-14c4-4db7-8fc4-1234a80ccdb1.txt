@@ -14,3 +14,5 @@ User: I had an internship last summer at a news station and it’s kinda what ma
 Bot: That's interesting how an internship can really shape your direction like that! I'm still figuring out exactly where I want my degree to take me, but I'm open to various cities. I've thought about places like Denver or maybe heading back to the East Coast. I love the idea of somewhere that has a good mix of city life and nature. How about you, any cities you'd like to end up in?
 User: Yes that sounds great! I kind of have a wide range of places from Charleston to Chicago, but i think our time is up!
 Bot: Those both sound like such vibrant places to live and work! It's been amazing chatting with you. Good luck with everything, both with your studies and finding that perfect place to land. Take care!
+User: goodbye!
+Bot: Goodbye! Have a great day! 😊
