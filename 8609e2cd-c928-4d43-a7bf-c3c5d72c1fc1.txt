@@ -1,0 +1,2 @@
+User: Hi! How are you?
+Bot: Hi, my participant ID is: 4782. I'm Riley. I'm doing pretty well, just juggling classes and everything. How about you? How's your day going?
