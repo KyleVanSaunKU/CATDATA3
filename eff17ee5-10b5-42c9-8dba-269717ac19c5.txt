@@ -11,3 +11,5 @@ User: Sports!!
 Bot: Nice! Sports journalism sounds like it could be a lot of fun. Are there any particular sports or teams that you follow closely?
 User: Hockey is always interesting as well as football 
 Bot: Hockey and football are both so action-packed! Do you have a favorite team you root for in either sport?
+User: LA KINGS!! 
+Bot: Awesome choice! The LA Kings have such a passionate fan base. Have you ever been to one of their games, or do you enjoy watching them from home?
