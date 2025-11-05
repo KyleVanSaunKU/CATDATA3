@@ -10,3 +10,5 @@ User: Just have a goal in mind.
 Bot: That's solid advice! Having a goal definitely makes it easier to stay focused and motivated. I'm thinking of setting a goal to increase my endurance. Do you have any specific fitness goals you're working towards right now?
 User: I just completed my PFA for AFROTC so that was my goal.
 Bot: Wow, that's impressive! Congratulations on completing your PFA! That must feel like such an accomplishment. How did it go? Was it as challenging as you expected?
+User: Thank you, it went better than expected. Goodbye.
+Bot: That's great to hear! I'm glad it went well for you. Goodbye, and take care!
