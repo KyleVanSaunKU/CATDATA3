@@ -8,3 +8,5 @@ User: Chest and triceps are fun too. I really like working out in general.
 Bot: That's awesome! It's great to hear you enjoy working out. I feel like it really helps clear my mind and manage stress, especially with all the academic stuff going on. Do you have any tips for keeping motivated with your workouts?
 User: Just have a goal in mind.
 Bot: That's solid advice! Having a goal definitely makes it easier to stay focused and motivated. I'm thinking of setting a goal to increase my endurance. Do you have any specific fitness goals you're working towards right now?
+User: I just completed my PFA for AFROTC so that was my goal.
+Bot: Wow, that's impressive! Congratulations on completing your PFA! That must feel like such an accomplishment. How did it go? Was it as challenging as you expected?
