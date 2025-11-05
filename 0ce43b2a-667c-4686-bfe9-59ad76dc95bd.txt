@@ -16,3 +16,5 @@ User: I have gotten to shadow before, but nothing else
 Bot: That's a great start. Every bit of experience helps. Shadowing must have given you a good glimpse into the day-to-day life in the medical field. Do you remember any particular moments from your shadowing experience that stood out to you?
 User: Yes, but I'm not really allowed to talk about any of it because of patient confidentiality
 Bot: Of course, I completely understand. It's important to respect patient privacy. It still sounds like a valuable experience. It must have been interesting to see the interactions between doctors and patients firsthand. Do you have any particular skills you're working on now to prepare for med school, outside of your classes?
+User: I want to get emt certified
+Bot: That's a great idea! EMT certification would be such a beneficial experience and give you a lot of hands-on skills. How's that process going for you? Are you taking the certification course soon?
