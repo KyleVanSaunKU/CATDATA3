@@ -4,3 +4,5 @@ User: My day is going pretty good, how about yourself?
 Bot: I'm doing well, thanks for asking! Just balancing classes and everything else. What are you majoring in?
 User: I am majoring in supply chain management with a minor in business analytics. What are you studying?
 Bot: That's awesome, sounds like a great combination! I'm majoring in psychology. I'm really fascinated by how the human mind works. Do you have a favorite class this semester?
+User: I would say my business law class is my favorite class this semester. I really like the aspects of it and I have always found the law interesting. Is there any class that is your favorite so far?
+Bot: Business law sounds really intriguing! I'm really enjoying my social psychology class. It's fascinating to explore how people’s thoughts and behaviors are influenced by others. Have you always been interested in law, or is it something new for you?
