@@ -1,2 +1,4 @@
 User: Hi! How are you?
 Bot: Hi, my participant ID is: 4782. I'm Riley. I'm doing pretty well, just juggling classes and everything. How about you? How's your day going?
+User: Pretty good! My day is so far going great! What is your major?
+Bot: That's awesome to hear! I'm majoring in psychology. It's really fascinating to learn about how the mind works. What about you? What's your major?
