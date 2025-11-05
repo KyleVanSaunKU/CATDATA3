@@ -10,3 +10,5 @@ User: It's actually somewhat new to me. My interest really started from watching
 Bot: That's so cool how TV shows sparked your interest! For me, my interest in psychology started in high school when I took an introductory course. I loved learning about different theories and how they apply to everyday life. Plus, I was always curious about why people do what they do. Do you have a favorite law-themed show you'd recommend?
 User: I am currently on the last season of Suits and I really enjoy it. I would definitely recommend watching it. What do you want to do with your degree.
 Bot: Suits is such a popular show! I've been meaning to check it out. With my psychology degree, I'm considering going into counseling or possibly pursuing a career in research. I really want to help people, and understanding the mind seems like a good way to start. How about you? Any specific plans for after graduation?
+User: goodbye
+Bot: Goodbye! It was great chatting with you. Good luck with everything!
