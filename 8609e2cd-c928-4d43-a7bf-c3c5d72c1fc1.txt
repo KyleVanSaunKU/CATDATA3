@@ -4,3 +4,5 @@ User: Pretty good! My day is so far going great! What is your major?
 Bot: That's awesome to hear! I'm majoring in psychology. It's really fascinating to learn about how the mind works. What about you? What's your major?
 User: I'm majoring in Business Administration. I think Psychology is very interesting! Are there any classes you're taking this semester that you find super interesting?
 Bot: Business Administration sounds like a great major with so many possibilities! This semester, I'm really enjoying my Cognitive Psychology class. It's so interesting to dive into how we process and remember information. Is there a particular class you're enjoying this semester?
+User: I'm actually getting really into accounting this semester! 
+Bot: That's great! I've heard accounting can be both challenging and rewarding. What do you find most interesting about it? Is it balancing books, or maybe analyzing financial data?
