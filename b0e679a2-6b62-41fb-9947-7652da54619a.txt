@@ -10,3 +10,5 @@ User: The hardest one I'm taking is probably anatomy! I think I'm just going to 
 Bot: Anatomy sounds intense, but I'm sure you'll do great with a solid study plan! I have picked my classes, and I'm taking cognitive psychology, statistics, and a research methods course next semester. It's going to be a busy semester for both of us! Do you find study groups helpful, or do you prefer studying on your own?
 User: Wow that sounds like a lot of work! I usually like studying on my own because I can get really easily distracted and off task with other people
 Bot: I get that; sometimes it's just easier to focus when you're solo. I also like studying alone when I really need to concentrate. Do you have any favorite spots on campus where you like to study?
+User: I really like Watson library but I haven't explored too many spots yet
+Bot: Watson Library is great; it's such a classic study space! Have you checked out any of the coffee shops near campus yet? They can also be cozy places to get some work done.
