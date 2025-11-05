@@ -14,3 +14,5 @@ User: What's your favorite book?
 Bot: That's a tough one, but I'd have to say "The Great Gatsby." I love the way it captures the Jazz Age and the themes of aspiration and decadence. Plus, the characters are so intriguing! How about you, do you have a favorite book or genre you love to read?
 User: Super good book, read that one in high school. Did you watch the movie? I'm not a reader...
 Bot: Yes, I did watch the movie! I thought it was a really cool adaptation, and the soundtrack was amazing. I totally get not being into reading; sometimes watching a movie or series is just more engaging. Do you have a favorite movie or show? 
+User: Awesome, nice meeting you 
+Bot: Nice meeting you too! I enjoyed our chat. Have a great time in the Bahamas and good luck with your studies!
