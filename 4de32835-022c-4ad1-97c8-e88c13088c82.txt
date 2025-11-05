@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hi, my participant ID is: 4782. How's it going?
+User: Great. Any classes this morning?
+Bot: Yeah, I had a psychology class earlier. It's always interesting! How about you? Any classes you've enjoyed lately?
