@@ -8,3 +8,5 @@ User: its interesting to learn about the different organizatinoal styles and cul
 Bot: Definitely, understanding those different styles and cultures can be so eye-opening! Have you found any particular style or culture that you think is really fascinating or that you might want to work in someday?
 User: id probably like to work somewhere that has a strong culture and values its employees success and well-being
 Bot: That sounds like a great environment to aim for! It's so important to feel valued and supported where you work. Are there any specific companies or industries you're interested in where you've heard they have that kind of culture?
+User: one of the examples we used in class was google. I think it would be really cool to work somewhere like that
+Bot: Google definitely has a reputation for its innovative and employee-focused culture. It must have been interesting to learn about it in class. What do you think would be the most exciting part of working at a company like Google?
