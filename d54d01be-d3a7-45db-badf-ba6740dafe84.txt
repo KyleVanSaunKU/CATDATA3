@@ -6,3 +6,5 @@ User: oh that sounds so fun, I am majoring in pre nursing!
 Bot: Pre-nursing sounds awesome! I bet you're learning so much. What got you interested in nursing?
 User: yes i am , it is definitely a lot. I got interested because I knew I wanted to do something healthcare, I heard from so many people that there are so many opportunities in nursing to find what you would like best.
 Bot: That makes a lot of sense! The variety in nursing is definitely appealing. I think it's awesome how many different paths you can take in the healthcare field. Do you have a specific area in nursing you're thinking about focusing on?
+User: yes, honestly I am interested in being a nurse anesthetist or something pediatric. Nothing is for sure because I still want to explore the other options.
+Bot: Both of those sound like incredible paths! It's great that you're keeping your options open—you never know what might really spark your interest. Do you have any classes right now that are helping you explore those interests?
