@@ -4,3 +4,5 @@ User: Pretty good what about yours?
 Bot: It's going pretty well, thanks! Are you studying anything interesting at the moment?
 User: Currently working on a paper for my Finance class
 Bot: That sounds intense! What's your paper about? Are you finding it interesting or is it more of a challenge?
+User: Its about the finances of Amazon and i find it very interesting
+Bot: That does sound intriguing! Amazon must have a really complex financial structure. Have you come across anything surprising or particularly noteworthy while working on it?
