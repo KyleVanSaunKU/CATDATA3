@@ -4,3 +4,5 @@ User: Great. Any classes this morning?
 Bot: Yeah, I had a psychology class earlier. It's always interesting! How about you? Any classes you've enjoyed lately?
 User: I really like my Jewish studies seminar
 Bot: That sounds really fascinating! What do you enjoy most about it?
+User: I enjoy smaller classes in general, but the professor is my favorite 
+Bot: That's awesome! Having a great professor can make all the difference. What makes them your favorite?
