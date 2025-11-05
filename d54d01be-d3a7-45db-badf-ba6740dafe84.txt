@@ -10,3 +10,5 @@ User: yes, honestly I am interested in being a nurse anesthetist or something pe
 Bot: Both of those sound like incredible paths! It's great that you're keeping your options open—you never know what might really spark your interest. Do you have any classes right now that are helping you explore those interests?
 User: exactly. As of now I am still taking my classes that are required for pre nursing so they aren't specific to one topic
 Bot: Got it! It's good to have that solid foundation first. I remember going through the basics too before diving deeper into specialized courses. Are there any required classes that you're enjoying more than others?
+User: yes exactly. Well I am in anatomy and physiology right now at the same time which wasn't the best idea, but I personally feel that I am better at physiology and am more interested in it.
+Bot: I totally get what you mean! Taking both at once seems like a heavy load but it’s awesome that you’re finding your groove in physiology. It's such a fascinating subject! What about physiology catches your interest the most?
