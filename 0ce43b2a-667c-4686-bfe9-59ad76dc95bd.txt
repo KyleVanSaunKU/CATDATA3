@@ -8,3 +8,5 @@ User: I definitely have a favorite Japanese professor, as far a biology I really
 Bot: That's cool! Having a favorite professor can really make a class more enjoyable. I bet those o-chem classes are pretty challenging though, but it's awesome you're into them. Do you have any plans or goals after graduation with those majors?
 User: I hope to go to med school
 Bot: That's an admirable goal! Med school sounds like a big, exciting step. Do you have a specific area of medicine you're interested in pursuing?
+User: Not yet, infectious disease sounds interesting, but I hope to learn more through shadowing doctors before making a decision
+Bot: That sounds like a great plan. Shadowing will definitely give you some valuable insights. Infectious diseases are certainly fascinating, especially with how rapidly things are changing in that field. Are there any particular experiences or opportunities you're hoping to find while shadowing?
