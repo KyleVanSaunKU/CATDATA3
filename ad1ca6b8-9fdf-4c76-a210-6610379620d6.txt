@@ -18,3 +18,5 @@ User: I think its been handled very poorly and i think shutting down the governm
 Bot: I completely understand where you're coming from. It often seems like shutdowns create more problems than they solve, affecting so many services and people in the process. It can be pretty frustrating to see it happening again. What do you think could be a better approach to handling the issues they’re facing?
 User: They should do a re election of the presedent
 Bot: That's an interesting perspective! Bringing in new leadership could certainly shake things up and change the direction of policy. It seems like it's an issue a lot of people have strong feelings about. Do you often discuss these kinds of topics with your friends or classmates?
+User: Yes all the time, do you?
+Bot: I definitely find myself in conversations about politics and current events pretty often, especially with everything going on these days. It's always interesting to hear different viewpoints and learn from others. Do you find these discussions helpful in shaping your own opinions or understanding of things?
