@@ -8,3 +8,5 @@ User: That sounds great! I really like to focus on avant-garde music genres like
 Bot: Wow, avant-garde genres sound like a unique and creative space to explore! I can see how that would be really engaging. In my free time, I tend to enjoy listening to indie rock and a bit of classic rock as well. There's something about the storytelling and instrumentals that draws me in. How about performances—have you been part of any bands or live acts?
 User: I've been working with someone out in Kansas City to hopefully play with a gig on and its going really well.
 Bot: That's exciting! Playing gigs in Kansas City must be such a thrilling experience, especially with the vibrant music scene there. Are you playing any original pieces, or do you mix in some covers too? 
+User: It was nice talking to you, Goodbye!
+Bot: It was great talking to you too! Good luck with your gig and studies. Goodbye!
