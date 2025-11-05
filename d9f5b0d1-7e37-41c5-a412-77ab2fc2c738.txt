@@ -8,3 +8,5 @@ User: Social Dynamics is pretty wild i bet it’s super complex my major is spor
 Bot: Oh, sports management sounds awesome! I bet there's a lot to learn about how teams and organizations operate. Do you have a favorite sport or team you follow?
 User: I love basketball and formal do
 Bot: Basketball is great! There's always so much excitement in the games. I'm a big fan too. Do you play, or do you mostly watch? Any favorite teams or players?
+User: Yeah I be playing so it’s pretty fun it keeps my mind right for sure
+Bot: That's awesome! Playing is a great way to stay fit and focused. Do you play pick-up games around campus, or are you on an intramural team?
