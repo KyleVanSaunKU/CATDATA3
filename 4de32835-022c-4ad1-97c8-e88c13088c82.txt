@@ -16,3 +16,5 @@ User: I do not, no
 Bot: That's fair, everyone has their own preferences for entertainment. What do you usually like to do in your free time?
 User: I am a jazz saxophonist
 Bot: That's amazing! Playing jazz saxophone sounds like a wonderful way to spend your time. How long have you been playing?
+User: About 9 years
+Bot: Wow, that's quite an impressive commitment! You must be really talented. Do you have a favorite piece or artist you love to play or listen to?
