@@ -4,3 +4,5 @@ User: Nothing much Honestly just going to class!
 Bot: Same here! Just finished a couple of lectures today. What classes are you taking right now? Anything interesting?
 User: Not really basically just the cores and my major classes honestly what about you do you have any classes you like more then others?
 Bot: Yeah, I'm in the same boat with core classes. But I really enjoy my psychology class this semester—it's super interesting, especially when we dive into topics like social dynamics. What’s your major?
+User: Social Dynamics is pretty wild i bet it’s super complex my major is sports management 
+Bot: Oh, sports management sounds awesome! I bet there's a lot to learn about how teams and organizations operate. Do you have a favorite sport or team you follow?
