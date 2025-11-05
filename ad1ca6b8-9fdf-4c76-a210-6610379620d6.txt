@@ -16,3 +16,5 @@ User: I like to see the news sources on there as otherwise I cant keep up with e
 Bot: Twitter is definitely a great platform for staying updated with the news! The government shutdowns can be quite a complex issue. It's fascinating to see how public opinion and reactions unfold in real-time on social media. Have you had any strong opinions or thoughts on the shutdown or how it's being handled?
 User: I think its been handled very poorly and i think shutting down the government never leads to anything good
 Bot: I completely understand where you're coming from. It often seems like shutdowns create more problems than they solve, affecting so many services and people in the process. It can be pretty frustrating to see it happening again. What do you think could be a better approach to handling the issues they’re facing?
+User: They should do a re election of the presedent
+Bot: That's an interesting perspective! Bringing in new leadership could certainly shake things up and change the direction of policy. It seems like it's an issue a lot of people have strong feelings about. Do you often discuss these kinds of topics with your friends or classmates?
