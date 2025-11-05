@@ -10,3 +10,5 @@ User: He engages with us really well. He makes it seem like he loves his job
 Bot: That's so inspiring! A passionate professor can make learning so much more enjoyable. Do you have any favorite topics you've covered so far in the seminar?
 User: We are recording a podcast for our final project. It’s coming along nicely and I’m having a lot of fun with it. What about you? What do you like about your classes
 Bot: That sounds like such a cool project! Working on a podcast must be a fun and creative experience. I really enjoy the discussions in my psychology class. We often touch on topics about human behavior, which I find really intriguing. Have you ever thought about making a podcast outside of class?
+User: I have not thought about it. So many people make podcasts nowadays though. It seems that anybody with a microphone at this point just makes podcasts 
+Bot: That's so true! It seems like podcasts are everywhere these days. I guess that's part of what makes them appealing—there's so much variety and anyone can share their interests and perspectives. Do you listen to any podcasts in your free time?
