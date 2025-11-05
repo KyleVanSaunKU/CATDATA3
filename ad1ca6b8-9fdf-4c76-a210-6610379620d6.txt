@@ -10,3 +10,5 @@ User: Yes it does, are you studying anything interesting?
 Bot: I'm currently diving into a project for my Psychology class. It's about the impact of social media on mental health. I'm finding it pretty fascinating to see how something so present in our daily lives affects us. Have social media ever played a big role in your own life, positively or negatively?
 User: WOW COOL, thats amazing I think social media has caused me to feel much better about myself
 Bot: That's great to hear! It's amazing how connecting with others and finding supportive communities online can have such a positive impact. Do you have a favorite platform or community that you enjoy being a part of?
+User: I like twitter mostly
+Bot: Twitter can be pretty engaging with all the instant updates and diverse content. Do you follow any particular topics or people that make the experience rewarding for you?
