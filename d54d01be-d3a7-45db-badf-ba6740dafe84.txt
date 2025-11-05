@@ -14,3 +14,5 @@ User: yes exactly. Well I am in anatomy and physiology right now at the same tim
 Bot: I totally get what you mean! Taking both at once seems like a heavy load but it’s awesome that you’re finding your groove in physiology. It's such a fascinating subject! What about physiology catches your interest the most?
 User: i think what I enjoy is knowing the why about everything in physiology
 Bot: That's a really cool perspective! Understanding the "why" behind how our bodies work can be so intriguing. It must really help deepen your appreciation for how complex and amazing the human body is. Do you have any favorite topics or systems you've covered so far?
+User: Goodbye!
+Bot: Goodbye! It was really nice chatting with you. Good luck with your studies, and take care!
