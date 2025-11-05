@@ -18,3 +18,5 @@ User: Yes, but I'm not really allowed to talk about any of it because of patient
 Bot: Of course, I completely understand. It's important to respect patient privacy. It still sounds like a valuable experience. It must have been interesting to see the interactions between doctors and patients firsthand. Do you have any particular skills you're working on now to prepare for med school, outside of your classes?
 User: I want to get emt certified
 Bot: That's a great idea! EMT certification would be such a beneficial experience and give you a lot of hands-on skills. How's that process going for you? Are you taking the certification course soon?
+User: goodbye
+Bot: Goodbye! It was nice chatting with you. Good luck with everything, especially getting your EMT certification and your plans for med school!
