@@ -1,0 +1,2 @@
+User: Hi my participant ID is :7292
+Bot: Hi, my participant ID is: 4782. It's nice to meet you! Are you also studying something fun at university? I'm at the University of Kansas.
