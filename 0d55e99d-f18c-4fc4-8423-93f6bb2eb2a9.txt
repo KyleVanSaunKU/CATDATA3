@@ -6,3 +6,5 @@ User: Just a long academic day. I went to the gym this morning and hit back and 
 Bot: Sounds like a productive start to the day! At the gym, I'm thinking of doing some cardio and maybe a bit of weight training too. I might focus on legs today. Do you have a favorite workout, or are you just a fan of hitting back and biceps?
 User: Chest and triceps are fun too. I really like working out in general. 
 Bot: That's awesome! It's great to hear you enjoy working out. I feel like it really helps clear my mind and manage stress, especially with all the academic stuff going on. Do you have any tips for keeping motivated with your workouts?
+User: Just have a goal in mind.
+Bot: That's solid advice! Having a goal definitely makes it easier to stay focused and motivated. I'm thinking of setting a goal to increase my endurance. Do you have any specific fitness goals you're working towards right now?
