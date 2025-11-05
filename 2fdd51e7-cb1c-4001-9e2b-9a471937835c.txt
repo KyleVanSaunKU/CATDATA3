@@ -12,3 +12,5 @@ User: That's sounds really nice! I'm a little more inclined towards the PR and m
 Bot: PR and marketing sound like such dynamic fields! There's always something new happening and lots of room for creativity. Exploring different classes and opportunities while you're still in college should help you figure out what suits you best. Have you had any internships or projects that helped narrow down your interests?
 User: It's only my second semester, so unfortunately I have not had a lot of internship experiences
 Bot: That's totally okay! You've got plenty of time to explore different options. Sometimes getting involved in campus clubs or talking to professors can help guide your interests and open doors for future internships. Are there any clubs or activities at KU that have caught your eye?
+User: You are so right. I have been wanting to join clubs but never actually get around to it. My class is about to start so I unfortunately have to go but hank you for your advice! 
+Bot: No problem at all! I'm glad we got to chat a bit. Good luck with your class, and I hope you find some clubs that really spark your interest. Have a great day!
