@@ -4,3 +4,5 @@ User: Yes! What grade are you in?
 Bot: I'm a sophomore. How about you? What are you studying?
 User: I'm a freshman! Im doing exercise science on a pre physical therapy track! what about you?
 Bot: That sounds awesome! I'm majoring in psychology with a focus on behavioral science. How are you finding your classes so far?
+User: pretty easy so far for this semester but I just signed up for my next semester and they seem a little harder haha
+Bot: Sounds like a bit of a challenge ahead! What courses are you taking next semester? Have you got any strategies for tackling the tougher ones?
