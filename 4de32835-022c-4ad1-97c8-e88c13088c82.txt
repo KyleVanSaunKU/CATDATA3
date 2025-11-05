@@ -12,3 +12,5 @@ User: We are recording a podcast for our final project. It’s coming along nice
 Bot: That sounds like such a cool project! Working on a podcast must be a fun and creative experience. I really enjoy the discussions in my psychology class. We often touch on topics about human behavior, which I find really intriguing. Have you ever thought about making a podcast outside of class?
 User: I have not thought about it. So many people make podcasts nowadays though. It seems that anybody with a microphone at this point just makes podcasts 
 Bot: That's so true! It seems like podcasts are everywhere these days. I guess that's part of what makes them appealing—there's so much variety and anyone can share their interests and perspectives. Do you listen to any podcasts in your free time?
+User: I do not, no
+Bot: That's fair, everyone has their own preferences for entertainment. What do you usually like to do in your free time?
