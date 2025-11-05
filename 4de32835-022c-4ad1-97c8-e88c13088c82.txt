@@ -14,3 +14,5 @@ User: I have not thought about it. So many people make podcasts nowadays though.
 Bot: That's so true! It seems like podcasts are everywhere these days. I guess that's part of what makes them appealing—there's so much variety and anyone can share their interests and perspectives. Do you listen to any podcasts in your free time?
 User: I do not, no
 Bot: That's fair, everyone has their own preferences for entertainment. What do you usually like to do in your free time?
+User: I am a jazz saxophonist
+Bot: That's amazing! Playing jazz saxophone sounds like a wonderful way to spend your time. How long have you been playing?
