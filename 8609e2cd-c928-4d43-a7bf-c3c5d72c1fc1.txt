@@ -8,3 +8,5 @@ User: I'm actually getting really into accounting this semester!
 Bot: That's great! I've heard accounting can be both challenging and rewarding. What do you find most interesting about it? Is it balancing books, or maybe analyzing financial data?
 User: Honestly balancing books! I think its kinda fun to do, and it reminds me of a puzzle.
 Bot: That makes a lot of sense! I can see how balancing books would feel like solving a puzzle. It's all about finding the right pieces and making sure everything fits perfectly. Do you think you might want to focus on accounting in your career, or are there other areas of business you're curious about?
+User: I'm not certain yet. I'm planning on taking a few other classes next semester to see what I would be interested in for the buisness field.
+Bot: That sounds like a great plan! It’s smart to explore a bit before deciding. There's so much variety within business, and it's great that you're keeping your options open. Do you have any specific classes in mind that you're thinking about taking next semester?
