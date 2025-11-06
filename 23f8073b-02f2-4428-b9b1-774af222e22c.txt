@@ -6,3 +6,5 @@ User: i am working on anatomy and hses. what are you working on
 Bot: I bet that keeps you busy! I'm working on some psychology and sociology assignments. There's always so much to learn. How are you finding anatomy?
 User: anatomy has its ups and downs. lots of memorizing and repeating questions over
 Bot: I can imagine! That does sound challenging, but I bet it's rewarding too. Do you have any particular strategies for memorizing all those details?
+User: i usually write it down to help me jog my thoughts down
+Bot: That's a great idea! Writing things down definitely helps reinforce information. I'm a fan of making flashcards myself. Do you have a favorite spot on campus where you like to study?
