@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5059
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! What are you studying at the University of Kansas? I'm curious to know what you're passionate about.
 User: I am studyng english! I am passionate about writing stories
 Bot: That's awesome! I'm also really interested in stories, especially creative writing. What genre do you usually write in? I'm fascinated by how different genres can capture such diverse human experiences.
+User: I love fantasy
+Bot: Fantasy is amazing! There's something so captivating about creating entire worlds and magical systems. Do you have a favorite book or author that inspires your writing? I'm always on the lookout for new fantasy reads.
