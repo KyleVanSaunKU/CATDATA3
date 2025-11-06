@@ -8,3 +8,5 @@ User: I currently work in nonprofit and hopefully will stay there, but we'll see
 Bot: That's awesome! Working in nonprofit sounds really fulfilling. I'm leaning towards child or adolescent therapy. I think it's important to help young people early on, you know? What kind of work do you do in your nonprofit role right now?
 User: I do operations and development assistance for a type 1 diabetes research organization
 Bot: Wow, that sounds like such meaningful work! Supporting type 1 diabetes research must be so rewarding, especially knowing you're contributing to such an important cause. How did you get involved with that organization?
+User: I have T1D. I used to be a volunteer with the organization
+Bot: That makes a lot of sense, and it must give you a really personal connection to the work you're doing. It's great that you've turned a personal experience into something so impactful. Do you have any advice for someone who's looking to get involved with nonprofit work?
