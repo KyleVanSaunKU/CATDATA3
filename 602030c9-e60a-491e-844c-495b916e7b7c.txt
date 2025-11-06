@@ -8,3 +8,5 @@ User: Oh that sounds neat! Do you have a background in Psychology or is it just 
 Bot: I do actually have a bit of a background in Psychology—I'm minoring in it. It complements my major pretty well. I totally get what you mean about the smaller class size; it makes discussions so much more engaging. What's your major, by the way?
 User: I'm majoring in Political Science and History. I hope to teach someday, but I'm also possibly considering pursuing my masters in Public Administration.
 Bot: Wow, that's really impressive! Political Science and History sound like they pair nicely together, and teaching would be such a rewarding path. What inspired you to choose that route? And the idea of a master's in Public Administration sounds like a great option too.
+User: I had teachers I loved in high school that really made my educational experience worthwhile; I'd like to do the same for other kids. I'm supposed to say goodbye now, to continue to experiment. Nice talking to you! Goodbye.
+Bot: That’s awesome to hear! Having inspiring teachers makes a huge difference. It was great chatting with you, too. Goodbye and good luck with everything!
