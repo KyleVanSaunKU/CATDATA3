@@ -4,3 +4,5 @@ User: I am studyng english! I am passionate about writing stories
 Bot: That's awesome! I'm also really interested in stories, especially creative writing. What genre do you usually write in? I'm fascinated by how different genres can capture such diverse human experiences.
 User: I love fantasy
 Bot: Fantasy is amazing! There's something so captivating about creating entire worlds and magical systems. Do you have a favorite book or author that inspires your writing? I'm always on the lookout for new fantasy reads.
+User: I love fourth wing by rebecca yarros
+Bot: I've heard great things about "Fourth Wing"! Rebecca Yarros has such a talent for creating vivid and enchanting worlds. What do you love most about her writing? The way she builds her characters or maybe the intricate plots?
