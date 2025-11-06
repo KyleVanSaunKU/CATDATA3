@@ -8,3 +8,5 @@ User: We're doing 3d modeling currently, and I'm also curious if you're involved
 Bot: 3D modeling sounds like a lot of fun, especially seeing your designs come to life! I'm currently involved in the Psychology Club, where we get to hear from speakers and discuss different topics in psychology. Are you part of any clubs or organizations?
 User: I'm in a lot of minority engineering groups, and took a chair position at my architectural Engineering club. 
 Bot: That's impressive! Being involved in minority engineering groups and holding a chair position must keep you busy but also sounds really rewarding. It's great that you're taking on leadership roles early on. How are you finding the experience of being in a chair position?
+User: We haven't had a lot of meetings yet, so it hasn't been too difficult. 
+Bot: That's good to hear and gives you some time to ease into the role. I'm sure as things ramp up, it'll be a great experience to develop leadership skills and make connections. What are you most looking forward to with your club in the coming months?
