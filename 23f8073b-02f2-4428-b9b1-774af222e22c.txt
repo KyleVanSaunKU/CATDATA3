@@ -8,3 +8,5 @@ User: anatomy has its ups and downs. lots of memorizing and repeating questions 
 Bot: I can imagine! That does sound challenging, but I bet it's rewarding too. Do you have any particular strategies for memorizing all those details?
 User: i usually write it down to help me jog my thoughts down
 Bot: That's a great idea! Writing things down definitely helps reinforce information. I'm a fan of making flashcards myself. Do you have a favorite spot on campus where you like to study?
+User: i like to study in the first floor of the library or in my bed at my home
+Bot: Nice choices! The library's first floor has such a good atmosphere for staying focused, and studying in bed is super cozy. Do you have a go-to snack or drink when you're studying?
