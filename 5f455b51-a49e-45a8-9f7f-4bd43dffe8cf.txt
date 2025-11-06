@@ -6,3 +6,5 @@ User: Probably the cultural aspects and communication across cultures. What are 
 Bot: That sounds fascinating! Understanding different cultural dynamics must be really insightful. I'm hoping to go into counseling or some kind of therapy work after I graduate. I really like helping people and understanding what makes them tick. Do you have any plans for after you finish your degree?
 User: I currently work in nonprofit and hopefully will stay there, but we'll see. Do you have a therapy specialty that you would like to focus on?
 Bot: That's awesome! Working in nonprofit sounds really fulfilling. I'm leaning towards child or adolescent therapy. I think it's important to help young people early on, you know? What kind of work do you do in your nonprofit role right now?
+User: I do operations and development assistance for a type 1 diabetes research organization
+Bot: Wow, that sounds like such meaningful work! Supporting type 1 diabetes research must be so rewarding, especially knowing you're contributing to such an important cause. How did you get involved with that organization?
