@@ -20,3 +20,5 @@ User: i haven't tried anything new yet but i found that continuing to go on walk
 Bot: Walks are such a great way to clear your mind and get refreshed! I try to take breaks by going for a quick walk around the campus too. It's amazing how just a little movement can make a difference. Do you have a favorite spot on campus to walk to?
 User: i walk around to mass street or around campus. i love stopping by potter lake!
 Bot: Mass Street is such a fun area! And Potter Lake is beautiful – especially when the weather's nice. It must feel so peaceful there. Do you ever bring a friend along, or do you prefer walking alone to unwind?
+User: i prefer going with friends but i go for late night walks so i usually end up going alone
+Bot: Late-night walks can be so relaxing and give you some time to think. It's nice that you get to enjoy those peaceful moments, though it’s always fun to share a walk with friends when you can. Do you listen to music or a podcast while you walk, or just take in the quiet?
