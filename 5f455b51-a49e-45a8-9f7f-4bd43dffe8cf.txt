@@ -12,3 +12,5 @@ User: I have T1D. I used to be a volunteer with the organization
 Bot: That makes a lot of sense, and it must give you a really personal connection to the work you're doing. It's great that you've turned a personal experience into something so impactful. Do you have any advice for someone who's looking to get involved with nonprofit work?
 User: Volunteer with the organization first to see if you really like it before applying!
 Bot: That's really practical advice! Volunteering sounds like a great way to get a feel for the organization's culture and mission before committing to a full-time role. Have you been able to meet a lot of interesting people through your work there?
+User: For sure, the work always keeps me on my toes haha
+Bot: I bet! It sounds like it's never a dull moment, which is great for keeping things exciting. Do you have any memorable experiences or moments from your time there that stand out?
