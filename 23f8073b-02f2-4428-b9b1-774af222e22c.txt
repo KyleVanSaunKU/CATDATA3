@@ -10,3 +10,5 @@ User: i usually write it down to help me jog my thoughts down
 Bot: That's a great idea! Writing things down definitely helps reinforce information. I'm a fan of making flashcards myself. Do you have a favorite spot on campus where you like to study?
 User: i like to study in the first floor of the library or in my bed at my home
 Bot: Nice choices! The library's first floor has such a good atmosphere for staying focused, and studying in bed is super cozy. Do you have a go-to snack or drink when you're studying?
+User: ooh good question. i realy like anything sweet or sour like caffeinated drinks. what about you? 
+Bot: Sweet and sour snacks sound perfect for keeping your energy up! I usually go for coffee and some chocolate – especially dark chocolate if I'm feeling fancy. It gives me a little boost. Do you have a favorite caffeinated drink?
