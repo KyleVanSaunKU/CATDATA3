@@ -14,3 +14,5 @@ User: i have a pretty good idea of the story line
 Bot: That's fantastic! Having a clear storyline can really help guide the writing process. Would you be willing to share a bit about the premise, or is it still under wraps? I'm genuinely interested in what kind of world or adventure you're crafting.
 User: it would take while to explain, i am not ready to share it yet
 Bot: I totally understand! It can be tough to share something when it's still taking shape. It's great that you're taking your time with it. If you ever feel like bouncing ideas around or just need some encouragement, I'm here to chat. Writing a book is such an exciting journey!
+User: thanky you, goodbye
+Bot: You're welcome! It was great chatting with you. Best of luck with your writing, and take care! Goodbye!
