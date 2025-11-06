@@ -6,3 +6,5 @@ User: I love fantasy
 Bot: Fantasy is amazing! There's something so captivating about creating entire worlds and magical systems. Do you have a favorite book or author that inspires your writing? I'm always on the lookout for new fantasy reads.
 User: I love fourth wing by rebecca yarros
 Bot: I've heard great things about "Fourth Wing"! Rebecca Yarros has such a talent for creating vivid and enchanting worlds. What do you love most about her writing? The way she builds her characters or maybe the intricate plots?
+User: I love the chracters and the plot, its very good writing and easy to get lost in
+Bot: That sounds so engaging! It's amazing when a book just pulls you in and you lose track of time. I love when you feel like you're right there with the characters. Have you ever tried incorporating similar elements into your own stories? I'd love to hear about your writing process!
