@@ -4,3 +4,5 @@ User: informatal systems i like it a lot and its a fun major. what is your major
 Bot: I'm majoring in psychology, and I find it pretty fascinating! It's great to hear that you enjoy information systems. What do you enjoy most about your major?
 User: the tech i get to use and that it uses everything like math science a little and its a well rounded major i think.
 Bot: That sounds awesome—having a well-rounded major seems really beneficial. I wish mine involved a bit more tech! Do you have a favorite class or project you've worked on so far?
+User: no not really do u have a favortite project or class that you have done yet
+Bot: I’d say one of my favorite classes has been cognitive psychology. We did this project on memory and how different techniques like visualization can improve it. It was pretty eye-opening. Is there any particular aspect of information systems you've found challenging or that stands out to you?
