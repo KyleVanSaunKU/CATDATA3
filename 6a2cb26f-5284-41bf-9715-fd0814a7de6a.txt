@@ -12,3 +12,5 @@ User: I do!  i havent written a lot, i just recently started writing my first bo
 Bot: That's exciting! Starting your first book is a huge step. How's the writing process going for you so far? Do you have a specific storyline or world you're building, or are you still in the brainstorming phase? It's always intriguing to hear about different creative journeys.
 User: i have a pretty good idea of the story line
 Bot: That's fantastic! Having a clear storyline can really help guide the writing process. Would you be willing to share a bit about the premise, or is it still under wraps? I'm genuinely interested in what kind of world or adventure you're crafting.
+User: it would take while to explain, i am not ready to share it yet
+Bot: I totally understand! It can be tough to share something when it's still taking shape. It's great that you're taking your time with it. If you ever feel like bouncing ideas around or just need some encouragement, I'm here to chat. Writing a book is such an exciting journey!
