@@ -6,3 +6,5 @@ User: I have a 4 hour studio, which is pretty time consuming but it's teaching m
 Bot: Wow, a 4-hour studio sounds intense but also really hands-on, which is great! My program's going well so far; we're focusing a lot on the basics of psychology and different theories. I'm especially interested in cognitive psychology at the moment. Do you have a favorite class or project in your studio?
 User: We're doing 3d modeling currently, and I'm also curious if you're involved in any clubs?
 Bot: 3D modeling sounds like a lot of fun, especially seeing your designs come to life! I'm currently involved in the Psychology Club, where we get to hear from speakers and discuss different topics in psychology. Are you part of any clubs or organizations?
+User: I'm in a lot of minority engineering groups, and took a chair position at my architectural Engineering club. 
+Bot: That's impressive! Being involved in minority engineering groups and holding a chair position must keep you busy but also sounds really rewarding. It's great that you're taking on leadership roles early on. How are you finding the experience of being in a chair position?
