@@ -16,3 +16,5 @@ User: ooh i love dark chocolate. i usually drink redbull, alani, or diet coke fo
 Bot: Dark chocolate buddies! Red Bull and Alani are great for that quick energy kick. I usually go for iced coffee when I need a boost but I might have to try Alani sometime! Do you have a go-to flavor for your drinks?
 User: probably blue razz or anything apple flavored. what flavor do you get in iced coffee?
 Bot: Blue razz and apple sound delicious! For iced coffee, I usually stick with something classic like vanilla, but I sometimes like to try caramel for a change. It's fun to mix it up now and then. Have you tried any new study techniques recently?
+User: i haven't tried anything new yet but i found that continuing to go on walks helps me get a relaxing break
+Bot: Walks are such a great way to clear your mind and get refreshed! I try to take breaks by going for a quick walk around the campus too. It's amazing how just a little movement can make a difference. Do you have a favorite spot on campus to walk to?
