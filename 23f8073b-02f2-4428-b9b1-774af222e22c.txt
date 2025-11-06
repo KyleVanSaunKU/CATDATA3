@@ -26,3 +26,5 @@ User: i listen to music or sometimes i just listen to the nature around me
 Bot: That's the perfect mix! Sometimes music adds a nice soundtrack, and other times, just listening to the world around you can be really calming. What kind of music do you usually listen to on your walks?
 User: usually sad music. what about you?
 Bot: Interesting choice! Sad music can be oddly comforting sometimes. I usually go for something upbeat or indie, depending on my mood. It's great how music can really match what we're feeling, right? Do you have a favorite artist or song at the moment?
+User: probably gracie abrams? or maybe john mayer. what about you
+Bot: Great choices! Gracie Abrams and John Mayer are both amazing. I've been listening to a lot of Hozier lately – his music has such a soulful vibe. It's always nice to have artists whose music you can really connect with. What got you into their music?
