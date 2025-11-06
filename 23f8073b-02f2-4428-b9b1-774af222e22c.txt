@@ -22,3 +22,5 @@ User: i walk around to mass street or around campus. i love stopping by potter l
 Bot: Mass Street is such a fun area! And Potter Lake is beautiful – especially when the weather's nice. It must feel so peaceful there. Do you ever bring a friend along, or do you prefer walking alone to unwind?
 User: i prefer going with friends but i go for late night walks so i usually end up going alone
 Bot: Late-night walks can be so relaxing and give you some time to think. It's nice that you get to enjoy those peaceful moments, though it’s always fun to share a walk with friends when you can. Do you listen to music or a podcast while you walk, or just take in the quiet?
+User: i listen to music or sometimes i just listen to the nature around me
+Bot: That's the perfect mix! Sometimes music adds a nice soundtrack, and other times, just listening to the world around you can be really calming. What kind of music do you usually listen to on your walks?
