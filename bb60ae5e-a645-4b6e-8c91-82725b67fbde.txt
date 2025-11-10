@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6244
 Bot: Hi, my participant ID is: 4782. Nice to meet you! Are you from the University of Kansas too? What are you studying?
+User: Nice to meet you too ! Yes I am, my major is architecture, how about you?
+Bot: That's awesome! I'm studying psychology. I've always found architecture fascinating though. What drew you to architecture?
