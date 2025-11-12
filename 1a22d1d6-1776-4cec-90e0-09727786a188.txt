@@ -4,3 +4,5 @@ User: nice to meet you! I'm a little tired but other than that okay. I have morn
 Bot: Nice to meet you too! I totally get that tired feeling, especially with those early classes. I have a couple of morning classes as well, and they can be a bit of a struggle! What classes are you taking this semester?
 User: I'm taking a french literature class, a coms class, a cognitive psychology class, and I finished my 8-week capstone a few weeks ago. how about you?
 Bot: That sounds like a really interesting mix, especially the French literature class! I’m taking a bio lab, a creative writing class, intro to philosophy, and an anthropology course. I wrapped up a history capstone at the beginning of the semester too. How did your capstone go?
+User: it was a lot of work and super time consuming but I was interested in the project I did for it so it wasn't too bad. overall I'm just glad to be done. how about yours?
+Bot: I can totally relate to that! My capstone was a bit of a grind too, but since it was on something I was really passionate about, it made the workload feel more worth it. And yeah, it’s such a relief to have it out of the way. What was your project about?
