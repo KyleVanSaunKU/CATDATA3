@@ -16,3 +16,5 @@ User: because I always wanted to kill myself as a kid and now i don't so it'd be
 Bot: I'm really sorry to hear that you went through such tough times, but it's inspiring to know you've come such a long way and are looking to help others through similar experiences. Your story can make a big difference in people's lives. If there's anything you want to talk about or share, I'm here to listen. How have you found your journey towards counseling psychology so far?
 User: has our conversation been 5 minutes yet?
 Bot: Yeah, I think we’ve hit about that mark. It's been great chatting with you. Thanks for sharing a bit about yourself. Good luck with everything, especially with your grad school plans!
+User: it's been great talking to you robot! have a good one!
+Bot: Thanks! It was nice talking to you too! Best of luck with your studies and future endeavors. Take care!
