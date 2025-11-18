@@ -10,3 +10,5 @@ User: Oh awesome! I can actually relate to that because I was a student teacher 
 Bot: That's amazing! Working with 5th graders must have been so rewarding and challenging at the same time. Good luck with your internship applications! I'm sure your experiences with teaching and your passion for sports will make you a standout candidate. Are there any particular teams or companies you’re really hoping to intern with this summer?
 User: the cubs or the brewers for sure
 Bot: Both are fantastic choices! Interning with either of those teams would be an incredible experience and a great step toward your dream job with the Cubs. Fingers crossed for you! Are there any specific projects or types of work you'd love to dive into during your internship?
+User: Not really! Seems like time is up. Nice chatting with you! Goodbye
+Bot: It was great chatting with you too! Best of luck with your internship applications, and I hope you achieve your dream job with the Cubs. Goodbye and take care!
