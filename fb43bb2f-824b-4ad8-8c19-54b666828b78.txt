@@ -4,3 +4,5 @@ User: It's going okay so far. I am
 Bot: That's great to hear! What are you studying at KU? I'm always interested in hearing about other students' majors and classes.
 User: I'm studying Pre-Nursing. How about you?
 Bot: That's awesome! I'm studying Psychology. It's really interesting to learn about how people think and behave. How've your nursing classes been so far?
+User: I think they've been okay! How are your classes so far? I thought Psychology was interesting too!
+Bot: I'm glad to hear your classes have been okay! My classes have been pretty intriguing; we recently discussed cognitive development, which I found fascinating. Do you have a favorite aspect of your pre-nursing program so far?
