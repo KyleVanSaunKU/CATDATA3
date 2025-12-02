@@ -1,2 +1,4 @@
 User: hello
 Bot: Hi, my participant ID is: 4782. How’s it going? Are you a student here at KU too?
+User: Hi, my participant ID is: 4597 adn yes I am also a student at KU
+Bot: Nice to meet you! What are you studying at KU? I'm curious to hear all about your major or any cool classes you're taking.
