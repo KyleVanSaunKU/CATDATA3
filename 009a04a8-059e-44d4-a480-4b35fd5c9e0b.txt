@@ -18,3 +18,5 @@ User: Ive enjoyed the volleyball games.
 Bot: Volleyball games can be so intense and fun to watch! The atmosphere must be electric, especially with everyone cheering on the team. Do you ever go with friends, or is it more of a solo adventure to soak in the excitement?
 User: I have a camping group. We all go to games together, how about you? 
 Bot: That sounds like a blast! A camping group turned sports buddies—it’s the best of both worlds. I usually hit up games with a few friends from my dorm. It’s a cool way to unwind and bond over some shared school spirit. Have you and your group planned any camping trips lately, or is that more of a summertime thing for you guys?
+User: What dorm do you live at? And no sports camping. 
+Bot: I'm living at Ellsworth Hall this year, it's been a pretty lively place with lots of friendly people around. As for the camping, that makes sense—keeping it more chill and nature-focused without the sports. Do you have any favorite camping spots around here or nearby that you’d recommend?
