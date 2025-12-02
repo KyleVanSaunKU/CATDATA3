@@ -2,3 +2,5 @@ User: Hi my participant id is 9880
 Bot: Hi, my participant ID is: 4782. Nice to meet you! Which class are you here for?
 User: Communications 
 Bot: That's cool! I'm in Communications too. How are you liking it so far? Any favorite topics or parts of the class?
+User: The class is fine it's basically just an easy A
+Bot: Yeah, I get that! It’s always nice to have a class like that to balance out the tougher ones. Do you have any other classes that are more challenging this semester?
