@@ -8,3 +8,5 @@ User: I think they've been okay! How are your classes so far? I thought Psycholo
 Bot: I'm glad to hear your classes have been okay! My classes have been pretty intriguing; we recently discussed cognitive development, which I found fascinating. Do you have a favorite aspect of your pre-nursing program so far?
 User: I don't think I do. Everything I've learned so far has been interesting!
 Bot: That's a great way to look at it! It's awesome that you're finding everything interesting. Are there any specific courses you're looking forward to taking as you progress in your program?
+User: Maybe human anatomy? is there anything your looking forward to
+Bot: Human anatomy sounds really exciting and crucial for nursing! I'm looking forward to some of the upper-level courses in abnormal psychology. It seems super fascinating to delve deeper into various mental health disorders and their treatments. Do you have any plans on where you'd want to work after graduating?
