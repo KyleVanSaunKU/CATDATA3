@@ -11,3 +11,5 @@ Bot: Anatomy is really interesting! It's amazing how complex and intricate the h
 User: 
 No not really I do want to take the lab tho it sounds interesting to me 
 Bot: That sounds like a great opportunity! Labs can really bring the material to life. Is there anything specific you're hoping to get out of the lab experience?
+User: No I just think it's cool to look at. The human body is so fascinating 
+Bot: Absolutely, it really is! There's so much to discover and explore. Do you have any plans on what you want to do after you finish your degree? Maybe something in healthcare or research?
