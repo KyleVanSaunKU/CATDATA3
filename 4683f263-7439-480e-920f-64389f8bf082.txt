@@ -19,3 +19,5 @@ User: Still weight the options. Radiology doesn't require med school so I need t
 Bot: That makes sense. It's a big decision to make, considering the time and commitment involved with med school. It's great that you're thinking it through. Either way, both paths lead to impactful careers. Are there any aspects or experiences that are helping you lean towards one over the other so far?
 User: No not really I just need to sit down and weight my options 
 Bot: That sounds like a good plan. Taking the time to really think it through will definitely help you make the best decision for yourself. If you ever want to talk about it more, I’m here! By the way, do you have any fun plans for the weekend to take a break from school stuff?
+User: Just hang out with friends. Was good talking with you tho, goodbye 
+Bot: That sounds like a perfect way to relax! It was great talking to you too. Have an awesome time with your friends. Goodbye!
