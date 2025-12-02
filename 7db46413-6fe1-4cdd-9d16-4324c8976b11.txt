@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 3045
+Bot: Hi, my participant ID is: 4782. It's nice to meet you! How's your day going so far? I hope everything's been good on your end. What are you studying here at the University of Kansas?
