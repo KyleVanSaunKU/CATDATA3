@@ -8,3 +8,5 @@ User: Early Greek, imperial roman, WWI and American civil war
 Bot: Those are all such intriguing periods with so much to unpack! The strategies and politics of those times are fascinating. Do you find any connections between those historical events and what you're learning in Aerospace? Like maybe the evolution of technology and how it’s influenced by history?
 User: No not really. Aerospace is more math heavy. There were some historical elements in intro to aerospace but its nothing major to the whole of engineering. 
 Bot: That makes sense! It must be interesting shifting between the math-heavy perspective of engineering and the rich narratives of history. Do you find it refreshing to have that balance in your studies, or is it ever challenging to switch gears between the two?
+User: Its like speaking two languages. One just can switch over to the other without it being a big mental switch. 
+Bot: I can totally see that! It must keep things exciting though, being able to tap into such different areas of study. Do you have any favorite study spots on campus where you feel most inspired or focused when you're diving into either subject?
