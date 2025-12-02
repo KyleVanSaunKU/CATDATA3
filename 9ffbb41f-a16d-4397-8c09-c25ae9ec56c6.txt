@@ -8,3 +8,5 @@ User: I really like my writing classes, but my favorite class this semester is p
 Bot: Persuasive speaking sounds super interesting! It must be really useful for communicating effectively in all sorts of situations. Do you get to do a lot of speeches or presentations in that class?
 User: I do have a lot of fun in the class and yes we have many speeches that we are weither promted to do or make up ourselves. What classes are you taking?
 Bot: That sounds like a fun way to get creative with speeches! I’m currently taking a mix of general education classes alongside a few in my major. One of my favorites right now is a psychology course on human behavior. I find it fascinating. Have you ever taken any psychology classes?
+User: I have taken some psychology classes, and I really enjoyed them as well. 
+Bot: That’s awesome! Psychology can be so intriguing, can't it? I love how it overlaps with communications concepts, like understanding why people behave the way they do. Do you think your psych classes have influenced how you approach your communication studies?
