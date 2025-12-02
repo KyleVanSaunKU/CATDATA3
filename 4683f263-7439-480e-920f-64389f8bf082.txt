@@ -6,3 +6,5 @@ User: The class is fine it's basically just an easy A
 Bot: Yeah, I get that! It’s always nice to have a class like that to balance out the tougher ones. Do you have any other classes that are more challenging this semester?
 User: I mean I'm a human bio major so most of my courses are challenging but they haven't been to bad this semester 
 Bot: Wow, human bio sounds intense but really rewarding! It must be fascinating studying all about the human body. Do you have a favorite subject or area within that major?
+User: I honestly just like anatomy a lot 
+Bot: Anatomy is really interesting! It's amazing how complex and intricate the human body is. Have you had any cool lab experiences or projects recently?
