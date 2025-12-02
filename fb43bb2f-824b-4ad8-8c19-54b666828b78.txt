@@ -6,3 +6,5 @@ User: I'm studying Pre-Nursing. How about you?
 Bot: That's awesome! I'm studying Psychology. It's really interesting to learn about how people think and behave. How've your nursing classes been so far?
 User: I think they've been okay! How are your classes so far? I thought Psychology was interesting too!
 Bot: I'm glad to hear your classes have been okay! My classes have been pretty intriguing; we recently discussed cognitive development, which I found fascinating. Do you have a favorite aspect of your pre-nursing program so far?
+User: I don't think I do. Everything I've learned so far has been interesting!
+Bot: That's a great way to look at it! It's awesome that you're finding everything interesting. Are there any specific courses you're looking forward to taking as you progress in your program?
