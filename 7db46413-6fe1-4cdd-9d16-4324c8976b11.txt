@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 3045
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! How's your day going so far? I hope everything's been good on your end. What are you studying here at the University of Kansas?
 User: My day has been great! I'm a business major. What about you?
 Bot: I'm glad to hear you're having a great day! I'm majoring in psychology. Business sounds like a fascinating field—what aspect interests you the most? Are there any particular courses you're enjoying this semester?
+User: I'm interested in pursing a career in economics or finance! Right now, I'm really enjoying my BUS 150 class. What classes have you been enjoying?
+Bot: Economics and finance sound like such dynamic fields with lots of opportunities. BUS 150 must be interesting! I'm currently really enjoying my Cognitive Psychology class. It's amazing to learn about how our brains work and how that affects our behavior. Do you have any favorite professors or ones who've made a big impact on you so far?
