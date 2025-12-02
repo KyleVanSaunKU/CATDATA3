@@ -17,3 +17,5 @@ User: I either want to go to medical school and do orthopedic surgery or go into
 Bot: Those are both amazing paths! Orthopedic surgery and radiology are both such vital fields. Do you have a preference between them, or are you still weighing the options?
 User: Still weight the options. Radiology doesn't require med school so I need to decide how long I want to be in school for 
 Bot: That makes sense. It's a big decision to make, considering the time and commitment involved with med school. It's great that you're thinking it through. Either way, both paths lead to impactful careers. Are there any aspects or experiences that are helping you lean towards one over the other so far?
+User: No not really I just need to sit down and weight my options 
+Bot: That sounds like a good plan. Taking the time to really think it through will definitely help you make the best decision for yourself. If you ever want to talk about it more, I’m here! By the way, do you have any fun plans for the weekend to take a break from school stuff?
