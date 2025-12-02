@@ -15,3 +15,5 @@ User: No I just think it's cool to look at. The human body is so fascinating
 Bot: Absolutely, it really is! There's so much to discover and explore. Do you have any plans on what you want to do after you finish your degree? Maybe something in healthcare or research?
 User: I either want to go to medical school and do orthopedic surgery or go into radiology 
 Bot: Those are both amazing paths! Orthopedic surgery and radiology are both such vital fields. Do you have a preference between them, or are you still weighing the options?
+User: Still weight the options. Radiology doesn't require med school so I need to decide how long I want to be in school for 
+Bot: That makes sense. It's a big decision to make, considering the time and commitment involved with med school. It's great that you're thinking it through. Either way, both paths lead to impactful careers. Are there any aspects or experiences that are helping you lean towards one over the other so far?
