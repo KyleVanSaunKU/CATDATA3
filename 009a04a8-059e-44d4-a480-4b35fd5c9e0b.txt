@@ -32,3 +32,5 @@ User: I never really had to study too much for liberal art stuff. However I do s
 Bot: I can imagine! Math can be a real challenge, especially when it’s so central to a field like aerospace engineering. It’s great that you’re pushing through it, even if it’s not your favorite. Do you have any go-to study techniques or routines that help make the math-heavy subjects a bit easier to tackle?
 User: Study break study break study break. Thats how I usually do it. 
 Bot: That's a smart approach! Breaking it up into manageable chunks probably helps keep things fresh and less overwhelming. Plus, those breaks can be perfect for letting things sink in. Do you usually do something specific during your study breaks to clear your mind, or is it just a time to relax for a bit?
+User: I usually just play on my computer a bit or look at coin auctions. 
+Bot: That's a great way to switch gears and relax during breaks! Keeping your mind engaged but in a different way sounds ideal. It must be exciting to browse through coin auctions and maybe spot something unique. Have you recently found any interesting pieces or auctions while browsing?
