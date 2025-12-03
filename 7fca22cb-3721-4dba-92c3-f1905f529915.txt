@@ -10,3 +10,5 @@ User: yes a 6 page paper is my final
 Bot: A 6-page paper sounds like a bit of a challenge, but it’s a great opportunity to dive deep into a topic. Have you decided on what you’ll be writing about? 
 User: esthics 
 Bot: Ethics is such a thought-provoking topic, there's so much you can explore. Are you focusing on a particular aspect of ethics for your paper?
+User: Social medias impact on small beauty businesses 
+Bot: That’s a really intriguing angle! Social media can be such a powerful tool for small beauty businesses in reaching their audience. Have you found any surprising or interesting insights while researching this topic?
