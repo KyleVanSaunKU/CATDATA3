@@ -10,3 +10,5 @@ User: I have had both
 Bot: That's great! Have any of those projects or assignments been particularly interesting or challenging for you? 
 User: They are very interesting but not very challenging which is nice
 Bot: That's definitely a good balance to have. It's nice when you can dive into a topic you enjoy without too much stress. What do you like to do when you're not busy with classes? Any favorite hobbies or activities?
+User: I enjoy being outdoors what about you
+Bot: I love being outdoors too! There's something so refreshing about spending time in nature. I like to go hiking whenever I get the chance. Do you have any favorite spots around here to enjoy the outdoors?
