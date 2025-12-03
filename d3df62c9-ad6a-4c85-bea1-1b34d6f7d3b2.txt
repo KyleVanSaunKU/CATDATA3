@@ -14,3 +14,5 @@ User: We might go to New York for Christmas a couple days after or before christ
 Bot: That sounds amazing! New York during the holidays is so magical with all the lights and decorations. Have you been there during Christmas before, or will this be your first time experiencing it?
 User: we usually go nearly every year to new york, I havent been over the holiday season though!
 Bot: That's exciting then! I'm sure it'll be a wonderful experience seeing the city all decked out for the holidays. Do you have anything in particular you're hoping to see or do while you're there this time?
+User: i hope to shop and see all the lights, maybe try ice skating lol
+Bot: That sounds like so much fun! Shopping there must be incredible, especially with all the festive displays. And ice skating in New York sounds like such a classic holiday activity. Have you ever been ice skating before, or will this be a new adventure for you?
