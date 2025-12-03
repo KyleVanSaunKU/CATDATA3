@@ -6,3 +6,5 @@ User: Great to meet you as well! I am a communications major and I would say I e
 Bot: I'm actually majoring in psychology, and it’s been pretty fascinating! I’m taking a class on cognitive psychology right now, and it’s been really eye-opening. Do you have a favorite topic within communications?
 User: That does sound very fascinating! My favorite topic within communications is organizational communication
 Bot: Organizational communication is such a crucial field! Understanding how communication flows within different structures can make a huge difference in effectiveness. Have you had any projects or assignments related to that topic? 
+User: I have had both
+Bot: That's great! Have any of those projects or assignments been particularly interesting or challenging for you? 
