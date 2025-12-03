@@ -10,3 +10,5 @@ User: Where is the Flint HIlls area
 Bot: The Flint Hills are mostly in the eastern part of central Kansas. They're known for their tallgrass prairie, which is pretty unique, and there's this beautiful scenic byway that runs through them. If you get a chance, visiting the Tallgrass Prairie National Preserve is totally worth it. Have you been on any road trips or explored places outside of campus yet?
 User: Have you been to the flint hills? 
 Bot: Yeah, I've been a couple of times, and I really enjoyed it. The view is just amazing, especially around sunset. It's a nice break from campus life. Have you had any favorite spots around here yet?
+User: The flint hills is my favorite spot 
+Bot: That's awesome! I can see why, it really is a special place. Do you enjoy hiking or taking photos there? Or is there something else you like to do when you visit?
