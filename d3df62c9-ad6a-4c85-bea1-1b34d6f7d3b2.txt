@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 9828
+Bot: Hi, my participant ID is: 4782. It's nice to meet you! Are you excited about the experiment? I'm actually kind of curious about how it's going to go!
