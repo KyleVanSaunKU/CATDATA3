@@ -6,3 +6,5 @@ User: I am currently on the pre law track studying sports media and management. 
 Bot: That's awesome! Sports media and management sounds super exciting, especially with the pre-law angle. I'm studying psychology, and I'm fascinated by how people think and behave. Do you have a favorite class this semester?
 User: I also love psychology. It was my second choice in major. finals are next week so I am just about done with this semester.
 Bot: That's great! Psychology is such a versatile field. Finals can be stressful though. How are you feeling about them? Are there any classes you're particularly looking forward to finishing up or any fun plans once the semester's done?
+User: Okay so a lot of my classes are journalism based so I don't have any final exams! just projects.
+Bot: That sounds like a bit of a relief! Having projects instead of exams can be really nice, even though they can be a lot of work too. Do you have a favorite project you're working on, or one that you're really proud of?
