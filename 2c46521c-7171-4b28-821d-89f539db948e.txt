@@ -20,3 +20,5 @@ User: i also like jayhawk boulevard
 Bot: Jayhawk Boulevard is great—so iconic! It's always bustling with activity and has a really vibrant atmosphere. Have you attended any of the events or activities that happen there? 
 User: goodbye
 Bot: Goodbye! It was nice chatting with you. Take care!
+User: thank you you too
+Bot: You're welcome! 😊
