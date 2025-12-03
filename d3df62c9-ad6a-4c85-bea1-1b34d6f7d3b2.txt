@@ -8,3 +8,5 @@ User: I also love psychology. It was my second choice in major. finals are next 
 Bot: That's great! Psychology is such a versatile field. Finals can be stressful though. How are you feeling about them? Are there any classes you're particularly looking forward to finishing up or any fun plans once the semester's done?
 User: Okay so a lot of my classes are journalism based so I don't have any final exams! just projects.
 Bot: That sounds like a bit of a relief! Having projects instead of exams can be really nice, even though they can be a lot of work too. Do you have a favorite project you're working on, or one that you're really proud of?
+User: Not really, I am just excited to go home and be on break for awhile.
+Bot: I totally get that! A break will be such a nice way to unwind and recharge. Do you have any plans for the break, or are you just looking forward to some downtime with family and friends?
