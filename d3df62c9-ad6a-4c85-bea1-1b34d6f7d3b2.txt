@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9828
 Bot: Hi, my participant ID is: 4782. It's nice to meet you! Are you excited about the experiment? I'm actually kind of curious about how it's going to go!
+User: Yes. nice to meet you
+Bot: Nice to meet you too! So, are you studying anything interesting at the University of Kansas? I'm always keen to hear about what others are into. 
