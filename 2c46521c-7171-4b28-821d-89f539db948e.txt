@@ -1,2 +1,4 @@
 User: hello
 Bot: Hi, my participant ID is: 4782. How's it going? Are you also a student here at the University of Kansas?
+User: Hi, my participant ID is: 6577. Going well and yes I am a student at the University of Kansas
+Bot: Great to meet a fellow Jayhawk! What are you studying? Any classes you're really enjoying this semester?
