@@ -16,3 +16,5 @@ User: I really like campus and occasionally stroll down to potter lake its beaut
 Bot: Potter Lake is such a peaceful spot! It's a perfect place to unwind and soak in the surroundings. Do you usually go alone, or do you have friends who join you?
 User: it really depends 
 Bot: Totally understand that! Sometimes it’s nice to have company, and other times it's good to just enjoy the peace and quiet alone. Do you have any other favorite places on campus?
+User: i also like jayhawk boulevard
+Bot: Jayhawk Boulevard is great—so iconic! It's always bustling with activity and has a really vibrant atmosphere. Have you attended any of the events or activities that happen there? 
