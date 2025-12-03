@@ -12,3 +12,5 @@ User: Have you been to the flint hills?
 Bot: Yeah, I've been a couple of times, and I really enjoyed it. The view is just amazing, especially around sunset. It's a nice break from campus life. Have you had any favorite spots around here yet?
 User: The flint hills is my favorite spot 
 Bot: That's awesome! I can see why, it really is a special place. Do you enjoy hiking or taking photos there? Or is there something else you like to do when you visit?
+User: I like diving there. What is your favorite memory of the flint hills?
+Bot: Diving sounds so exhilarating, especially in such a scenic place! My favorite memory would probably be watching a sunset with some friends during a road trip. The way the sky turns all those shades of pink and orange over the hills was just breathtaking. What's your favorite part about diving there?
