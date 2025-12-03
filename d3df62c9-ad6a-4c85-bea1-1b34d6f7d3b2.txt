@@ -4,3 +4,5 @@ User: Yes. nice to meet you
 Bot: Nice to meet you too! So, are you studying anything interesting at the University of Kansas? I'm always keen to hear about what others are into. 
 User: I am currently on the pre law track studying sports media and management. are you?
 Bot: That's awesome! Sports media and management sounds super exciting, especially with the pre-law angle. I'm studying psychology, and I'm fascinated by how people think and behave. Do you have a favorite class this semester?
+User: I also love psychology. It was my second choice in major. finals are next week so I am just about done with this semester.
+Bot: That's great! Psychology is such a versatile field. Finals can be stressful though. How are you feeling about them? Are there any classes you're particularly looking forward to finishing up or any fun plans once the semester's done?
