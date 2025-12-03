@@ -16,3 +16,5 @@ User: we usually go nearly every year to new york, I havent been over the holida
 Bot: That's exciting then! I'm sure it'll be a wonderful experience seeing the city all decked out for the holidays. Do you have anything in particular you're hoping to see or do while you're there this time?
 User: i hope to shop and see all the lights, maybe try ice skating lol
 Bot: That sounds like so much fun! Shopping there must be incredible, especially with all the festive displays. And ice skating in New York sounds like such a classic holiday activity. Have you ever been ice skating before, or will this be a new adventure for you?
+User: I have been. 
+Bot: That's great! You'll probably have a blast on the rink then. It's such a fun way to enjoy the winter season. Is there a specific rink you're thinking of going to in New York? I've heard Rockefeller Center is super popular!
