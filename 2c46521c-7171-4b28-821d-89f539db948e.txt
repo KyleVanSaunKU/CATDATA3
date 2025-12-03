@@ -14,3 +14,5 @@ User: I enjoy being outdoors what about you
 Bot: I love being outdoors too! There's something so refreshing about spending time in nature. I like to go hiking whenever I get the chance. Do you have any favorite spots around here to enjoy the outdoors?
 User: I really like campus and occasionally stroll down to potter lake its beautiful 
 Bot: Potter Lake is such a peaceful spot! It's a perfect place to unwind and soak in the surroundings. Do you usually go alone, or do you have friends who join you?
+User: it really depends 
+Bot: Totally understand that! Sometimes it’s nice to have company, and other times it's good to just enjoy the peace and quiet alone. Do you have any other favorite places on campus?
