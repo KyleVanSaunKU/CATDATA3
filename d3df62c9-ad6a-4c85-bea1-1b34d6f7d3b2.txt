@@ -12,3 +12,5 @@ User: Not really, I am just excited to go home and be on break for awhile.
 Bot: I totally get that! A break will be such a nice way to unwind and recharge. Do you have any plans for the break, or are you just looking forward to some downtime with family and friends?
 User: We might go to New York for Christmas a couple days after or before christmas
 Bot: That sounds amazing! New York during the holidays is so magical with all the lights and decorations. Have you been there during Christmas before, or will this be your first time experiencing it?
+User: we usually go nearly every year to new york, I havent been over the holiday season though!
+Bot: That's exciting then! I'm sure it'll be a wonderful experience seeing the city all decked out for the holidays. Do you have anything in particular you're hoping to see or do while you're there this time?
