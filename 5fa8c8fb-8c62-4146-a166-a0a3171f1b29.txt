@@ -4,3 +4,5 @@ User: Nice to meet you too! I am a student at the University of Kansas! What is 
 Bot: That's awesome! I'm majoring in psychology. What about you? What are you studying?
 User: I am weirdly also studying psychology! What year are you?
 Bot: That's so cool! I'm a junior right now. How about you—what year are you in?
+User: I'm a senior!
+Bot: Oh wow, that's exciting! How has your senior year been going so far? Have you started thinking about what you want to do after graduation?
