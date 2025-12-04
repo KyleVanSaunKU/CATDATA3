@@ -4,3 +4,5 @@ User: My day has been good! Went to my 3 classes, meal prepped, got a spray tan 
 Bot: That sounds like a pretty productive day! My day has been good too—just had a couple of morning lectures, then I hit the library for a bit. Now, I'm just relaxing and catching up on some Netflix. What's your major?
 User: I'm a human biology major with a pre-medicine minor on the premed track. What's your major?
 Bot: That's awesome! I'm studying psychology. I'm really interested in how the brain works and how it influences behavior. The premed track sounds intense but exciting. How are you finding it so far?
+User: I love it so far! I like my classes that are more focused on my major rather than the core 34 classes I have to take. I just finished a psychology exam actually, how do you like that so far?
+Bot: I'm glad to hear you're enjoying your major-focused classes! Those always seem to be the most engaging. Psychology has been fascinating for me so far, especially when we dive into topics like cognitive processes and social behavior. How did your psychology exam go? Do you think you did well?
