@@ -4,3 +4,5 @@ User: I am studying Accounting and am very passionate fitness.
 Bot: That's awesome! Accounting is such a practical field with lots of opportunities. And fitness is a great passion to have—it's so important for both physical and mental health. Do you have a specific sport or workout routine you enjoy, or is there a part of fitness that you're most passionate about?
 User: I love running and weightlifting at the gym! 
 Bot: That's great! Running and weightlifting make for a perfect combination of cardio and strength training. Do you have a favorite running route around Lawrence or a gym you like to go to? I'm always looking for recommendations! 
+User: Yes, I love the cross country trails at Rock Chalk park
+Bot: Those trails are fantastic! They offer such a nice mix of beautiful scenery and challenging terrain. How often do you get to run there? It must be a great way to clear your mind after classes.
