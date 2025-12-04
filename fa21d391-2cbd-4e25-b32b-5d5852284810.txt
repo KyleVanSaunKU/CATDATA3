@@ -8,3 +8,5 @@ User: Nice! I've always been huge into sports so why not choose something I love
 Bot: That makes perfect sense. It's great that you're able to combine something you're passionate about with something you're naturally good at. Do you have any specific career goals in mind, like working with a particular sports team or organization? 
 User: Im still trying to figure it out, but I'd love to be a coach in the sports world. What's your goal?
 Bot: Coaching sounds like a fantastic goal! For me, I'm considering going into counseling or maybe even becoming a psychologist. I really like the idea of helping people work through their challenges. Do you play any sports yourself?
+User: goodbye
+Bot: Goodbye! It was nice chatting with you. Take care!
