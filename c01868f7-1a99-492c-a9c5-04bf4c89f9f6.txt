@@ -10,3 +10,5 @@ User: Yes cognitive processes are definitely fascinating! I got 93% on the multi
 Bot: That's fantastic, congrats on the 93%! Writing about stress and health sounds really engaging. I bet you had some interesting insights in your essay. Stress management is so relevant, especially for students like us. What's the most surprising thing you learned while researching?
 User: I'd say probably just how people have different outlooks on situations you know
 Bot: Totally, it's interesting how perspective can really shape how we respond to stress. It's amazing how two people can experience the same situation but feel so differently about it. Did the research give you any new strategies for managing stress in your own life?
+User: Oh yes definitely! Well I have to go now, but it was so nice to talk to you! Good luck with your major!
+Bot: It was great talking to you too! Good luck with your studies and enjoy your date party. Hope to chat again sometime soon. Take care!
