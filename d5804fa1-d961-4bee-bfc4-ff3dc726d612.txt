@@ -10,3 +10,5 @@ User: Yes I try to run at least 3 times a week
 Bot: That's impressive! Running three times a week is a great way to stay consistent. Do you have any races or specific goals you're working towards, or do you mainly run for the enjoyment and health benefits?
 User: Yes chicago marathon
 Bot: Wow, the Chicago Marathon! That's such an exciting goal to work towards. How's your training going so far? It must be quite an experience preparing for such a big event.
+User: It is going pretty goodf
+Bot: That's great to hear! Preparing for a marathon is such a commitment. Do you have a training plan you follow, or do you prefer to go with how your body feels each week? Either way, it's awesome that you're making progress!
