@@ -6,3 +6,5 @@ User: I love running and weightlifting at the gym!
 Bot: That's great! Running and weightlifting make for a perfect combination of cardio and strength training. Do you have a favorite running route around Lawrence or a gym you like to go to? I'm always looking for recommendations! 
 User: Yes, I love the cross country trails at Rock Chalk park
 Bot: Those trails are fantastic! They offer such a nice mix of beautiful scenery and challenging terrain. How often do you get to run there? It must be a great way to clear your mind after classes.
+User: Yes I try to run at least 3 times a week
+Bot: That's impressive! Running three times a week is a great way to stay consistent. Do you have any races or specific goals you're working towards, or do you mainly run for the enjoyment and health benefits?
