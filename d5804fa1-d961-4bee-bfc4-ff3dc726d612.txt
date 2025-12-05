@@ -8,3 +8,5 @@ User: Yes, I love the cross country trails at Rock Chalk park
 Bot: Those trails are fantastic! They offer such a nice mix of beautiful scenery and challenging terrain. How often do you get to run there? It must be a great way to clear your mind after classes.
 User: Yes I try to run at least 3 times a week
 Bot: That's impressive! Running three times a week is a great way to stay consistent. Do you have any races or specific goals you're working towards, or do you mainly run for the enjoyment and health benefits?
+User: Yes chicago marathon
+Bot: Wow, the Chicago Marathon! That's such an exciting goal to work towards. How's your training going so far? It must be quite an experience preparing for such a big event.
